@@ -1,0 +1,30 @@
+{
+  "python": "3.13.7 (main, Aug 14 2025, 11:12:11) [Clang 17.0.0 (clang-1700.0.13.3)]",
+  "executable": "/Users/soonyangtransport/thaistockinsight/venv/bin/python",
+  "openssl": "OpenSSL 3.5.2 5 Aug 2025",
+  "platform": "macOS-15.6.1-arm64-arm-64bit-Mach-O",
+  "tz_env": null,
+  "key_versions": {
+    "pandas": "2.3.3",
+    "numpy": "2.3.3",
+    "yfinance": "0.2.66",
+    "lxml": "6.0.2",
+    "html5lib": "ERR:ModuleNotFoundError",
+    "thaifin": "unknown",
+    "python-Levenshtein": "ERR:ModuleNotFoundError"
+  },
+  "tests": {
+    "sp500_read_html": {
+      "ok": false,
+      "err": "HTTP Error 403: Forbidden"
+    },
+    "thaifin_list": {
+      "ok": true,
+      "count": 927
+    },
+    "yfinance_fast_info": {
+      "ok": true,
+      "last_price": 262.239990234375
+    }
+  }
+}
