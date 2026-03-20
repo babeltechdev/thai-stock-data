@@ -1,7 +1,7 @@
 symbol,sector,last_price,intrinsic_value,margin_%,pt_mean,pt_median,pt_high,pt_low,pt_count,rec_mean,last_update,source
-2S,Basic Materials,2.5799999237060547,2.4237170673125608,-6.05747523313879,,,,,,,,yfinance.info/recommendations
-A,Real Estate,4.84,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-A5,Real Estate,1.850000023841858,4.17194983804204,125.51079915005813,,,,,,,,yfinance.info/recommendations
+2S,Basic Materials,2.5799999237060547,2.4070825689678155,-6.702223250063169,,,,,,,,yfinance.info/recommendations
+A,Real Estate,4.840000152587891,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+A5,Real Estate,1.850000023841858,4.171949837108274,125.51079909958432,,,,,,,,yfinance.info/recommendations
 AAI,Consumer Defensive,3.3399999141693115,9.293601113472537,178.25153749394454,4.95,4.95,6.2,3.7,2.0,2.0,1970-01-01,yfinance.info/recommendations
 AAV,Industrials,1.059999942779541,8.617015118156608,712.925998426094,1.28333,1.26,1.7,0.9,9.0,3.0,1970-01-01,yfinance.info/recommendations
 ABM,Utilities,0.5899999737739563,-1.000715515243103,-269.61280673319186,,,,,,,,yfinance.info/recommendations
@@ -9,313 +9,313 @@ ACAP,Unknown,0.33,14.074047855793616,4164.862986604126,,,,,,,,yfinance.info/reco
 ACC,Industrials,0.3799999952316284,-0.07582137214549763,-119.95299292024487,,,,,,,,yfinance.info/recommendations
 ACE,Utilities,1.2799999713897705,1.0906420695358228,-14.79358641300209,,,,,,,,yfinance.info/recommendations
 ACG,Consumer Cyclical,0.6200000047683716,1.3238449702894164,113.52338066255294,,,,,,,,yfinance.info/recommendations
-ADB,Basic Materials,0.5899999737739563,0.5873883023830234,-0.44265618763120074,,,,,,,,yfinance.info/recommendations
-ADD,Communication Services,3.5199999809265137,3.4456191053300773,-2.1130930681669566,,,,,,,,yfinance.info/recommendations
-ADVANC,Communication Services,376.0,210.61280681240171,-43.98595563499955,386.16666,383.0,450.0,340.0,18.0,2.05263,1970-01-01,yfinance.info/recommendations
+ADB,Basic Materials,0.5899999737739563,0.5836985454200397,-1.068038751528961,,,,,,,,yfinance.info/recommendations
+ADD,Communication Services,3.5199999809265137,3.449131908818793,-2.013297513969507,,,,,,,,yfinance.info/recommendations
+ADVANC,Communication Services,376.0,210.84006371551132,-43.92551496927891,386.16666,383.0,450.0,340.0,18.0,2.05263,1970-01-01,yfinance.info/recommendations
 ADVICE,Technology,5.449999809265137,6.166369919956255,13.144406160772167,6.78,6.8,7.2,6.4,5.0,,1970-01-01,yfinance.info/recommendations
 AE,Consumer Cyclical,0.0799999982118606,-0.10609611796354838,-232.62015041872695,,,,,,,,yfinance.info/recommendations
-AEONTS,Financial Services,88.25,39.678703284411434,-55.03829656157344,113.4,119.5,137.0,80.0,10.0,2.6,1970-01-01,yfinance.info/recommendations
-AF,Financial Services,0.3600000143051147,-1.3043214776917411,-462.31150718407343,,,,,,,,yfinance.info/recommendations
+AEONTS,Financial Services,88.25,164.58327908204353,86.49663352072922,113.4,119.5,137.0,80.0,10.0,2.6,1970-01-01,yfinance.info/recommendations
+AF,Financial Services,0.3600000143051147,-1.304321473380821,-462.3115059865957,,,,,,,,yfinance.info/recommendations
 AFC,Consumer Cyclical,3.200000047683716,11.51712095267315,259.91002440795864,,,,,,,,yfinance.info/recommendations
 AGE,Energy,1.3200000524520874,7.177158156059979,443.7240811261628,,,,,,,,yfinance.info/recommendations
 AH,Consumer Cyclical,13.0,26.987043176001798,107.59263981539844,15.025,15.15,15.7,14.1,4.0,2.25,1970-01-01,yfinance.info/recommendations
-AHC,Healthcare,12.800000190734863,17.139423621193046,33.901745045279185,,,,,,,,yfinance.info/recommendations
+AHC,Healthcare,12.800000190734863,17.139034889841053,33.89870808163699,,,,,,,,yfinance.info/recommendations
 AI,Industrials,2.940000057220459,6.4007618591618645,117.71298416957467,,,,,,,,yfinance.info/recommendations
 AIE,Consumer Defensive,1.309999942779541,1.3691565513764214,4.515771845864566,,,,,,,,yfinance.info/recommendations
-AIMCG,Real Estate,1.2699999809265137,0.7196398255660562,-43.335445954806126,,,,,,,,yfinance.info/recommendations
-AIMIRT,Real Estate,10.899999618530272,12.77912264621756,17.23966140781081,12.2,12.2,12.2,12.2,1.0,2.0,1970-01-01,yfinance.info/recommendations
-AIRA,Financial Services,1.14,-0.16827358152577573,-114.76084048471715,,,,,,,,yfinance.info/recommendations
+AIMCG,Real Estate,1.2699999809265137,0.7196398253920137,-43.335445968510264,,,,,,,,yfinance.info/recommendations
+AIMIRT,Real Estate,10.899999618530272,12.779122643126971,17.23966137945678,12.2,12.2,12.2,12.2,1.0,2.0,1970-01-01,yfinance.info/recommendations
+AIRA,Financial Services,1.1399999856948853,-0.16827358099645084,-114.76084062350931,,,,,,,,yfinance.info/recommendations
 AIT,Technology,4.820000171661377,7.200915103892208,49.396573598257106,,,,,,,,yfinance.info/recommendations
 AJ,Consumer Cyclical,2.619999885559082,-7.456865616763749,-384.6132039113631,,,,,,,,yfinance.info/recommendations
 AJA,Technology,0.1700000017881393,-0.05178622599795384,-130.4624855607307,,,,,,,,yfinance.info/recommendations
 AKP,Industrials,0.6800000071525574,1.8616985336069911,173.77919323893784,,,,,,,,yfinance.info/recommendations
 AKR,Industrials,0.8999999761581421,3.896041140702885,332.8934715458591,,,,,,,,yfinance.info/recommendations
-AKS,Real Estate,0.03,-2.065695000435053,-6985.650001450176,,,,,,,,yfinance.info/recommendations
+AKS,Real Estate,0.0299999993294477,-2.0656950006872763,-6985.650156197205,,,,,,,,yfinance.info/recommendations
 ALLA,Industrials,1.2200000286102295,4.638071054174626,280.16974962354,,,,,,,,yfinance.info/recommendations
-ALLY,Real Estate,4.28000020980835,5.428275326080685,26.82885654166249,5.0,5.0,5.0,5.0,1.0,,1970-01-01,yfinance.info/recommendations
-ALPHAX,Real Estate,0.4399999976158142,0.5543243254256317,25.982801915749036,,,,,,,,yfinance.info/recommendations
+ALLY,Real Estate,4.28000020980835,5.428275324767874,26.828856510989336,5.0,5.0,5.0,5.0,1.0,,1970-01-01,yfinance.info/recommendations
+ALPHAX,Real Estate,0.4399999976158142,0.5543243254728136,25.982801926472206,,,,,,,,yfinance.info/recommendations
 ALT,Technology,1.0299999713897705,1.328937377456081,29.023049938822503,,,,,,,,yfinance.info/recommendations
-ALUCON,Basic Materials,218.0,176.83709650784445,-18.882065822089704,,,,,,,,yfinance.info/recommendations
+ALUCON,Basic Materials,218.0,175.9588741654942,-19.28492010757147,,,,,,,,yfinance.info/recommendations
 AMA,Industrials,3.940000057220459,15.161216201205033,284.80243606648,,,,,,,,yfinance.info/recommendations
-AMANAH,Financial Services,0.6299999952316284,-0.8017304741759592,-227.25880638795743,0.86,0.86,0.86,0.86,1.0,,1970-01-01,yfinance.info/recommendations
+AMANAH,Financial Services,0.6299999952316284,-0.8017304716540191,-227.25880598764948,0.86,0.86,0.86,0.86,1.0,,1970-01-01,yfinance.info/recommendations
 AMARC,Technology,3.259999990463257,3.2682308946184895,0.2524817232917539,4.3,4.3,4.3,4.3,1.0,,1970-01-01,yfinance.info/recommendations
-AMARIN,Communication Services,2.900000095367432,2.2530461587615993,-22.308755701053286,,,,,,,,yfinance.info/recommendations
-AMATA,Real Estate,18.700000762939453,8.734715116406655,-53.2902954008562,22.48214,22.525,35.0,15.4,14.0,1.8,1970-01-01,yfinance.info/recommendations
-AMATAR,Real Estate,6.650000095367432,2.4709493193920262,-62.84286791043272,,,,,,,,yfinance.info/recommendations
-AMATAV,Real Estate,2.0,0.5449092226572726,-72.75453886713636,,,,,,,,yfinance.info/recommendations
-AMC,Basic Materials,2.119999885559082,-2.414217173987977,-213.8781747316606,,,,,,,,yfinance.info/recommendations
+AMARIN,Communication Services,2.900000095367432,2.2561636013367443,-22.201257684755806,,,,,,,,yfinance.info/recommendations
+AMATA,Real Estate,18.700000762939453,8.734715116391865,-53.29029540093529,22.48214,22.525,35.0,15.4,14.0,1.8,1970-01-01,yfinance.info/recommendations
+AMATAR,Real Estate,6.650000095367432,2.4709493187944354,-62.84286791941906,,,,,,,,yfinance.info/recommendations
+AMATAV,Real Estate,2.0,0.5449092227238066,-72.75453886380967,,,,,,,,yfinance.info/recommendations
+AMC,Basic Materials,2.119999885559082,-2.3581132854120987,-211.23176475031843,,,,,,,,yfinance.info/recommendations
 AMR,Industrials,0.3199999928474426,-1.5880238380148992,-596.2574604718747,,,,,,,,yfinance.info/recommendations
-ANAN,Real Estate,0.3700000047683716,0.1799544601566363,-51.363660043925705,0.5,0.5,0.5,0.5,1.0,5.0,1970-01-01,yfinance.info/recommendations
+ANAN,Real Estate,0.3700000047683716,0.17995446017860892,-51.36366003798716,0.5,0.5,0.5,0.5,1.0,5.0,1970-01-01,yfinance.info/recommendations
 ANI,Industrials,2.619999885559082,7.893199659477643,201.2671757347544,,,,,,,,yfinance.info/recommendations
 AOT,Industrials,48.0,23.92103880443299,-50.164502490764605,57.21429,58.0,80.0,38.0,21.0,2.38095,1970-01-01,yfinance.info/recommendations
-AP,Real Estate,8.350000381469727,21.032613289597215,151.88757279907043,10.07692,10.2,11.0,8.3,13.0,1.46154,1970-01-01,yfinance.info/recommendations
+AP,Real Estate,8.350000381469727,21.03261328562921,151.8875727515494,10.07692,10.2,11.0,8.3,13.0,1.46154,1970-01-01,yfinance.info/recommendations
 APCO,Consumer Defensive,2.740000009536743,1.2225390643811092,-55.38178612678888,,,,,,,,yfinance.info/recommendations
 APCS,Industrials,1.2000000476837158,-1.8108244419771609,-250.9020308351221,,,,,,,,yfinance.info/recommendations
 APO,Consumer Defensive,2.4800000190734863,4.369719293253567,76.19835724380634,,,,,,,,yfinance.info/recommendations
 APP,Technology,2.619999885559082,5.3096927490966825,102.66003744361412,,,,,,,,yfinance.info/recommendations
 APURE,Consumer Defensive,2.3399999141693115,-0.4008154246143899,-117.12886492804328,,,,,,,,yfinance.info/recommendations
-AQUA,Communication Services,0.1299999952316284,-0.7554458997331214,-681.11225187901,,,,,,,,yfinance.info/recommendations
-ARIN,Real Estate,0.4600000083446502,-0.5627769518807055,-222.3428134068752,,,,,,,,yfinance.info/recommendations
+AQUA,Communication Services,0.1299999952316284,-0.7564911775681487,-681.9163117816006,,,,,,,,yfinance.info/recommendations
+ARIN,Real Estate,0.4600000083446502,-0.5627769519494211,-222.34281342181333,,,,,,,,yfinance.info/recommendations
 ARIP,Industrials,0.4600000083446502,0.42525733450472825,-7.552755045580647,,,,,,,,yfinance.info/recommendations
 ARROW,Industrials,5.150000095367432,4.218438764213075,-18.088569202014618,6.4,6.4,6.4,6.4,1.0,,1970-01-01,yfinance.info/recommendations
-AS,Communication Services,2.640000104904175,5.953242372119867,125.50159604391207,,,,,,,,yfinance.info/recommendations
+AS,Communication Services,2.640000104904175,5.9520169774167915,125.4551795797309,,,,,,,,yfinance.info/recommendations
 ASAP,Industrials,1.1399999856948853,10.221038715747252,796.5823547372269,,,,,,,,yfinance.info/recommendations
 ASEFA,Industrials,3.940000057220459,4.829349566517722,22.572322243179617,,,,,,,,yfinance.info/recommendations
 ASIA,Consumer Cyclical,6.0,2.9769025457542972,-50.38495757076171,,,,,,,,yfinance.info/recommendations
 ASIAN,Consumer Defensive,6.949999809265137,22.01755697883343,216.7993896846088,,,,,,,,yfinance.info/recommendations
 ASIMAR,Industrials,1.4700000286102295,3.5562993416895736,141.925120576479,,,,,,,,yfinance.info/recommendations
-ASK,Financial Services,8.300000190734863,9.823651686500204,18.357246515080384,10.1,11.0,12.0,7.3,3.0,,1970-01-01,yfinance.info/recommendations
-ASN,Financial Services,0.6800000071525574,1.105262191252765,62.53855582751492,,,,,,,,yfinance.info/recommendations
-ASP,Financial Services,2.039999961853028,2.6102842135391344,27.955110899516423,,,,,,,,yfinance.info/recommendations
-ASW,Real Estate,7.300000190734863,10.947303751263085,49.96306116755131,8.31667,8.45,9.0,7.5,3.0,,1970-01-01,yfinance.info/recommendations
+ASK,Financial Services,8.300000190734863,9.823651672667909,18.357246348426226,10.1,11.0,12.0,7.3,3.0,,1970-01-01,yfinance.info/recommendations
+ASN,Financial Services,0.6800000071525574,1.1052621877760291,62.53855531623025,,,,,,,,yfinance.info/recommendations
+ASP,Financial Services,2.039999961853028,2.610284206576167,27.95511055819448,,,,,,,,yfinance.info/recommendations
+ASW,Real Estate,7.300000190734863,10.94730374532621,49.96306108622425,8.31667,8.45,9.0,7.5,3.0,,1970-01-01,yfinance.info/recommendations
 ATP30,Industrials,0.8299999833106995,1.8051529473033943,117.48831127718941,1.38,1.38,1.38,1.38,1.0,1.0,1970-01-01,yfinance.info/recommendations
 AU,Consumer Cyclical,4.78000020980835,7.963104517449867,66.59213740430236,5.575,5.7,6.6,4.3,4.0,,1970-01-01,yfinance.info/recommendations
 AUCT,Consumer Cyclical,5.050000190734863,10.00430899522826,98.10512113609364,6.6,6.6,6.6,6.6,1.0,1.0,1970-01-01,yfinance.info/recommendations
 AURA,Consumer Cyclical,13.300000190734863,-3.979596108118601,-129.92177481990484,19.86667,19.8,21.4,18.4,3.0,1.0,1970-01-01,yfinance.info/recommendations
-AWC,Consumer Cyclical,1.9900000095367432,0.26730380930737896,-86.56764783787085,2.64583,2.45,4.7,1.9,12.0,2.5,1970-01-01,yfinance.info/recommendations
-AXTRART,Real Estate,12.399999618530272,2.2478453594104644,-81.87221428578646,14.3,14.3,14.3,14.3,1.0,2.0,1970-01-01,yfinance.info/recommendations
-AYUD,Financial Services,36.5,23.37056415141987,-35.971057119397614,,,,,,,,yfinance.info/recommendations
+AWC,Consumer Cyclical,1.9900000095367432,0.2675358679716061,-86.55598659851833,2.64583,2.45,4.7,1.9,12.0,2.5,1970-01-01,yfinance.info/recommendations
+AXTRART,Real Estate,12.399999618530272,2.24784535886683,-81.8722142901706,14.3,14.3,14.3,14.3,1.0,2.0,1970-01-01,yfinance.info/recommendations
+AYUD,Financial Services,36.5,23.37056433173921,-35.97105662537203,,,,,,,,yfinance.info/recommendations
 B,Industrials,0.0399999991059303,-0.37388593676983045,-1034.714862817082,,,,,,,,yfinance.info/recommendations
-B-WORK,Unknown,4.08,13.024672102893536,219.23215938464548,,,,,,,,yfinance.info/recommendations
+B-WORK,Unknown,5.349999904632568,13.024672102893536,143.45181934705204,,,,,,,,yfinance.info/recommendations
 B52,Real Estate,0.2599999904632568,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 BA,Industrials,13.100000381469728,19.744331253815847,50.720081518048566,21.08889,20.5,28.0,16.5,9.0,1.11111,1970-01-01,yfinance.info/recommendations
 BAFS,Industrials,8.100000381469727,1.6530852901823552,-79.5915405885153,,,,,,,,yfinance.info/recommendations
-BAM,Financial Services,6.849999904632568,-4.362259307308452,-163.68261851154642,8.175,8.4,9.5,6.5,8.0,1.88889,1970-01-01,yfinance.info/recommendations
+BAM,Financial Services,6.849999904632568,-4.362259287012169,-163.6826182152503,8.175,8.4,9.5,6.5,8.0,1.88889,1970-01-01,yfinance.info/recommendations
 BANPU,Energy,6.050000190734863,-0.10884382841060705,-101.79907148725869,6.52,7.0,7.7,5.2,5.0,2.0,1970-01-01,yfinance.info/recommendations
-BAREIT,Real Estate,10.5,2.8859460071542506,-72.51479993186427,,,,,,,,yfinance.info/recommendations
-BAY,Financial Services,25.25,12.670042638782345,-49.82161331175309,27.5,27.5,28.0,27.0,2.0,,1970-01-01,yfinance.info/recommendations
+BAREIT,Real Estate,10.5,2.885946006456294,-72.51479993851149,,,,,,,,yfinance.info/recommendations
+BAY,Financial Services,25.25,12.670042736540093,-49.82161292459369,27.5,27.5,28.0,27.0,2.0,,1970-01-01,yfinance.info/recommendations
 BBGI,Utilities,4.300000190734863,3.365191091335512,-21.73974553335064,4.0,4.0,4.0,4.0,1.0,1.0,1970-01-01,yfinance.info/recommendations
 BBIK,Industrials,18.399999618530277,15.29946299946759,-16.850742844256356,26.38,25.5,28.6,24.3,5.0,,1970-01-01,yfinance.info/recommendations
-BBL,Financial Services,164.0,70.0820777619958,-57.267025754880606,175.66667,180.0,200.0,125.0,18.0,2.77778,1970-01-01,yfinance.info/recommendations
-BC,Real Estate,0.6700000166893005,-3.937473931142295,-687.68266165107,,,,,,,,yfinance.info/recommendations
-BCH,Healthcare,9.699999809265137,8.603441417191181,-11.304725913773288,12.84,13.0,15.5,10.0,15.0,1.66667,1970-01-01,yfinance.info/recommendations
+BBL,Financial Services,164.0,70.08207830272534,-57.26702542516748,175.66667,180.0,200.0,125.0,18.0,2.77778,1970-01-01,yfinance.info/recommendations
+BC,Real Estate,0.6700000166893005,-3.9374739316230642,-687.6826617228267,,,,,,,,yfinance.info/recommendations
+BCH,Healthcare,9.699999809265137,8.638888686113196,-10.939290144504955,12.84,13.0,15.5,10.0,15.0,1.66667,1970-01-01,yfinance.info/recommendations
 BCP,Energy,40.0,42.571237324420544,6.428093311051359,42.23077,42.0,54.0,34.0,13.0,1.46154,1970-01-01,yfinance.info/recommendations
 BCPG,Utilities,6.150000095367432,5.2046832185525504,-15.371005888714595,10.53333,10.5,12.0,9.2,6.0,1.0,1970-01-01,yfinance.info/recommendations
-BCT,Basic Materials,44.0,46.054101228820215,4.668411883682308,,,,,,,,yfinance.info/recommendations
-BDMS,Healthcare,18.399999618530277,11.715620109556458,-36.32815025844953,26.22955,25.4,32.0,20.5,22.0,1.3913,1970-01-01,yfinance.info/recommendations
+BCT,Basic Materials,44.0,45.91699188141923,4.356799730498246,,,,,,,,yfinance.info/recommendations
+BDMS,Healthcare,18.399999618530277,11.745033452563856,-36.168295130095196,26.22955,25.4,32.0,20.5,22.0,1.3913,1970-01-01,yfinance.info/recommendations
 BE8,Technology,5.400000095367432,8.562652253857328,58.567631530286114,5.585,6.0,6.9,3.44,4.0,3.0,1970-01-01,yfinance.info/recommendations
 BEAUTY,Consumer Cyclical,0.3400000035762787,0.0015812451395702811,-99.53492790501822,,,,,,,,yfinance.info/recommendations
-BEC,Communication Services,1.9700000286102293,6.240481135297177,216.77568754654448,2.63667,2.34,4.0,1.57,3.0,,1970-01-01,yfinance.info/recommendations
+BEC,Communication Services,1.9700000286102293,6.24434044788294,216.97159173587005,2.63667,2.34,4.0,1.57,3.0,,1970-01-01,yfinance.info/recommendations
 BEM,Industrials,5.150000095367432,-4.625663287455796,-189.81870294753412,8.55455,8.2,10.5,7.3,11.0,1.09091,1970-01-01,yfinance.info/recommendations
 BEYOND,Consumer Cyclical,8.550000190734863,5.49646524389502,-35.713858230655724,,,,,,,,yfinance.info/recommendations
 BGC,Consumer Cyclical,4.480000019073486,12.302035311425566,174.59900131807953,,,,,,,,yfinance.info/recommendations
 BGRIM,Utilities,10.600000381469728,10.327426523880408,-2.5714513941510497,16.80714,15.7,28.0,12.0,14.0,2.42857,1970-01-01,yfinance.info/recommendations
 BGT,Consumer Cyclical,0.3799999952316284,1.274778672420244,235.46807589910745,,,,,,,,yfinance.info/recommendations
-BH,Healthcare,160.5,117.72870321551622,-26.648783043292074,206.27274,210.0,240.0,143.0,22.0,1.54545,1970-01-01,yfinance.info/recommendations
+BH,Healthcare,160.5,117.77807523036836,-26.618021663321894,206.27274,210.0,240.0,143.0,22.0,1.54545,1970-01-01,yfinance.info/recommendations
 BIG,Consumer Cyclical,0.2899999916553497,0.7816302518200495,169.52768079696276,,,,,,,,yfinance.info/recommendations
-BIOTEC,Basic Materials,0.3300000131130218,0.3245278794184005,-1.6582222658115904,,,,,,,,yfinance.info/recommendations
+BIOTEC,Basic Materials,0.3300000131130218,0.3217978279221382,-2.48551056513881,,,,,,,,yfinance.info/recommendations
 BIS,Consumer Defensive,1.9800000190734863,7.07532766244827,257.33977748945034,,,,,,,,yfinance.info/recommendations
-BIZ,Healthcare,4.559999942779541,1.9061927971495987,-58.197525853746356,,,,,,,,yfinance.info/recommendations
+BIZ,Healthcare,4.559999942779541,1.9049387173729315,-58.22502760357977,,,,,,,,yfinance.info/recommendations
 BJC,Industrials,13.899999618530272,16.348798984801263,17.61726211133463,17.93333,17.0,25.0,12.5,15.0,1.875,1970-01-01,yfinance.info/recommendations
 BJCHI,Industrials,0.5699999928474426,0.20109900974734388,-64.7194715314379,,,,,,,,yfinance.info/recommendations
 BKA,Unknown,0.8399999737739563,0.8924050533097926,6.23870013952387,,,,,,,,yfinance.info/recommendations
 BKD,Unknown,1.100000023841858,2.823098789897323,156.64533897348235,,,,,,,1970-01-01,yfinance.info/recommendations
-BKGI,Healthcare,1.2999999523162842,1.2076786743338335,-7.101637028367318,,,,,,,,yfinance.info/recommendations
-BKIH,Financial Services,311.0,132.1596674446882,-57.50493008209382,,,,,,,,yfinance.info/recommendations
-BLA,Financial Services,19.100000381469727,4.288354861433283,-77.54788075505107,29.1,29.1,29.1,29.1,1.0,,1970-01-01,yfinance.info/recommendations
-BLAND,Real Estate,0.4199999868869781,0.3851172201144361,-8.305420919436584,,,,,,,,yfinance.info/recommendations
+BKGI,Healthcare,1.2999999523162842,1.1957436742401475,-8.019713992325716,,,,,,,,yfinance.info/recommendations
+BKIH,Financial Services,311.0,132.15966846438735,-57.504929754216285,,,,,,,,yfinance.info/recommendations
+BLA,Financial Services,19.100000381469727,4.288354894520773,-77.54788058181815,29.1,29.1,29.1,29.1,1.0,,1970-01-01,yfinance.info/recommendations
+BLAND,Real Estate,0.4199999868869781,0.38511722016145933,-8.305420908240578,,,,,,,,yfinance.info/recommendations
 BLC,Consumer Defensive,3.799999952316284,0.06258648722351445,-98.35298715766127,,,,,,,,yfinance.info/recommendations
-BLESS,Real Estate,0.2199999988079071,0.13339112184797675,-39.36767155874071,,,,,,,,yfinance.info/recommendations
-BLISS,Unknown,0.03091,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+BLESS,Real Estate,0.2199999988079071,0.13339112170378403,-39.367671624282856,,,,,,,,yfinance.info/recommendations
+BLISS,Unknown,0.0309100002050399,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 BM,Industrials,0.9900000095367432,2.1513571973722336,117.30880572202535,,,,,,,,yfinance.info/recommendations
-BOFFICE,Real Estate,5.25,3.9919666262027356,-23.96254045328123,5.3,5.3,5.3,5.3,1.0,,,yfinance.info/recommendations
+BOFFICE,Real Estate,5.25,3.991966625237291,-23.96254047167065,5.3,5.3,5.3,5.3,1.0,,,yfinance.info/recommendations
 BOL,Industrials,5.0,3.4740650951511425,-30.518698096977147,,,,,,,,yfinance.info/recommendations
 BPP,Utilities,12.300000190734863,5.22631471765952,-57.509637100686305,11.5,11.5,11.5,11.5,1.0,,1970-01-01,yfinance.info/recommendations
 BPS,Technology,0.4199999868869781,0.2577304687006383,-38.6356007744368,,,,,,,,yfinance.info/recommendations
 BR,Consumer Defensive,1.6200000047683716,3.4345348761640007,112.00832506510221,,,,,,,,yfinance.info/recommendations
-BRI,Real Estate,1.3300000429153442,4.104886091479038,208.63804203202707,,,,,,,,yfinance.info/recommendations
-BROCK,Real Estate,1.36,0.03283968466151536,-97.58531730430035,,,,,,,,yfinance.info/recommendations
+BRI,Real Estate,1.3300000429153442,4.104886090486285,208.63804195738393,,,,,,,,yfinance.info/recommendations
+BROCK,Real Estate,1.3600000143051147,0.032839684665525115,-97.58531732940425,,,,,,,,yfinance.info/recommendations
 BRR,Consumer Defensive,3.799999952316284,15.920831089182236,318.9692444463774,,,,,,,,yfinance.info/recommendations
-BSBM,Basic Materials,0.5600000023841858,0.41883695605469906,-25.207686737230116,,,,,,,,yfinance.info/recommendations
+BSBM,Basic Materials,0.5600000023841858,0.41531354086887184,-25.836868017734822,,,,,,,,yfinance.info/recommendations
 BSM,Industrials,0.3899999856948852,0.04639952520905026,-88.10268540744237,,,,,,,,yfinance.info/recommendations
-BTC,Financial Services,0.1899999976158142,-0.4004706118645799,-310.774008889381,,,,,,,,yfinance.info/recommendations
+BTC,Financial Services,0.1899999976158142,-0.4004706106048511,-310.7740082263658,,,,,,,,yfinance.info/recommendations
 BTG,Consumer Defensive,20.700000762939453,44.58764870228157,115.39926115418176,20.7875,20.75,23.0,18.3,8.0,2.125,1970-01-01,yfinance.info/recommendations
 BTNC,Consumer Cyclical,19.600000381469727,15.391569215534112,-21.471587163408213,,,,,,,,yfinance.info/recommendations
 BTS,Industrials,2.0,3.005827566546412,50.2913783273206,3.75,3.8,5.4,2.5,6.0,,1970-01-01,yfinance.info/recommendations
-BTW,Industrials,0.0900000035762786,-0.19593726272557432,-317.7080610441417,,,,,,,,yfinance.info/recommendations
-BUI,Financial Services,10.699999809265137,34.47413094523874,222.1881454183538,,,,,,,,yfinance.info/recommendations
+BTW,Industrials,0.0900000035762786,-0.4280819688901677,-575.6466131996884,,,,,,,,yfinance.info/recommendations
+BUI,Financial Services,10.699999809265137,34.47413121122944,222.18814790424827,,,,,,,,yfinance.info/recommendations
 BVG,Technology,1.6100000143051147,1.5648814391334624,-2.802395948494804,,,,,,,,yfinance.info/recommendations
 BWG,Industrials,0.3199999928474426,0.9109608528430566,184.6752728764434,,,,,,,,yfinance.info/recommendations
-BYD,Financial Services,0.5,-2.0767334624962905,-515.3466924992581,,,,,,,,yfinance.info/recommendations
+BYD,Financial Services,0.5,-2.0767334559636743,-515.3466911927349,,,,,,,,yfinance.info/recommendations
 CAZ,Industrials,1.5099999904632568,1.2843391809859455,-14.944424563080977,,,,,,,,yfinance.info/recommendations
 CBG,Consumer Defensive,35.25,39.04381475583298,10.762595052008463,47.42857,48.0,60.0,32.0,14.0,2.21429,1970-01-01,yfinance.info/recommendations
 CCET,Technology,4.679999828338623,5.403339535197676,15.45597720920933,6.63333,6.8,7.2,5.9,3.0,1.0,1970-01-01,yfinance.info/recommendations
-CCP,Basic Materials,0.2599999904632568,0.49424849110044033,90.09558047283373,,,,,,,,yfinance.info/recommendations
-CEN,Basic Materials,0.550000011920929,-1.4325206652836402,-360.4582971335621,,,,,,,,yfinance.info/recommendations
+CCP,Basic Materials,0.2599999904632568,0.49133332169509203,88.97436142965063,,,,,,,,yfinance.info/recommendations
+CEN,Basic Materials,0.550000011920929,-1.4204697586167212,-358.26722324161256,,,,,,,,yfinance.info/recommendations
 CENTEL,Consumer Cyclical,31.5,20.27925428939631,-35.62141495429743,40.15882,40.0,45.0,31.0,17.0,1.82353,1970-01-01,yfinance.info/recommendations
 CEYE,Consumer Cyclical,1.5,0.9480637545986762,-36.795749693421584,,,,,,,,yfinance.info/recommendations
 CFARM,Consumer Defensive,0.8199999928474426,0.8063143578257832,-1.6689798952480697,,,,,,,,yfinance.info/recommendations
 CFRESH,Consumer Defensive,0.949999988079071,0.7087300210831963,-25.396838949833047,,,,,,,,yfinance.info/recommendations
-CGD,Real Estate,0.1099999994039535,-0.1367625293723984,-224.3295728304186,,,,,,,,yfinance.info/recommendations
-CGH,Financial Services,0.4300000071525574,-0.04779301290496096,-111.11465397906488,,,,,,,,yfinance.info/recommendations
+CGD,Real Estate,0.1099999994039535,-0.13676252938909725,-224.3295728455994,,,,,,,,yfinance.info/recommendations
+CGH,Financial Services,0.4300000071525574,-0.04779301275462226,-111.11465394410239,,,,,,,,yfinance.info/recommendations
 CH,Consumer Defensive,1.6100000143051147,-0.3246477922730563,-120.16445896823026,,,,,,,,yfinance.info/recommendations
 CHAO,Consumer Defensive,4.400000095367432,3.830407300904603,-12.945290502664486,,,,,,,,yfinance.info/recommendations
-CHARAN,Financial Services,16.2,0.8720338833058113,-94.61707479440858,,,,,,,,yfinance.info/recommendations
-CHASE,Financial Services,0.4699999988079071,0.45825920395313846,-2.4980414647973657,,,,,,,,yfinance.info/recommendations
-CHAYO,Financial Services,1.0199999809265137,0.44771639111160155,-56.10623534473797,2.22667,1.58,4.0,1.1,3.0,,1970-01-01,yfinance.info/recommendations
-CHEWA,Real Estate,0.1800000071525573,-1.5338903764397493,-952.1612863824585,,,,,,,,yfinance.info/recommendations
-CHG,Healthcare,1.4299999475479126,2.2248089341400155,55.58105005213453,1.913,1.95,2.6,1.3,10.0,1.7,1970-01-01,yfinance.info/recommendations
+CHARAN,Financial Services,16.200000762939453,0.8720338900341289,-94.61707500638475,,,,,,,,yfinance.info/recommendations
+CHASE,Financial Services,0.4699999988079071,0.458259203850087,-2.4980414867232072,,,,,,,,yfinance.info/recommendations
+CHAYO,Financial Services,1.0199999809265137,0.44771642861892813,-56.10623166754901,2.22667,1.58,4.0,1.1,3.0,,1970-01-01,yfinance.info/recommendations
+CHEWA,Real Estate,0.1800000071525573,-1.5338903766270389,-952.1612864865082,,,,,,,,yfinance.info/recommendations
+CHG,Healthcare,1.4299999475479126,2.19596521753372,53.56400685882847,1.913,1.95,2.6,1.3,10.0,1.7,1970-01-01,yfinance.info/recommendations
 CHIC,Consumer Cyclical,0.2399999946355819,-0.0035734232095371607,-101.48892637058724,,,,,,,,yfinance.info/recommendations
-CHO,Industrials,0.06,-6.113916840092285,-10289.861400153808,,,,,,,,yfinance.info/recommendations
+CHO,Industrials,0.0599999986588954,-6.113916840092285,-10289.861627914981,,,,,,,,yfinance.info/recommendations
 CHOTI,Consumer Defensive,60.75,-431.52352101738484,-810.3267835677118,,,,,,,,yfinance.info/recommendations
-CHOW,Basic Materials,1.190000057220459,1.3884850232261396,16.679408106020738,,,,,,,,yfinance.info/recommendations
-CI,Real Estate,0.3100000023841858,-1.8341311700304,-691.6552115884646,,,,,,,,yfinance.info/recommendations
+CHOW,Basic Materials,1.190000057220459,1.3768045610668032,15.69785671125702,,,,,,,,yfinance.info/recommendations
+CI,Real Estate,0.3100000023841858,-1.8341311702543492,-691.6552116607065,,,,,,,,yfinance.info/recommendations
 CIG,Industrials,0.0299999993294477,-0.1141715777121273,-480.57193421353713,,,,,,,,yfinance.info/recommendations
-CIMBT,Financial Services,0.37,0.7735674859046245,109.07229348773637,,,,,,,,yfinance.info/recommendations
+CIMBT,Financial Services,0.3700000047683716,0.7735674918732087,109.07229240644998,,,,,,,,yfinance.info/recommendations
 CITY,Industrials,1.2799999713897705,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 CIVIL,Industrials,0.8199999928474426,-2.5645427455889003,-412.7491180437147,,,,,,,,yfinance.info/recommendations
 CK,Industrials,15.100000381469728,15.987407285209066,5.876866763714372,21.56,20.7,27.5,18.5,10.0,1.36364,1970-01-01,yfinance.info/recommendations
 CKP,Utilities,2.200000047683716,2.7861994802883485,26.645428177231928,3.62286,3.7,5.0,2.0,7.0,1.75,1970-01-01,yfinance.info/recommendations
 CM,Consumer Defensive,1.6699999570846558,1.4160750809190816,-15.205082795861541,,,,,,,,yfinance.info/recommendations
-CMAN,Basic Materials,2.619999885559082,3.5937830061686595,37.167296303212694,,,,,,,,yfinance.info/recommendations
-CMC,Real Estate,0.3499999940395355,0.14764582921753308,-57.81547664802097,,,,,,,,yfinance.info/recommendations
-CMO,Communication Services,0.8299999833106995,1.8789865501687686,126.38392625911594,,,,,,,,yfinance.info/recommendations
-CMR,Healthcare,1.350000023841858,3.420440270824943,153.3659415124293,,,,,,,,yfinance.info/recommendations
+CMAN,Basic Materials,2.619999885559082,3.569197733510128,36.22892707678484,,,,,,,,yfinance.info/recommendations
+CMC,Real Estate,0.3499999940395355,0.1476458292355608,-57.81547664287019,,,,,,,,yfinance.info/recommendations
+CMO,Communication Services,0.8299999833106995,1.8809322621679532,126.61834939626151,,,,,,,,yfinance.info/recommendations
+CMR,Healthcare,1.350000023841858,3.450022272144696,155.55720083074897,,,,,,,,yfinance.info/recommendations
 CNT,Industrials,1.0299999713897705,1.5085481953018198,46.460993903363715,,,,,,,,yfinance.info/recommendations
 COCOCO,Consumer Defensive,5.550000190734863,2.690617047884455,-51.52041521771198,7.43333,6.9,9.2,6.2,3.0,1.5,1970-01-01,yfinance.info/recommendations
-COLOR,Basic Materials,1.0,1.1548294871716622,15.482948717166224,,,,,,,,yfinance.info/recommendations
+COLOR,Basic Materials,1.0,1.1509800533920003,15.098005339200027,,,,,,,,yfinance.info/recommendations
 COM7,Consumer Cyclical,21.899999618530277,16.618326339310812,-24.117230005568015,30.44444,30.5,34.0,26.0,9.0,1.1,1970-01-01,yfinance.info/recommendations
 COMAN,Technology,0.6000000238418579,-3.6096560581163426,-701.609319113584,,,,,,,,yfinance.info/recommendations
 CPALL,Consumer Defensive,44.25,20.272044901803923,-54.18746914846571,62.54619,61.47,80.0,54.0,21.0,1.13636,1970-01-01,yfinance.info/recommendations
-CPANEL,Basic Materials,2.0199999809265137,-2.4983728942863923,-223.68182761766477,,,,,,,,yfinance.info/recommendations
+CPANEL,Basic Materials,2.0199999809265137,-2.4773556347816266,-222.64136921651541,,,,,,,,yfinance.info/recommendations
 CPAXT,Consumer Defensive,14.899999618530272,20.041213820224954,34.504794183355884,16.85765,17.0,21.0,13.0,17.0,2.70588,1970-01-01,yfinance.info/recommendations
 CPF,Consumer Defensive,19.5,29.074691477176536,49.100981934238646,22.52857,22.6,25.0,19.0,14.0,2.35714,1970-01-01,yfinance.info/recommendations
 CPH,Consumer Cyclical,8.0,30.377044224904424,279.7130528113053,,,,,,,,yfinance.info/recommendations
 CPI,Consumer Defensive,3.700000047683716,6.242779013859138,68.72375495690223,,,,,,,,yfinance.info/recommendations
 CPL,Consumer Cyclical,0.6100000143051147,0.21319542472435452,-65.04993119267097,,,,,,,,yfinance.info/recommendations
-CPN,Real Estate,63.0,46.90544936752654,-25.546905765830886,71.79842,72.5,83.0,54.0,19.0,1.3,1970-01-01,yfinance.info/recommendations
-CPNREIT,Real Estate,11.5,0.9115361357626973,-92.0735988194548,11.975,12.4,12.5,10.6,4.0,2.25,1970-01-01,yfinance.info/recommendations
+CPN,Real Estate,63.0,46.905449369926075,-25.546905762022103,71.79842,72.5,83.0,54.0,19.0,1.3,1970-01-01,yfinance.info/recommendations
+CPNREIT,Real Estate,11.5,0.9115361355422452,-92.07359882137177,11.975,12.4,12.5,10.6,4.0,2.25,1970-01-01,yfinance.info/recommendations
 CPR,Consumer Cyclical,2.619999885559082,3.532666965699467,34.83462290097126,,,,,,,,yfinance.info/recommendations
 CPT,Industrials,1.0,1.4219142728043654,42.19142728043654,,,,,,,,yfinance.info/recommendations
 CPW,Technology,2.1600000858306885,3.2663013749939727,51.21765024087141,,,,,,,,yfinance.info/recommendations
 CRANE,Industrials,0.3899999856948852,-0.5339205761167615,-236.90271684637239,,,,,,,,yfinance.info/recommendations
 CRC,Consumer Cyclical,17.899999618530273,38.24189324343418,113.64186624811853,22.245,23.0,27.0,18.2,20.0,2.05,1970-01-01,yfinance.info/recommendations
 CRD,Industrials,0.3400000035762787,0.6877865767514371,102.2901675049932,,,,,,,,yfinance.info/recommendations
-CREDIT,Financial Services,17.200000762939453,10.553834645303077,-38.64049896995793,28.0,28.0,29.0,27.0,2.0,,1970-01-01,yfinance.info/recommendations
+CREDIT,Financial Services,17.200000762939453,10.553834726732882,-38.640498496528856,28.0,28.0,29.0,27.0,2.0,,1970-01-01,yfinance.info/recommendations
 CSC,Consumer Cyclical,43.0,147.56900212294164,243.18372586730615,,,,,,,,yfinance.info/recommendations
-CSP,Basic Materials,0.3799999952316284,-0.03068273185376429,-108.07440322073208,,,,,,,,yfinance.info/recommendations
+CSP,Basic Materials,0.3799999952316284,-0.34439872757626333,-190.63124523628892,,,,,,,,yfinance.info/recommendations
 CSR,Consumer Cyclical,70.75,32.20317429648548,-54.48314587069191,,,,,,,,yfinance.info/recommendations
 CSS,Technology,0.7699999809265137,1.56208993670983,102.8688279745439,,,,,,,,yfinance.info/recommendations
 CTW,Industrials,3.5999999046325684,4.477686341199535,24.380179439381035,,,,,,,,yfinance.info/recommendations
-CV,Utilities,0.03,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+CV,Utilities,0.0299999993294477,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 CWT,Consumer Cyclical,0.8100000023841858,0.2511996993440251,-68.9876915302921,,,,,,,,yfinance.info/recommendations
-D,Healthcare,2.680000066757202,2.573216041991962,-3.984478436765446,3.36,3.36,3.36,3.36,1.0,,1970-01-01,yfinance.info/recommendations
+D,Healthcare,2.680000066757202,2.59419431725402,-3.2017069912616534,3.36,3.36,3.36,3.36,1.0,,1970-01-01,yfinance.info/recommendations
 DCC,Industrials,1.2100000381469729,2.348072604796499,94.05558105538586,1.56,1.56,1.56,1.56,1.0,1.0,1970-01-01,yfinance.info/recommendations
-DCON,Basic Materials,0.209999993443489,-0.03760465067530271,-117.90697707113127,,,,,,,,yfinance.info/recommendations
+DCON,Basic Materials,0.209999993443489,-0.037288306104147476,-117.75633679444937,,,,,,,,yfinance.info/recommendations
 DDD,Consumer Defensive,5.550000190734863,6.192230422634751,11.571715492407057,,,,,,,,yfinance.info/recommendations
 DELTA,Industrials,268.0,44.286173382899854,-83.47530843921648,225.9706,212.5,340.0,160.0,17.0,2.70588,1970-01-01,yfinance.info/recommendations
 DEMCO,Industrials,2.400000095367432,-0.3672492045919415,-115.30204958328207,,,,,,,,yfinance.info/recommendations
-DEXON,Energy,1.03,1.053837727963412,2.3143425207196002,,,,,,,,yfinance.info/recommendations
-DHOUSE,Real Estate,0.3700000047683716,-0.28075859051095886,-175.88069916018517,,,,,,,,yfinance.info/recommendations
-DIMET,Basic Materials,0.0599999986588954,-0.06741939129711445,-212.3656546734257,,,,,,,,yfinance.info/recommendations
+DEXON,Energy,1.0299999713897705,1.053837727963412,2.3143453626971766,,,,,,,,yfinance.info/recommendations
+DHOUSE,Real Estate,0.3700000047683716,-0.2807585905452398,-175.88069916945028,,,,,,,,yfinance.info/recommendations
+DIMET,Basic Materials,0.0599999986588954,-0.06685223383003445,-211.42039220716407,,,,,,,,yfinance.info/recommendations
 DITTO,Technology,10.600000381469728,7.078045766423687,-33.22598573866947,,,,,,,1970-01-01,yfinance.info/recommendations
 DMT,Industrials,11.199999809265137,13.832382665751854,23.503418761749387,,,,,,,,yfinance.info/recommendations
 DOD,Consumer Defensive,1.7400000095367432,1.2759388580495477,-26.67018097377752,,,,,,,,yfinance.info/recommendations
 DOHOME,Consumer Cyclical,3.0999999046325684,2.4597443807813706,-20.65340463057482,3.87751,3.84615,5.28846,3.07692,13.0,3.23077,1970-01-01,yfinance.info/recommendations
-DPAINT,Basic Materials,0.6499999761581421,0.021647143476850844,-96.66967011217487,,,,,,,,yfinance.info/recommendations
-DREIT,Real Estate,4.739999771118164,0.02905777171402471,-99.38696681187454,6.2,6.2,6.2,6.2,1.0,,,yfinance.info/recommendations
+DPAINT,Basic Materials,0.6499999761581421,0.021465039503088423,-96.69768610916594,,,,,,,,yfinance.info/recommendations
+DREIT,Real Estate,4.739999771118164,0.029057771706997183,-99.38696681202282,6.2,6.2,6.2,6.2,1.0,,,yfinance.info/recommendations
 DRT,Industrials,4.760000228881836,10.192143172836872,114.12064459566406,,,,,,,,yfinance.info/recommendations
 DTCENT,Technology,0.8700000047683716,2.50740778391716,188.20778967521164,,,,,,,,yfinance.info/recommendations
 DTCI,Industrials,19.600000381469727,12.204284107689398,-37.7332455604052,,,,,,,,yfinance.info/recommendations
 DUSIT,Consumer Cyclical,10.0,-24.188526333124923,-341.88526333124923,,,,,,,1970-01-01,yfinance.info/recommendations
-DV8,Communication Services,5.300000190734863,0.3449357670374477,-93.49177821464151,,,,,,,,yfinance.info/recommendations
+DV8,Communication Services,5.300000190734863,0.34496670759339604,-93.49119443058804,,,,,,,,yfinance.info/recommendations
 EA,Utilities,2.5199999809265137,-1.0979309712772813,-143.5686896661647,,,,,,,,yfinance.info/recommendations
-EASON,Basic Materials,1.100000023841858,1.616384520551327,46.94404413792152,,,,,,,,yfinance.info/recommendations
-EAST,Financial Services,0.6399999856948853,-1.2129157275825821,-289.51808667083776,,,,,,,,yfinance.info/recommendations
+EASON,Basic Materials,1.100000023841858,1.9931889801890046,81.19899427161799,,,,,,,,yfinance.info/recommendations
+EAST,Financial Services,0.6399999856948853,-1.2129157228178629,-289.51808592635035,,,,,,,,yfinance.info/recommendations
 EASTW,Utilities,2.4600000381469727,-2.429698396254833,-198.76822595844493,,,,,,,,yfinance.info/recommendations
-ECF,Consumer Cyclical,0.06,-2.7885957119102938,-4747.659519850489,,,,,,,,yfinance.info/recommendations
-EFORL,Healthcare,0.1400000005960464,0.21980990009600934,57.00707082869597,,,,,,,,yfinance.info/recommendations
+ECF,Consumer Cyclical,0.0599999986588954,-2.7885957119102938,-4747.659623733784,,,,,,,,yfinance.info/recommendations
+EFORL,Healthcare,0.1400000005960464,0.21950499673807894,56.78928271681577,,,,,,,,yfinance.info/recommendations
 EGCO,Utilities,107.5,233.3413631429888,117.06173315626864,129.35,132.0,145.0,100.0,10.0,2.1,1970-01-01,yfinance.info/recommendations
-EKH,Healthcare,4.960000038146973,5.225907722111639,5.36104197418531,5.33333,5.5,6.3,4.2,3.0,,1970-01-01,yfinance.info/recommendations
+EKH,Healthcare,4.960000038146973,5.157307718579562,3.9779773974820922,5.33333,5.5,6.3,4.2,3.0,,1970-01-01,yfinance.info/recommendations
 EMC,Industrials,0.0199999995529651,-0.04436902657250129,-321.84513782113237,,,,,,,,yfinance.info/recommendations
 EMPIRE,Industrials,0.5400000214576721,-0.7522020545328266,-239.29667123018586,,,,,,,,yfinance.info/recommendations
 EP,Industrials,1.159999966621399,-11.05358665233264,-1052.895428482397,,,,,,,,yfinance.info/recommendations
-EPG,Basic Materials,3.0799999237060547,4.866146275649256,57.991766109980766,4.65,4.65,5.0,4.3,2.0,,1970-01-01,yfinance.info/recommendations
+EPG,Basic Materials,3.0799999237060547,4.836712988824698,57.03613989070665,4.65,4.65,5.0,4.3,2.0,,1970-01-01,yfinance.info/recommendations
 ERW,Consumer Cyclical,2.380000114440918,2.9171508166947837,22.569356152323,3.60438,3.5,5.6,3.0,16.0,1.25,1970-01-01,yfinance.info/recommendations
-ESTAR,Real Estate,0.2199999988079071,0.12022982895444505,-45.35007745185323,,,,,,,,yfinance.info/recommendations
+ESTAR,Real Estate,0.2199999988079071,0.12022982896912522,-45.350077445180425,,,,,,,,yfinance.info/recommendations
 ETC,Utilities,0.6499999761581421,2.0963863665285465,222.52099129592972,,,,,,,,yfinance.info/recommendations
 ETE,Industrials,0.6000000238418579,0.9652578522662258,60.876302318387744,,,,,,,,yfinance.info/recommendations
 ETL,Industrials,0.5,0.8408636174857459,68.17272349714918,,,,,,,,yfinance.info/recommendations
 EURO,Consumer Cyclical,4.199999809265137,4.901653612311641,16.706043688351283,,,,,,,,yfinance.info/recommendations
-EVER,Real Estate,0.050000000745058,-0.06700443635977635,-234.00887072266508,,,,,,,,yfinance.info/recommendations
+EVER,Real Estate,0.050000000745058,-0.06700443636795766,-234.0088707390277,,,,,,,,yfinance.info/recommendations
 FANCY,Consumer Cyclical,0.3199999928474426,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-FE,Communication Services,170.0,213.52155358151256,25.600913871477974,,,,,,,,yfinance.info/recommendations
+FE,Communication Services,170.0,213.15040461083746,25.382590947551442,,,,,,,,yfinance.info/recommendations
 FLOYD,Industrials,1.090000033378601,1.8221134202167222,67.16636370815858,,,,,,,,yfinance.info/recommendations
 FM,Consumer Defensive,3.940000057220459,14.217265509718443,260.8442970365909,4.3,4.3,4.3,4.3,1.0,,1970-01-01,yfinance.info/recommendations
 FMT,Industrials,20.100000381469727,-10.982195085940225,-154.63778546026674,,,,,,,,yfinance.info/recommendations
 FN,Consumer Cyclical,0.4300000071525574,-0.0305120421042939,-107.09582362715373,,,,,,,,yfinance.info/recommendations
-FNS,Financial Services,0.5799999833106995,-1.6090223364280056,-377.4176521943227,,,,,,,,yfinance.info/recommendations
+FNS,Financial Services,0.5799999833106995,-1.6090223313666314,-377.4176513216719,,,,,,,,yfinance.info/recommendations
 FORTH,Industrials,6.5,9.646697177996066,48.410725815324085,10.9,10.9,10.9,10.9,1.0,,1970-01-01,yfinance.info/recommendations
 FPI,Consumer Cyclical,1.6799999475479126,2.110897153110659,25.648643989047347,,,,,,,,yfinance.info/recommendations
-FPT,Real Estate,6.099999904632568,0.8041954835418987,-86.81646727680827,,,,,,,,yfinance.info/recommendations
-FSMART,Communication Services,6.150000095367432,6.412101728872798,4.261815112861514,10.5,10.5,10.5,10.5,1.0,,1970-01-01,yfinance.info/recommendations
-FSX,Financial Services,1.2799999713897705,-1.054886624155596,-182.4130193542305,,,,,,,,yfinance.info/recommendations
+FPT,Real Estate,6.099999904632568,0.8041954833474066,-86.81646727999667,,,,,,,,yfinance.info/recommendations
+FSMART,Communication Services,6.150000095367432,6.417297849352481,4.346304875448623,10.5,10.5,10.5,10.5,1.0,,1970-01-01,yfinance.info/recommendations
+FSX,Financial Services,1.2799999713897705,-1.0548866208373227,-182.41301909499035,,,,,,,,yfinance.info/recommendations
 FTE,Industrials,2.0199999809265137,2.2946034723814126,13.594232378603612,,,,,,,,yfinance.info/recommendations
 FTI,Industrials,1.830000042915344,1.6446367337555075,-10.129142339501655,,,,,,,,yfinance.info/recommendations
-FTREIT,Real Estate,10.699999809265137,2.694849613508328,-74.81448914443105,11.635,11.635,12.27,11.0,2.0,3.0,1970-01-01,yfinance.info/recommendations
-FUTURERT,Real Estate,8.949999809265137,0.9865743374402205,-88.97682281044399,,,,,,,,yfinance.info/recommendations
+FTREIT,Real Estate,10.699999809265137,2.6948496128565878,-74.81448915052208,11.635,11.635,12.27,11.0,2.0,3.0,1970-01-01,yfinance.info/recommendations
+FUTURERT,Real Estate,8.949999809265137,0.9865743372016206,-88.97682281310992,,,,,,,,yfinance.info/recommendations
 FVC,Industrials,0.3300000131130218,0.08519327763100934,-74.18385628917189,,,,,,,,yfinance.info/recommendations
 GABLE,Technology,3.880000114440918,7.37212675708138,90.00326133092537,4.2,4.2,4.2,4.2,1.0,,1970-01-01,yfinance.info/recommendations
-GAHREIT,Real Estate,4.260000228881836,0.7442614032189798,-82.52907598048807,,,,,,,,yfinance.info/recommendations
-GBX,Financial Services,0.550000011920929,1.4534297103268676,164.25994160447777,,,,,,,,yfinance.info/recommendations
-GC,Basic Materials,4.420000076293945,3.825679208840972,-13.446173239691339,,,,,,,,yfinance.info/recommendations
-GCAP,Financial Services,0.2399999946355819,-0.8859981391472853,-469.16589956286987,,,,,,,,yfinance.info/recommendations
-GEL,Basic Materials,0.0299999993294477,-0.22627798030390456,-854.2599512053733,,,,,,,,yfinance.info/recommendations
+GAHREIT,Real Estate,4.260000228881836,0.7442614030389826,-82.52907598471336,,,,,,,,yfinance.info/recommendations
+GBX,Financial Services,0.550000011920929,1.4534297067767261,164.25994095899753,,,,,,,,yfinance.info/recommendations
+GC,Basic Materials,4.420000076293945,3.8094023589736787,-13.814427755219336,,,,,,,,yfinance.info/recommendations
+GCAP,Financial Services,0.2399999946355819,-0.885998136360271,-469.1658984016139,,,,,,,,yfinance.info/recommendations
+GEL,Basic Materials,0.0299999993294477,-0.22437444418920469,-847.914830681216,,,,,,,,yfinance.info/recommendations
 GENCO,Industrials,0.2899999916553497,0.5595622051964091,92.95249010262748,,,,,,,,yfinance.info/recommendations
-GFC,Healthcare,2.8399999141693115,4.704631388378346,65.65603980852345,3.5,3.5,3.5,3.5,2.0,,1970-01-01,yfinance.info/recommendations
+GFC,Healthcare,2.8399999141693115,4.667625319743473,64.35300918340818,3.5,3.5,3.5,3.5,2.0,,1970-01-01,yfinance.info/recommendations
 GFPT,Consumer Defensive,9.100000381469728,21.674148035796772,138.1774409584828,11.55,11.55,13.1,9.6,10.0,2.1,1970-01-01,yfinance.info/recommendations
-GGC,Basic Materials,4.28000020980835,1.9111011314316326,-55.34810659466748,,,,,,,,yfinance.info/recommendations
-GJS,Basic Materials,0.1199999973177909,-0.09918246708216616,-182.65205774922265,,,,,,,,yfinance.info/recommendations
-GLAND,Real Estate,0.74,0.1605371678013906,-78.30578813494722,,,,,,,,yfinance.info/recommendations
+GGC,Basic Materials,4.28000020980835,1.8950242245331441,-55.72373524210646,,,,,,,,yfinance.info/recommendations
+GJS,Basic Materials,0.1199999973177909,-0.09834810658547812,-181.95675731977477,,,,,,,,yfinance.info/recommendations
+GLAND,Real Estate,0.7400000095367432,0.16053716778855312,-78.30578841626597,,,,,,,,yfinance.info/recommendations
 GLOBAL,Consumer Cyclical,5.900000095367432,10.638135995168472,80.30738683413472,6.91335,7.03929,8.67857,4.7,13.0,2.84615,1970-01-01,yfinance.info/recommendations
-GLORY,Communication Services,0.5600000023841858,-0.12193244555860987,-121.77365089990812,,,,,,,,yfinance.info/recommendations
-GPI,Communication Services,1.6399999856948853,4.589218307484785,179.830387043588,,,,,,,,yfinance.info/recommendations
+GLORY,Communication Services,0.5600000023841858,-0.12210115821263064,-121.80377815942644,,,,,,,,yfinance.info/recommendations
+GPI,Communication Services,1.6399999856948853,4.583793322096663,179.49959524874396,,,,,,,,yfinance.info/recommendations
 GPSC,Utilities,31.5,18.47652431115906,-41.34436726616171,44.46429,44.5,56.0,36.0,14.0,1.92857,1970-01-01,yfinance.info/recommendations
-GRAMMY,Communication Services,3.799999952316284,1.0309126148085814,-72.87072032250447,,,,,,,,yfinance.info/recommendations
-GRAND,Consumer Cyclical,0.03,-0.7722112751431679,-2674.03758381056,,,,,,,,yfinance.info/recommendations
+GRAMMY,Communication Services,3.799999952316284,1.032339044029377,-72.83318271095987,,,,,,,,yfinance.info/recommendations
+GRAND,Consumer Cyclical,0.0299999993294477,-0.7722112751431679,-2674.0376413447884,,,,,,,,yfinance.info/recommendations
 GREEN,Utilities,0.6200000047683716,0.09257692307664674,-85.06823832828309,,,,,,,,yfinance.info/recommendations
-GROREIT,Real Estate,8.050000190734863,2.7767400058906744,-65.50633614783563,,,,,,,,yfinance.info/recommendations
-GSTEEL,Unknown,0.09,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+GROREIT,Real Estate,8.050000190734863,2.776740005219129,-65.50633615617781,,,,,,,,yfinance.info/recommendations
+GSTEEL,Unknown,0.0900000035762786,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 GTB,Industrials,0.7400000095367432,2.578521546878542,248.44885319565807,,,,,,,,yfinance.info/recommendations
 GTV,Utilities,0.0299999993294477,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 GULF,Utilities,55.25,21.224829288879928,-61.584019386642666,68.96667,70.0,82.0,50.0,15.0,1.11765,1970-01-01,yfinance.info/recommendations
 GUNKUL,Utilities,2.0799999237060547,1.8604315480634173,-10.556172293094122,2.872,2.6,3.84,2.5,5.0,,1970-01-01,yfinance.info/recommendations
-GVREIT,Real Estate,6.400000095367432,4.9152868398599265,-23.19864427161803,,,,,,,,yfinance.info/recommendations
+GVREIT,Real Estate,6.400000095367432,4.9152868386711805,-23.198644290192185,,,,,,,,yfinance.info/recommendations
 GYT,Consumer Cyclical,185.0,90.6680758616495,-50.99022926397324,,,,,,,,yfinance.info/recommendations
 HANA,Technology,24.100000381469727,37.13817925995312,54.10032644027811,30.11667,27.0,56.15,22.6,12.0,1.5,1970-01-01,yfinance.info/recommendations
-HANN,Healthcare,0.949999988079071,0.862468809151717,-9.213808423760591,,,,,,,,yfinance.info/recommendations
+HANN,Healthcare,0.949999988079071,0.8555850469294772,-9.938414982562653,,,,,,,,yfinance.info/recommendations
 HARN,Industrials,1.9900000095367432,3.0565813621956623,53.59705264057819,,,,,,,,yfinance.info/recommendations
 HEALTH,Consumer Cyclical,0.4000000059604645,-0.040335332890489815,-110.08383307236163,,,,,,,,yfinance.info/recommendations
-HENG,Financial Services,0.8799999952316284,3.0615846615153415,247.9073497846428,,,,,,,,yfinance.info/recommendations
+HENG,Financial Services,0.8799999952316284,3.061584652789189,247.90734879303454,,,,,,,,yfinance.info/recommendations
 HFT,Consumer Cyclical,4.199999809265137,6.4145976886689,52.72852333274858,,,,,,,,yfinance.info/recommendations
-HL,Healthcare,6.650000095367432,5.09921476210108,-23.320079865061512,,,,,,,,yfinance.info/recommendations
+HL,Healthcare,6.650000095367432,5.133890167674419,-22.79864520226361,,,,,,,,yfinance.info/recommendations
 HMPRO,Consumer Cyclical,6.050000190734863,6.666201508913628,10.18514543391969,7.81556,7.59,10.0,5.6,18.0,2.21053,1970-01-01,yfinance.info/recommendations
-HPT,Consumer Cyclical,0.33,0.5362009077314398,62.48512355498175,,,,,,,,yfinance.info/recommendations
+HPT,Consumer Cyclical,0.3300000131130218,0.5362009077314398,62.48511709840333,,,,,,,,yfinance.info/recommendations
 HTC,Consumer Defensive,15.600000381469728,22.65472488817182,45.22259188584355,,,,,,,,yfinance.info/recommendations
 HTECH,Industrials,2.700000047683716,4.48468265187915,66.09935454358539,,,,,,,,yfinance.info/recommendations
 HUMAN,Technology,4.320000171661377,4.877155752328605,12.897119410367017,9.8,9.8,9.8,9.8,1.0,,1970-01-01,yfinance.info/recommendations
 HYDRO,Industrials,2.619999885559082,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-HYDROGEN,Real Estate,8.15,2.1095969900770157,-74.11537435488324,,,,,,,,yfinance.info/recommendations
+HYDROGEN,Real Estate,8.149999618530273,2.1095969895668167,-74.11537314958488,,,,,,,,yfinance.info/recommendations
 I2,Technology,0.6499999761581421,-0.44169250920208497,-167.95269621588773,,,,,,,,yfinance.info/recommendations
 ICC,Consumer Cyclical,25.0,22.181592014303632,-11.273631942785471,,,,,,,,yfinance.info/recommendations
 ICHI,Consumer Defensive,12.699999809265137,12.505603465565475,-1.5306798946393863,15.64286,15.9,16.8,14.2,7.0,2.33333,1970-01-01,yfinance.info/recommendations
-ICN,Communication Services,1.7200000286102295,3.0757602873591843,78.82326954636258,,,,,,,,yfinance.info/recommendations
-IFS,Financial Services,1.899999976158142,-0.36136569888706627,-119.0192475485057,,,,,,,,yfinance.info/recommendations
+ICN,Communication Services,1.7200000286102295,3.0688953559978236,78.42414563664337,,,,,,,,yfinance.info/recommendations
+IFS,Financial Services,1.899999976158142,-0.36136569541035246,-119.01924736552077,,,,,,,,yfinance.info/recommendations
 IHL,Consumer Cyclical,1.4600000381469729,-0.5877063039716317,-140.2538553846578,,,,,,,,yfinance.info/recommendations
 IIG,Technology,1.4299999475479126,-12.204077667712307,-953.4320360388268,,,,,,,,yfinance.info/recommendations
 III,Industrials,3.9600000381469727,6.602348263317751,66.7259646393142,5.5,5.5,5.5,5.5,2.0,,1970-01-01,yfinance.info/recommendations
 ILINK,Technology,4.519999980926514,21.486520421074903,375.3654980474265,6.9,6.9,6.9,6.9,1.0,,1970-01-01,yfinance.info/recommendations
 ILM,Consumer Cyclical,13.300000190734863,23.656789659643724,77.87059639385328,17.5,17.5,18.0,17.0,2.0,1.0,1970-01-01,yfinance.info/recommendations
-IMH,Healthcare,3.0,-3.3150470535545806,-210.50156845181937,,,,,,,,yfinance.info/recommendations
-IMPACT,Real Estate,10.800000190734863,0.9839786671704103,-90.88908657599332,12.2,12.2,12.2,12.2,1.0,,1970-01-01,yfinance.info/recommendations
+IMH,Healthcare,3.0,-3.351858542753667,-211.72861809178892,,,,,,,,yfinance.info/recommendations
+IMPACT,Real Estate,10.800000190734863,0.9839786669324382,-90.88908657819675,12.2,12.2,12.2,12.2,1.0,,1970-01-01,yfinance.info/recommendations
 IND,Industrials,1.149999976158142,1.4050293950711819,22.176471669593273,,,,,,,,yfinance.info/recommendations
 INET,Technology,3.4800000190734863,7.655200019420793,119.9770108466525,5.475,5.475,5.85,5.1,2.0,,1970-01-01,yfinance.info/recommendations
-INETREIT,Real Estate,12.300000190734863,2.422860415095695,-80.30194815020616,14.6,14.6,14.7,14.5,2.0,1.5,1970-01-01,yfinance.info/recommendations
+INETREIT,Real Estate,12.300000190734863,2.422860414509734,-80.30194815497006,14.6,14.6,14.7,14.5,2.0,1.5,1970-01-01,yfinance.info/recommendations
 INGRS,Consumer Cyclical,0.2800000011920929,0.7447871940262158,165.99542530546546,,,,,,,,yfinance.info/recommendations
-INOX,Basic Materials,0.3899999856948852,0.30987718699759753,-20.544308111839623,,,,,,,,yfinance.info/recommendations
+INOX,Basic Materials,0.3899999856948852,0.3085828505698783,-20.87618925932558,,,,,,,,yfinance.info/recommendations
 INSET,Technology,2.5,2.7732142003708553,10.928568014834212,3.94,3.94,3.94,3.94,1.0,,1970-01-01,yfinance.info/recommendations
-INSURE,Financial Services,61.5,65.44992245775336,6.42263814268839,,,,,,,,yfinance.info/recommendations
-IP,Healthcare,4.159999847412109,2.4205831885800237,-41.81290198638247,,,,,,,,yfinance.info/recommendations
+INSURE,Financial Services,61.5,65.44992296274276,6.422638963809367,,,,,,,,yfinance.info/recommendations
+IP,Healthcare,4.159999847412109,2.920965055933191,-29.784491272270326,,,,,,,,yfinance.info/recommendations
 IRC,Consumer Cyclical,11.300000190734863,36.853958893797675,226.14122364365184,,,,,,,,yfinance.info/recommendations
 IRCP,Technology,0.2599999904632568,-1.2412439398245005,-577.4015328280996,,,,,,,,yfinance.info/recommendations
 IROYAL,Industrials,5.599999904632568,1.27761831135731,-77.18538690866035,,,,,,,,yfinance.info/recommendations
@@ -324,350 +324,350 @@ ISSARA,Unknown,7.449999809265137,2.0588012241831977,-72.36508353164271,,,,,,,,yf
 IT,Technology,4.0,6.894070534466498,72.35176336166245,,,,,,,,yfinance.info/recommendations
 ITC,Consumer Defensive,14.100000381469728,25.198733913458092,78.71442008309701,19.34615,19.6,22.0,16.3,13.0,1.53846,1970-01-01,yfinance.info/recommendations
 ITD,Industrials,0.2199999988079071,6.390389520045266,2804.722524851026,0.54,0.54,0.54,0.54,1.0,,,yfinance.info/recommendations
-ITEL,Communication Services,1.149999976158142,-0.0394803452634101,-103.43307357234075,1.3,1.3,1.3,1.3,1.0,2.0,1970-01-01,yfinance.info/recommendations
+ITEL,Communication Services,1.149999976158142,-0.04084329344131027,-103.55159080765874,1.3,1.3,1.3,1.3,1.0,2.0,1970-01-01,yfinance.info/recommendations
 ITNS,Technology,1.7300000190734863,0.5789979643420219,-66.53190994459594,,,,,,,,yfinance.info/recommendations
 ITTHI,Consumer Cyclical,1.1799999475479126,2.5356525795703493,114.88582137986849,,,,,,,,yfinance.info/recommendations
-IVF,Healthcare,0.6700000166893005,0.5586263389319642,-16.622936564639474,,,,,,,,yfinance.info/recommendations
-IVL,Basic Materials,23.600000381469727,6.398133486690085,-72.88926532512356,22.91538,23.5,28.0,14.0,13.0,2.0,1970-01-01,yfinance.info/recommendations
-J,Real Estate,0.6100000143051147,-2.210406061198105,-462.36164087899294,,,,,,,,yfinance.info/recommendations
-JAK,Real Estate,0.7799999713897705,2.08208067782454,166.93343002497525,,,,,,,,yfinance.info/recommendations
-JAS,Communication Services,1.159999966621399,0.4862707022540413,-58.08011066842121,,,,,,,,yfinance.info/recommendations
-JCK,Real Estate,0.1199999973177909,-0.5126932349899489,-527.2443720412803,,,,,,,,yfinance.info/recommendations
+IVF,Healthcare,0.6700000166893005,0.5648295291460728,-15.697087302013985,,,,,,,,yfinance.info/recommendations
+IVL,Basic Materials,23.600000381469727,6.344309963330773,-73.11733109838336,22.91538,23.5,28.0,14.0,13.0,2.0,1970-01-01,yfinance.info/recommendations
+J,Real Estate,0.6100000143051147,-2.2104060614679977,-462.36164092323753,,,,,,,,yfinance.info/recommendations
+JAK,Real Estate,0.7799999713897705,2.082080678048055,166.933430053631,,,,,,,,yfinance.info/recommendations
+JAS,Communication Services,1.159999966621399,0.4857132901342047,-58.128163438755344,,,,,,,,yfinance.info/recommendations
+JCK,Real Estate,0.1199999973177909,-0.5126932350525493,-527.2443720934472,,,,,,,,yfinance.info/recommendations
 JCT,Consumer Defensive,79.5,88.30478532767539,11.075201670031937,,,,,,,,yfinance.info/recommendations
 JDF,Consumer Defensive,2.0199999809265137,1.7604721386630793,-12.847913104652442,,,,,,,,yfinance.info/recommendations
 JMART,Consumer Cyclical,6.550000190734863,2.024389507611442,-69.09329086012866,,,,,,,,yfinance.info/recommendations
-JMT,Financial Services,8.100000381469727,18.664174320773906,130.42189434301403,10.07857,9.0,13.95,6.5,7.0,,1970-01-01,yfinance.info/recommendations
+JMT,Financial Services,8.100000381469727,18.664174388473434,130.42189517881062,10.07857,9.0,13.95,6.5,7.0,,1970-01-01,yfinance.info/recommendations
 JPARK,Industrials,2.9200000762939453,6.20496906399201,112.49893499548591,4.65,4.65,4.7,4.6,2.0,,1970-01-01,yfinance.info/recommendations
 JR,Industrials,1.7300000190734863,1.028196739939592,-40.56666308649812,,,,,,,,yfinance.info/recommendations
 JSP,Consumer Defensive,1.950000047683716,1.4296517632775634,-26.684526752921983,,,,,,,,yfinance.info/recommendations
-JTS,Communication Services,53.5,8.898407606208394,-83.36746241830207,,,,,,,,yfinance.info/recommendations
+JTS,Communication Services,53.5,8.888282244189023,-83.38638832861865,,,,,,,,yfinance.info/recommendations
 JUBILE,Consumer Cyclical,7.199999809265137,16.769461496547265,132.90919362203192,8.4,8.4,8.4,8.4,1.0,,,yfinance.info/recommendations
-K,Industrials,0.9900000095367432,0.7833180659386488,-20.876963798698174,,,,,,,,yfinance.info/recommendations
+K,Industrials,0.9900000095367432,0.6300853572217413,-36.35501503514318,,,,,,,,yfinance.info/recommendations
 KAMART,Consumer Defensive,8.800000190734863,4.4936587745237295,-48.93569685083749,12.0,12.0,12.0,12.0,1.0,,1970-01-01,yfinance.info/recommendations
 KASET,Consumer Defensive,0.7900000214576721,-1.3020021873769172,-264.81039898891675,,,,,,,,yfinance.info/recommendations
-KBANK,Financial Services,187.0,87.69661610410192,-53.10341384807384,198.70557,197.85,230.0,170.0,18.0,2.5,1970-01-01,yfinance.info/recommendations
+KBANK,Financial Services,187.0,87.69661678073925,-53.103413486235695,198.70557,197.85,230.0,170.0,18.0,2.5,1970-01-01,yfinance.info/recommendations
 KBS,Consumer Defensive,5.75,33.70103167802652,486.10489874828727,,,,,,,,yfinance.info/recommendations
-KC,Real Estate,0.0199999995529651,-0.08232221252282453,-511.61107181434824,,,,,,,,yfinance.info/recommendations
+KC,Real Estate,0.0199999995529651,-0.20643260612463285,-1132.1630536938096,,,,,,,,yfinance.info/recommendations
 KCAR,Industrials,4.78000020980835,24.900122898292594,420.92305032118287,,,,,,,,yfinance.info/recommendations
-KCC,Financial Services,1.9700000286102293,1.3151137243088464,-33.24295912642112,,,,,,,,yfinance.info/recommendations
+KCC,Financial Services,1.9700000286102293,1.3151137228462764,-33.24295920066325,,,,,,,,yfinance.info/recommendations
 KCE,Technology,22.700000762939453,23.763237842190346,4.683863627823126,19.56667,18.7,25.0,14.8,9.0,3.0,1970-01-01,yfinance.info/recommendations
 KCG,Consumer Defensive,9.600000381469728,12.986474886974804,35.27577469727785,11.625,11.65,12.2,11.0,4.0,1.0,1970-01-01,yfinance.info/recommendations
 KCM,Industrials,0.1599999964237213,0.06858269314376868,-57.1358158270554,,,,,,,,yfinance.info/recommendations
-KDH,Healthcare,82.75,96.4865495438196,16.600059871685325,,,,,,,,yfinance.info/recommendations
+KDH,Healthcare,82.75,96.96608472247773,17.17955857701236,,,,,,,,yfinance.info/recommendations
 KGEN,Industrials,1.1799999475479126,-0.7991550091409039,-167.7250037850917,,,,,,,,yfinance.info/recommendations
-KGI,Financial Services,4.300000190734863,5.700899716483516,32.579057293233305,,,,,,,,yfinance.info/recommendations
+KGI,Financial Services,4.300000190734863,5.70089970356492,32.57905699280085,,,,,,,,yfinance.info/recommendations
 KIAT,Industrials,0.3199999928474426,0.24520814599879714,-23.37245266261674,,,,,,,,yfinance.info/recommendations
 KISS,Consumer Defensive,3.2799999713897705,3.6985766717115096,12.761484877220402,,,,,,,,yfinance.info/recommendations
 KJL,Industrials,5.650000095367432,9.761242895597537,72.76535806788765,7.5,7.5,7.5,7.5,1.0,,1970-01-01,yfinance.info/recommendations
 KK,Consumer Defensive,0.9800000190734864,2.285387082727931,133.20275900490145,,,,,,,,yfinance.info/recommendations
-KKC,Industrials,0.04,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-KKP,Financial Services,71.25,6.719790512533016,-90.56871507012912,69.96786,69.775,84.0,55.0,14.0,2.5,1970-01-01,yfinance.info/recommendations
+KKC,Industrials,0.0399999991059303,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+KKP,Financial Services,71.25,6.719790564380639,-90.5687149973605,69.96786,69.775,84.0,55.0,14.0,2.5,1970-01-01,yfinance.info/recommendations
 KLINIQ,Consumer Cyclical,25.0,22.89273671224936,-8.429053151002563,29.56667,28.0,33.0,27.7,3.0,,1970-01-01,yfinance.info/recommendations
 KOOL,Consumer Cyclical,0.2800000011920929,0.7852596224162232,180.44986395464295,,,,,,,,yfinance.info/recommendations
-KPNREIT,Real Estate,1.9,0.08658644966531703,-95.44281843866752,,,,,,,,yfinance.info/recommendations
+KPNREIT,Real Estate,1.899999976158142,0.08658644964437638,-95.44281838258458,,,,,,,,yfinance.info/recommendations
 KSL,Consumer Defensive,1.5,-0.8443016745028973,-156.28677830019316,,,,,,,,yfinance.info/recommendations
-KTB,Financial Services,34.25,6.934024324084409,-79.75467350632289,34.15263,34.0,41.0,22.0,19.0,1.65,1970-01-01,yfinance.info/recommendations
-KTBSTMR,Real Estate,5.400000095367432,9.3004696021256,72.23091551617408,,,,,,,,yfinance.info/recommendations
-KTC,Financial Services,29.0,9.90992896169463,-65.82783116657023,36.15385,36.0,47.0,26.0,13.0,1.53846,1970-01-01,yfinance.info/recommendations
+KTB,Financial Services,34.25,6.934024377584988,-79.75467335011682,34.15263,34.0,41.0,22.0,19.0,1.65,1970-01-01,yfinance.info/recommendations
+KTBSTMR,Real Estate,5.400000095367432,9.300469599876312,72.23091547452057,,,,,,,,yfinance.info/recommendations
+KTC,Financial Services,29.0,9.909929038156278,-65.82783090290938,36.15385,36.0,47.0,26.0,13.0,1.53846,1970-01-01,yfinance.info/recommendations
 KTIS,Consumer Defensive,1.909999966621399,-1.4349906452047037,-175.1304015854545,,,,,,,,yfinance.info/recommendations
-KTMS,Healthcare,1.6200000047683716,1.3413258832326411,-17.202106217004328,,,,,,,,yfinance.info/recommendations
+KTMS,Healthcare,1.6200000047683716,1.3514648126224627,-16.576246379968637,,,,,,,,yfinance.info/recommendations
 KUMWEL,Industrials,1.0499999523162842,1.8370463906023367,74.9568070503089,,,,,,,,yfinance.info/recommendations
-KUN,Real Estate,0.7099999785423279,-1.2088192767638977,-270.2562413094259,,,,,,,,yfinance.info/recommendations
-KWC,Real Estate,281.0,231.67973265807453,-17.5516965629628,,,,,,,,yfinance.info/recommendations
-KWI,Financial Services,0.04,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+KUN,Real Estate,0.7099999785423279,-1.2088192769598007,-270.25624133701785,,,,,,,,yfinance.info/recommendations
+KWC,Real Estate,281.0,231.67973266681665,-17.551696559851727,,,,,,,,yfinance.info/recommendations
+KWI,Financial Services,0.0399999991059303,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 KWM,Industrials,0.8399999737739563,2.9200040780846757,247.61954395851538,,,,,,,,yfinance.info/recommendations
 KYE,Consumer Cyclical,287.0,411.4552877561504,43.36421176172489,,,,,,,,yfinance.info/recommendations
-LALIN,Real Estate,4.579999923706055,7.711757173569427,68.37898039372038,,,,,,,,yfinance.info/recommendations
+LALIN,Real Estate,4.579999923706055,7.711757171336077,68.37898034495731,,,,,,,,yfinance.info/recommendations
 LANNA,Energy,15.100000381469728,60.02036209591397,297.4858316531513,,,,,,,,yfinance.info/recommendations
-LDC,Healthcare,0.25,0.05960479891778152,-76.15808043288739,,,,,,,,yfinance.info/recommendations
+LDC,Healthcare,0.25,0.06026667230181778,-75.89333107927288,,,,,,,,yfinance.info/recommendations
 LEO,Industrials,1.7999999523162842,0.8156409702513998,-54.686611563416264,,,,,,,,yfinance.info/recommendations
-LH,Real Estate,3.640000104904175,-0.21532584864270865,-105.91554512189711,3.86714,3.8,4.7,3.42,14.0,3.33333,1970-01-01,yfinance.info/recommendations
-LHFG,Financial Services,1.0,0.12721435474108303,-87.2785645258917,,,,,,,,yfinance.info/recommendations
-LHHOTEL,Real Estate,12.600000381469728,26.206969562688187,107.99181562906645,14.5,14.5,14.5,14.5,1.0,2.0,1970-01-01,yfinance.info/recommendations
-LHK,Basic Materials,3.400000095367432,4.823420443086412,41.86530317038573,,,,,,,,yfinance.info/recommendations
-LHRREIT,Real Estate,4.199999809265137,7.65640562206348,82.29538023248392,,,,,,,,yfinance.info/recommendations
-LHSC,Real Estate,14.0,3.1596218951285064,-77.43127217765353,16.5,16.5,16.5,16.5,1.0,2.0,1970-01-01,yfinance.info/recommendations
-LIT,Financial Services,0.6200000047683716,-1.241500993193413,-300.2420941363106,,,,,,,,yfinance.info/recommendations
+LH,Real Estate,3.640000104904175,-0.21532584895321383,-105.91554513042747,3.86714,3.8,4.7,3.42,14.0,3.33333,1970-01-01,yfinance.info/recommendations
+LHFG,Financial Services,1.0,0.12721435572262582,-87.27856442773742,,,,,,,,yfinance.info/recommendations
+LHHOTEL,Real Estate,12.600000381469728,26.206969556350113,107.99181557876427,14.5,14.5,14.5,14.5,1.0,2.0,1970-01-01,yfinance.info/recommendations
+LHK,Basic Materials,3.400000095367432,4.807912704480857,41.409193224192364,,,,,,,,yfinance.info/recommendations
+LHRREIT,Real Estate,4.199999809265137,7.656405620211803,82.29538018839636,,,,,,,,yfinance.info/recommendations
+LHSC,Real Estate,14.0,3.159621894364362,-77.4312721831117,16.5,16.5,16.5,16.5,1.0,2.0,1970-01-01,yfinance.info/recommendations
+LIT,Financial Services,0.6200000047683716,-1.2415009892881215,-300.2420935064249,,,,,,,,yfinance.info/recommendations
 LOXLEY,Industrials,1.340000033378601,1.5764234593299624,17.643538810611563,,,,,,,,yfinance.info/recommendations
-LPH,Healthcare,3.700000047683716,4.602595761302075,24.394478432058516,,,,,,,,yfinance.info/recommendations
-LPN,Real Estate,1.5700000524520874,0.2765459900109366,-82.38560632026628,1.66167,1.485,2.5,1.3,6.0,,1970-01-01,yfinance.info/recommendations
+LPH,Healthcare,3.700000047683716,4.6430841207583,25.488758403259386,,,,,,,,yfinance.info/recommendations
+LPN,Real Estate,1.5700000524520874,0.2765459895251636,-82.38560635120723,1.66167,1.485,2.5,1.3,6.0,,1970-01-01,yfinance.info/recommendations
 LRH,Consumer Cyclical,33.75,95.27367361825867,182.29236627632199,,,,,,,,yfinance.info/recommendations
 LST,Consumer Defensive,4.599999904632568,5.471333881268041,18.942043363043766,,,,,,,,yfinance.info/recommendations
-LTMH,Communication Services,4.599999904632568,1.7586181350496102,-61.769170184578904,5.6,5.6,5.6,5.6,1.0,,1970-01-01,yfinance.info/recommendations
+LTMH,Communication Services,4.599999904632568,1.7601905629804142,-61.734986967983176,5.6,5.6,5.6,5.6,1.0,,1970-01-01,yfinance.info/recommendations
 LTS,Consumer Cyclical,2.200000047683716,3.981873623490352,80.99425169025307,7.0,7.0,7.0,7.0,1.0,,,yfinance.info/recommendations
 M,Consumer Cyclical,18.799999237060547,34.834785242392776,85.29141838326655,21.5,21.5,23.0,20.0,2.0,2.5,1970-01-01,yfinance.info/recommendations
-M-CHAI,Healthcare,18.899999618530277,22.798793878823798,20.628541476111963,,,,,,,,yfinance.info/recommendations
+M-CHAI,Healthcare,18.899999618530277,22.99610381555624,21.672509416402242,,,,,,,,yfinance.info/recommendations
 MADAME,Consumer Defensive,0.5899999737739563,0.9875658386696814,67.38404789286355,,,,,,,,yfinance.info/recommendations
 MAGURO,Consumer Cyclical,20.200000762939453,16.32342728363048,-19.190957093532628,30.17,30.0,31.6,29.0,5.0,,1970-01-01,yfinance.info/recommendations
-MAJOR,Communication Services,7.599999904632568,17.640917190200646,132.1173343626972,10.15,10.55,12.6,6.5,6.0,,1970-01-01,yfinance.info/recommendations
+MAJOR,Communication Services,7.599999904632568,17.637197264722182,132.0683879742085,10.15,10.55,12.6,6.5,6.0,,1970-01-01,yfinance.info/recommendations
 MALEE,Consumer Defensive,4.039999961853027,9.481481914044963,134.69014860327104,7.15,7.15,8.7,5.6,2.0,,1970-01-01,yfinance.info/recommendations
-MANRIN,Consumer Cyclical,23.1,17.83196860441002,-22.80533071683975,,,,,,,,yfinance.info/recommendations
-MASTER,Healthcare,8.75,15.299561892587342,74.8521359152839,11.5,11.8,14.0,8.7,3.0,3.0,1970-01-01,yfinance.info/recommendations
-MATCH,Communication Services,0.93,0.014145174441002013,-98.47901350096751,,,,,,,,yfinance.info/recommendations
-MATI,Communication Services,3.0799999237060547,-3.1680134519414027,-202.85758215634772,,,,,,,,yfinance.info/recommendations
+MANRIN,Consumer Cyclical,23.100000381469727,17.83196860441002,-22.805331991620218,,,,,,,,yfinance.info/recommendations
+MASTER,Healthcare,8.75,15.0881612232474,72.43612826568457,11.5,11.8,14.0,8.7,3.0,3.0,1970-01-01,yfinance.info/recommendations
+MATCH,Communication Services,0.9300000071525574,0.014164746507408087,-98.47690898941202,,,,,,,,yfinance.info/recommendations
+MATI,Communication Services,3.0799999237060547,-3.1723968952078927,-202.99990174644745,,,,,,,,yfinance.info/recommendations
 MBAX,Consumer Cyclical,2.039999961853028,0.5563538280103446,-72.7277530189274,,,,,,,,yfinance.info/recommendations
 MBK,Industrials,17.100000381469727,14.165939426844782,-17.15825081386791,,,,,,,,yfinance.info/recommendations
 MC,Consumer Cyclical,10.899999618530272,11.646127119052164,6.84520666636957,13.1,12.6,14.2,12.5,3.0,,1970-01-01,yfinance.info/recommendations
-MCA,Communication Services,1.1399999856948853,0.8296851299327579,-27.220601724216287,,,,,,,,yfinance.info/recommendations
-MCOT,Communication Services,5.949999809265137,-0.14306758207675468,-102.40449725483982,,,,,,,,yfinance.info/recommendations
-MCS,Basic Materials,9.449999809265137,17.312538269113592,83.20146686288528,,,,,,,,yfinance.info/recommendations
-MDX,Real Estate,2.259999990463257,5.468123085811882,141.95234995071934,,,,,,,,yfinance.info/recommendations
+MCA,Communication Services,1.1399999856948853,0.8292179019952547,-27.261586631529106,,,,,,,,yfinance.info/recommendations
+MCOT,Communication Services,5.949999809265137,-0.1432655385055454,-102.40782425374968,,,,,,,,yfinance.info/recommendations
+MCS,Basic Materials,9.449999809265137,17.219345631925812,82.21530137009437,,,,,,,,yfinance.info/recommendations
+MDX,Real Estate,2.259999990463257,5.468123086063026,141.95234996183189,,,,,,,,yfinance.info/recommendations
 MEB,Technology,13.899999618530272,26.528500251792373,90.85252503479843,18.5,18.5,23.0,14.0,2.0,,1970-01-01,yfinance.info/recommendations
-MEDEZE,Healthcare,6.150000095367432,4.501728019267025,-26.801171553509228,8.75,8.75,9.0,8.5,2.0,,1970-01-01,yfinance.info/recommendations
-MEGA,Healthcare,32.75,32.815480704493325,0.19994108242236638,41.16667,42.0,45.0,35.0,6.0,1.83333,1970-01-01,yfinance.info/recommendations
+MEDEZE,Healthcare,6.150000095367432,4.435392681804071,-27.87979491016449,8.75,8.75,9.0,8.5,2.0,,1970-01-01,yfinance.info/recommendations
+MEGA,Healthcare,32.75,32.82976283078491,0.2435506283508644,41.16667,42.0,45.0,35.0,6.0,1.83333,1970-01-01,yfinance.info/recommendations
 MENA,Industrials,0.6499999761581421,1.896945577503847,191.83779185898442,,,,,,,1970-01-01,yfinance.info/recommendations
-META,Utilities,0.04,-0.17462021782014037,-536.550544550351,,,,,,,,yfinance.info/recommendations
+META,Utilities,0.0399999991059303,-0.17462021782014037,-536.5505543080164,,,,,,,,yfinance.info/recommendations
 METCO,Technology,265.0,726.7939932123702,174.2618842310831,,,,,,,,yfinance.info/recommendations
-MFC,Financial Services,22.799999237060547,16.065145138278748,-29.538834755022908,,,,,,,,yfinance.info/recommendations
+MFC,Financial Services,22.799999237060547,16.065145114152397,-29.53883486084024,,,,,,,,yfinance.info/recommendations
 MFEC,Technology,5.900000095367432,20.114626997376043,240.9258758007422,,,,,,,,yfinance.info/recommendations
 MGC,Consumer Cyclical,4.159999847412109,16.067509184663223,286.2382157215377,,,,,,0.0,1970-01-01,yfinance.info/recommendations
 MGI,Unknown,5.199999809265137,16.874194823696573,224.5037585122764,,,,,,,,yfinance.info/recommendations
-MGT,Basic Materials,1.840000033378601,3.947194958290976,114.52146123297355,2.5,2.5,2.5,2.5,1.0,1.0,1970-01-01,yfinance.info/recommendations
-MICRO,Financial Services,0.8899999856948853,3.0139655777962178,238.64782317305364,1.25,1.25,1.25,1.25,1.0,,1970-01-01,yfinance.info/recommendations
+MGT,Basic Materials,1.840000033378601,3.9627514522485727,115.36692284576667,2.5,2.5,2.5,2.5,1.0,1.0,1970-01-01,yfinance.info/recommendations
+MICRO,Financial Services,0.8899999856948853,3.0139655683154247,238.64782210779597,1.25,1.25,1.25,1.25,1.0,,1970-01-01,yfinance.info/recommendations
 MIDA,Financial Services,0.2300000041723251,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-MII,Real Estate,4.820000171661377,2.0919337947063563,-56.59888547295839,,,,,,,,yfinance.info/recommendations
-MILL,Basic Materials,0.06,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+MII,Real Estate,4.820000171661377,2.091933794200429,-56.59888548345481,,,,,,,,yfinance.info/recommendations
+MILL,Basic Materials,0.0599999986588954,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 MINT,Consumer Cyclical,20.899999618530277,22.89568431765888,9.548730792124974,34.44444,34.5,39.0,30.5,18.0,1.15789,1970-01-01,yfinance.info/recommendations
-MIPF,Real Estate,9.3,6.286629876854325,-32.401829281136294,,,,,,,,yfinance.info/recommendations
+MIPF,Real Estate,9.300000190734863,6.286629875333923,-32.401830683864006,,,,,,,,yfinance.info/recommendations
 MITSIB,Consumer Cyclical,0.550000011920929,0.20764045759346925,-62.24719034673024,,,,,,,,yfinance.info/recommendations
-MJD,Real Estate,0.3400000035762787,-14.0654690634544,-4236.902622208009,,,,,,,,yfinance.info/recommendations
+MJD,Real Estate,0.3400000035762787,-14.065469065171808,-4236.90262271313,,,,,,,,yfinance.info/recommendations
 MJLF,Unknown,5.099999904632568,4.4254525771622575,-13.226418433019735,,,,,,,,yfinance.info/recommendations
-MK,Real Estate,0.5199999809265137,-2.7636382052032356,-631.4689051101701,,,,,,,,yfinance.info/recommendations
+MK,Real Estate,0.5199999809265137,-2.7636382055406785,-631.468905175063,,,,,,,,yfinance.info/recommendations
 ML,Financial Services,0.4300000071525574,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 MMM,Unknown,2.8399999141693115,1.1503488376684157,-59.49475801287522,,,,,,,,yfinance.info/recommendations
-MNIT,Real Estate,1.899999976158142,1.9303872255154162,1.5993289336096757,,,,,,,,yfinance.info/recommendations
+MNIT,Real Estate,1.899999976158142,1.930387225048558,1.599328909038196,,,,,,,,yfinance.info/recommendations
 MODERN,Consumer Cyclical,2.059999942779541,4.782117259387636,132.14162098156007,,,,,,,,yfinance.info/recommendations
-MONO,Communication Services,1.0099999904632568,0.35687702124832144,-64.66564112692392,,,,,,,,yfinance.info/recommendations
+MONO,Communication Services,1.0099999904632568,0.3573708165555343,-64.61675050198575,,,,,,,,yfinance.info/recommendations
 MOONG,Consumer Defensive,2.140000104904175,1.7551546707707018,-17.98343062000484,,,,,,,,yfinance.info/recommendations
 MORE,Utilities,0.0299999993294477,0.0010392028574272055,-96.535990397816,,,,,,,,yfinance.info/recommendations
 MOSHI,Consumer Cyclical,33.5,23.10899367705286,-31.017929322230266,50.25,50.5,55.0,44.5,8.0,1.0,1970-01-01,yfinance.info/recommendations
 MOTHER,Consumer Cyclical,1.100000023841858,1.0071531406147982,-8.440625564968887,,,,,,,,yfinance.info/recommendations
 MPJ,Industrials,3.940000057220459,3.329504205727133,-15.49481834078984,,,,,,,,yfinance.info/recommendations
 MSC,Technology,6.949999809265137,18.449237176576126,165.4566573078348,,,,,,,,yfinance.info/recommendations
-MST,Financial Services,6.800000190734863,41.334306158946205,507.8574264639731,,,,,,,,yfinance.info/recommendations
-MTC,Financial Services,28.25,5.7202203630735715,-79.75143234310241,48.3125,46.0,62.0,38.0,16.0,1.3125,1970-01-01,yfinance.info/recommendations
-MTI,Financial Services,15.199999809265137,30.191857535428074,98.63064417293396,,,,,,,,yfinance.info/recommendations
+MST,Financial Services,6.800000190734863,41.334306118749566,507.85742587284614,,,,,,,,yfinance.info/recommendations
+MTC,Financial Services,28.25,5.72022040720885,-79.75143218687133,48.3125,46.0,62.0,38.0,16.0,1.3125,1970-01-01,yfinance.info/recommendations
+MTI,Financial Services,15.199999809265137,30.191857768378203,98.63064570550061,,,,,,,,yfinance.info/recommendations
 MTW,Consumer Cyclical,0.8199999928474426,0.021745165925353766,-97.34815047377697,,,,,,,,yfinance.info/recommendations
 MUD,Consumer Cyclical,0.75,-1.0505014404742015,-240.06685872989354,,,,,,,,yfinance.info/recommendations
-MVP,Communication Services,0.12,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-NAM,Healthcare,3.619999885559082,4.732492513731803,30.731841528798952,,,,,,,,yfinance.info/recommendations
+MVP,Communication Services,0.1199999973177909,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+NAM,Healthcare,3.619999885559082,4.22992149047702,16.848663651925506,,,,,,,,yfinance.info/recommendations
 NAT,Technology,2.220000028610229,3.6571650666204913,64.73716304003656,,,,,,,,yfinance.info/recommendations
-NATION,Communication Services,0.0399999991059303,-0.01666998126849355,-141.6749541027417,,,,,,,,yfinance.info/recommendations
+NATION,Communication Services,0.0399999991059303,-0.016693046800964416,-141.73261793520777,,,,,,,,yfinance.info/recommendations
 NC,Consumer Cyclical,1.850000023841858,-0.7732436185931995,-141.79695181773133,,,,,,,,yfinance.info/recommendations
-NCAP,Financial Services,2.5199999809265137,0.6027941676426141,-76.0795963410687,,,,,,,,yfinance.info/recommendations
-NCH,Real Estate,0.3899999856948852,0.2927760997627561,-24.929202435456443,,,,,,,,yfinance.info/recommendations
+NCAP,Financial Services,2.5199999809265137,0.6027941698692992,-76.07959625270816,,,,,,,,yfinance.info/recommendations
+NCH,Real Estate,0.3899999856948852,0.29186771851251236,-25.162120713293103,,,,,,,,yfinance.info/recommendations
 NCL,Industrials,0.209999993443489,-0.6446240247313332,-406.9638308845002,,,,,,,,yfinance.info/recommendations
 NCP,Industrials,0.949999988079071,1.6864566630559565,77.52175623349463,,,,,,,,yfinance.info/recommendations
 NDR,Consumer Cyclical,1.4800000190734863,1.4810673682412903,0.07211818608435677,,,,,,,,yfinance.info/recommendations
 NEO,Consumer Defensive,19.399999618530277,25.181809802431324,29.803145863871265,25.75,26.25,27.0,24.0,3.0,2.0,1970-01-01,yfinance.info/recommendations
 NEP,Consumer Cyclical,0.209999993443489,0.026300435604061846,-87.47598265466647,,,,,,,,yfinance.info/recommendations
-NER,Basic Materials,4.659999847412109,12.546318179990653,169.23430452381115,6.0125,5.75,7.4,5.15,4.0,,1970-01-01,yfinance.info/recommendations
+NER,Basic Materials,4.659999847412109,12.624105039009509,170.9035504801614,6.0125,5.75,7.4,5.15,4.0,,1970-01-01,yfinance.info/recommendations
 NETBAY,Technology,18.399999618530277,13.016712412056982,-29.25699629391238,25.0,25.0,25.0,25.0,1.0,,1970-01-01,yfinance.info/recommendations
-NEW,Healthcare,125.5,71.21668103450166,-43.253640609958836,,,,,,,,yfinance.info/recommendations
+NEW,Healthcare,125.5,72.20194450538914,-42.468570115227784,,,,,,,,yfinance.info/recommendations
 NEX,Industrials,0.9700000286102296,-2.425610223174257,-350.0629022299677,,,,,,,,yfinance.info/recommendations
-NFC,Basic Materials,1.23,-0.0882690417038608,-107.17634485397242,,,,,,,,yfinance.info/recommendations
-NKI,Financial Services,14.8,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-NKT,Healthcare,4.159999847412109,3.048490812664022,-26.71896816149032,5.0,5.0,5.0,5.0,2.0,1.0,1970-01-01,yfinance.info/recommendations
+NFC,Basic Materials,1.2300000190734863,-0.08538391013187979,-106.94178120388943,,,,,,,,yfinance.info/recommendations
+NKI,Financial Services,14.800000190734863,0.0,-100.0,,,,,,,,yfinance.info/recommendations
+NKT,Healthcare,4.159999847412109,2.9536445191620158,-28.998927223532334,5.0,5.0,5.0,5.0,2.0,1.0,1970-01-01,yfinance.info/recommendations
 NL,Industrials,0.6399999856948853,0.020448389915401037,-96.80493900430342,,,,,,,,yfinance.info/recommendations
 NNCL,Utilities,1.5499999523162842,1.8770404296583674,21.09938628406804,,,,,,,,yfinance.info/recommendations
-NOBLE,Real Estate,2.039999961853028,1.7702670758405066,-13.22220054197992,,,,,,,,yfinance.info/recommendations
+NOBLE,Real Estate,2.039999961853028,1.770267075832784,-13.222200542358472,,,,,,,,yfinance.info/recommendations
 NOVA,Technology,9.0,1.616283218473129,-82.04129757252079,,,,,,,,yfinance.info/recommendations
-NPK,Consumer Cyclical,13.7,25.83053125859507,88.54402378536548,,,,,,,,yfinance.info/recommendations
+NPK,Consumer Cyclical,13.699999809265137,25.83053125859507,88.54402641032307,,,,,,,,yfinance.info/recommendations
 NRF,Consumer Defensive,0.2800000011920929,-0.22767689950225414,-181.3131780474734,,,,,,,,yfinance.info/recommendations
 NSL,Consumer Defensive,22.100000381469727,21.03672820624873,-4.8111862301709465,31.875,32.25,33.0,30.0,4.0,1.0,1970-01-01,yfinance.info/recommendations
 NTF,Consumer Defensive,11.899999618530272,7.085783104466454,-40.455602255375574,,,,,,,,yfinance.info/recommendations
-NTSC,Basic Materials,6.300000190734863,9.005705537538446,42.94770261725939,,,,,,,,yfinance.info/recommendations
-NTV,Healthcare,22.100000381469727,48.00622936581199,117.22275356186853,,,,,,,,yfinance.info/recommendations
+NTSC,Basic Materials,6.300000190734863,8.956169627509396,42.161418354889044,,,,,,,,yfinance.info/recommendations
+NTV,Healthcare,22.100000381469727,47.44208250001941,114.67005285573822,,,,,,,,yfinance.info/recommendations
 NUT,Consumer Defensive,4.21999979019165,9.28758074425142,120.08486270160755,,,,,,,,yfinance.info/recommendations
 NV,Consumer Defensive,0.5199999809265137,-0.14156904602642745,-127.22481754214408,,,,,,,,yfinance.info/recommendations
-NVD,Real Estate,0.75,0.02610721541356416,-96.51903794485811,,,,,,,,yfinance.info/recommendations
-NWR,Industrials,0.04,-1.3133070010280945,-3383.2675025702365,,,,,,,,yfinance.info/recommendations
+NVD,Real Estate,0.75,0.026107215407250216,-96.51903794569996,,,,,,,,yfinance.info/recommendations
+NWR,Industrials,0.0399999991059303,-1.3133070010280945,-3383.2675759569875,,,,,,,,yfinance.info/recommendations
 NYT,Industrials,4.079999923706055,6.892240507664717,68.92746658201338,,,,,,,,yfinance.info/recommendations
 OCC,Consumer Defensive,10.199999809265137,5.853945011321846,-42.608381168748316,,,,,,,,yfinance.info/recommendations
 OGC,Consumer Cyclical,9.0,-15.6330980178473,-273.7010890871922,,,,,,,,yfinance.info/recommendations
 OHTL,Consumer Cyclical,275.0,442.73488892341356,60.99450506305948,,,,,,,,yfinance.info/recommendations
-OKJ,Consumer Defensive,3.539999961853028,4.957288942083435,40.03641230234708,4.4781947,5.077563,6.2413654,2.1156511,3.0,,1970-01-01,yfinance.info/recommendations
-ONEE,Communication Services,2.5799999237060547,4.4465614508115126,72.34734815124433,3.1625,3.075,4.1,2.4,4.0,2.2,1970-01-01,yfinance.info/recommendations
+OKJ,Consumer Defensive,3.539999961853028,4.957288942083435,40.03641230234708,4.426455,5.018898,6.169255,2.0912075,3.0,,1970-01-01,yfinance.info/recommendations
+ONEE,Communication Services,2.5799999237060547,4.4518268177049185,72.55143214539588,3.1625,3.075,4.1,2.4,4.0,2.2,1970-01-01,yfinance.info/recommendations
 OR,Energy,11.100000381469728,9.646412939618738,-13.095381908973625,15.31765,15.9,17.6,10.0,17.0,2.29412,1970-01-01,yfinance.info/recommendations
-ORI,Real Estate,1.7999999523162842,2.1155808507768024,17.53227260114207,2.19,2.17,2.4,2.08,5.0,3.4,1970-01-01,yfinance.info/recommendations
-ORN,Real Estate,0.7699999809265137,0.5416606801633842,-29.65445537912571,1.0,1.0,1.0,1.0,1.0,1.0,1970-01-01,yfinance.info/recommendations
+ORI,Real Estate,1.7999999523162842,1.0493613227139855,-41.70214719374623,2.19,2.17,2.4,2.08,5.0,3.4,1970-01-01,yfinance.info/recommendations
+ORN,Real Estate,0.7699999809265137,0.5416606801757807,-29.65445537751577,1.0,1.0,1.0,1.0,1.0,1.0,1970-01-01,yfinance.info/recommendations
 OSP,Consumer Defensive,14.0,15.280731031808104,9.148078798629314,18.33529,19.0,22.0,14.3,17.0,2.17647,1970-01-01,yfinance.info/recommendations
 PACO,Consumer Cyclical,1.2699999809265137,2.714352733793751,113.72856492592437,,,,,,,,yfinance.info/recommendations
 PAF,Consumer Cyclical,0.6600000262260437,0.26317681955631844,-60.124725894149755,,,,,,,,yfinance.info/recommendations
 PANEL,Industrials,1.2200000286102295,0.5107862599393335,-58.13227475730483,,,,,,,,yfinance.info/recommendations
-PAP,Basic Materials,2.039999961853028,0.5333014099228761,-73.85777353454196,,,,,,,,yfinance.info/recommendations
-PATO,Basic Materials,6.400000095367432,13.235624319270654,106.80662690694508,,,,,,,,yfinance.info/recommendations
+PAP,Basic Materials,2.039999961853028,0.528815076376655,-74.07769184974359,,,,,,,,yfinance.info/recommendations
+PATO,Basic Materials,6.400000095367432,13.354957407073632,108.67120637608222,,,,,,,,yfinance.info/recommendations
 PB,Consumer Defensive,49.0,65.5420381265903,33.759261482837346,,,,,,,,yfinance.info/recommendations
 PCC,Industrials,2.700000047683716,5.523580207693475,104.57704111642741,,,,,,,,yfinance.info/recommendations
 PCE,Consumer Defensive,2.4200000762939453,3.7995355197661556,57.00559504051209,2.3,2.3,2.3,2.3,1.0,,1970-01-01,yfinance.info/recommendations
 PCSGH,Consumer Cyclical,3.0799999237060547,5.509193029947248,78.86990800045966,,,,,,,,yfinance.info/recommendations
 PDG,Consumer Cyclical,2.9600000381469727,4.21879272054852,42.526779262799614,,,,,,,,yfinance.info/recommendations
 PDJ,Consumer Cyclical,1.0099999904632568,-1.5619484667121357,-254.64836450104485,,,,,,,,yfinance.info/recommendations
-PEACE,Real Estate,1.7999999523162842,-2.2750016608365344,-226.38898450574993,,,,,,,,yfinance.info/recommendations
+PEACE,Real Estate,1.7999999523162842,-2.2750016611143145,-226.38898452118218,,,,,,,,yfinance.info/recommendations
 PEER,Industrials,0.0900000035762786,-2.0425629228758826,-2369.5142685685882,,,,,,,,yfinance.info/recommendations
-PERM,Basic Materials,0.2199999988079071,-2.132948749555912,-1069.5221641425076,,,,,,,,yfinance.info/recommendations
-PF,Real Estate,0.04,-1.6058441462014876,-4114.61036550372,,,,,,,,yfinance.info/recommendations
+PERM,Basic Materials,0.2199999988079071,-2.1150055764281928,-1061.3661763129867,,,,,,,,yfinance.info/recommendations
+PF,Real Estate,0.0399999991059303,-1.6058441463975628,-4114.610455727447,,,,,,,,yfinance.info/recommendations
 PG,Consumer Cyclical,6.849999904632568,-0.20832611226966496,-103.04125715576693,,,,,,,,yfinance.info/recommendations
-PHG,Healthcare,12.800000190734863,12.4815164167863,-2.488154446896755,,,,,,,,yfinance.info/recommendations
+PHG,Healthcare,12.800000190734863,12.576060148165313,-1.7495315565045604,,,,,,,,yfinance.info/recommendations
 PHOL,Industrials,2.7799999713897705,4.6477046777882665,67.18362322373686,,,,,,,,yfinance.info/recommendations
-PICO,Communication Services,4.260000228881836,2.682779209397469,-37.02396560430128,,,,,,,,yfinance.info/recommendations
+PICO,Communication Services,4.260000228881836,2.685458776112812,-36.961064980560096,,,,,,,,yfinance.info/recommendations
 PIMO,Industrials,1.0,2.981160257690171,198.1160257690171,,,,,,,,yfinance.info/recommendations
-PIN,Real Estate,4.28000020980835,11.463472337294704,167.83812559224188,5.33,5.42,5.6,4.97,3.0,1.0,1970-01-01,yfinance.info/recommendations
+PIN,Real Estate,4.28000020980835,11.463472334884452,167.83812553592762,5.33,5.42,5.6,4.97,3.0,1.0,1970-01-01,yfinance.info/recommendations
 PIS,Technology,3.660000085830689,-1.566214244793021,-142.79273792523824,,,,,,,,yfinance.info/recommendations
 PJW,Consumer Cyclical,2.0799999237060547,3.2105924212532084,54.35541052966543,3.1,3.1,3.1,3.1,1.0,,,yfinance.info/recommendations
 PK,Industrials,0.3899999856948852,0.5353485307858297,37.2688590826404,,,,,,,,yfinance.info/recommendations
-PL,Industrials,1.3,5.889075886966436,353.00583745895665,,,,,,,,yfinance.info/recommendations
-PLANB,Communication Services,3.759999990463257,6.9194887370333475,84.02895623892863,6.32188,6.05,7.575,5.5,8.0,1.0,1970-01-01,yfinance.info/recommendations
+PL,Industrials,1.2999999523162842,5.889075886966436,353.0058540751123,,,,,,,,yfinance.info/recommendations
+PLANB,Communication Services,3.759999990463257,6.922871668738359,84.11892782705607,6.32188,6.05,7.575,5.5,8.0,1.0,1970-01-01,yfinance.info/recommendations
 PLANET,Technology,0.3600000143051147,-0.24902490055342677,-169.17358073835186,,,,,,,,yfinance.info/recommendations
-PLAT,Real Estate,1.0499999523162842,3.038431066323916,189.37440041032215,,,,,,,,yfinance.info/recommendations
+PLAT,Real Estate,1.0499999523162842,3.0384310662660505,189.37440040481118,,,,,,,,yfinance.info/recommendations
 PLE,Industrials,0.1800000071525573,-0.21692925699240725,-220.51624909578527,,,,,,,,yfinance.info/recommendations
 PLT,Energy,0.5199999809265137,1.7668705087977459,239.7828026165716,,,,,,,,yfinance.info/recommendations
 PLUS,Consumer Defensive,1.340000033378601,-0.7743854284942908,-157.78995591080687,6.4,6.4,6.4,6.4,1.0,,,yfinance.info/recommendations
 PM,Consumer Defensive,11.300000190734863,10.45875303223405,-7.4446649938163,,,,,,,,yfinance.info/recommendations
 PMC,Consumer Cyclical,0.8500000238418579,1.8380701317251271,116.24353884337057,,,,,,,,yfinance.info/recommendations
-PMTA,Basic Materials,9.899999618530272,27.151800038501776,174.2606170174041,,,,,,,,yfinance.info/recommendations
+PMTA,Basic Materials,9.899999618530272,27.520323768386003,177.98307907886164,,,,,,,,yfinance.info/recommendations
 POLY,Industrials,7.0,5.82880892639449,-16.73130105150728,,,,,,,,yfinance.info/recommendations
 PORT,Industrials,0.5199999809265137,1.5866396802131526,205.12302661745218,,,,,,,,yfinance.info/recommendations
 PPM,Industrials,1.3600000143051147,2.987104814490512,119.6400575787316,,,,,,,,yfinance.info/recommendations
 PPP,Industrials,0.7599999904632568,-0.18650455232332624,-124.5400729820592,,,,,,,,yfinance.info/recommendations
-PPPM,Consumer Defensive,0.2399999946355819,-0.7447103405925536,-410.2959821825531,,,,,,,,yfinance.info/recommendations
+PPPM,Consumer Defensive,0.2399999946355819,-1.0007358611606731,-516.9732848036932,,,,,,,,yfinance.info/recommendations
 PPS,Industrials,0.1700000017881393,-0.06166661446177046,-136.2744787136072,,,,,,,,yfinance.info/recommendations
 PQS,Consumer Defensive,1.5199999809265137,0.7060114553005983,-53.55187735790299,,,,,,,,yfinance.info/recommendations
-PR9,Healthcare,16.200000762939453,11.264494511422816,-30.466086537523722,25.97308,25.1,32.0,21.0,13.0,1.16667,1970-01-01,yfinance.info/recommendations
-PRAKIT,Communication Services,11.699999809265137,7.22084760800274,-38.28335277164186,,,,,,,,yfinance.info/recommendations
-PRAPAT,Basic Materials,0.7300000190734863,2.5771949248402635,253.04039143878802,,,,,,,,yfinance.info/recommendations
+PR9,Healthcare,16.200000762939453,11.340709845704001,-29.995621533253214,25.97308,25.1,32.0,21.0,13.0,1.16667,1970-01-01,yfinance.info/recommendations
+PRAKIT,Communication Services,11.699999809265137,7.23083878269496,-38.19795811476068,,,,,,,,yfinance.info/recommendations
+PRAPAT,Basic Materials,0.7300000190734863,2.590586112932488,254.87480071856044,,,,,,,,yfinance.info/recommendations
 PREB,Industrials,3.880000114440918,16.2312001728945,318.32988902458595,,,,,,,,yfinance.info/recommendations
-PRECHA,Real Estate,0.4799999892711639,-1.551660797259709,-423.2626733212565,,,,,,,,yfinance.info/recommendations
+PRECHA,Real Estate,0.4799999892711639,-1.5516607974491683,-423.26267336072715,,,,,,,,yfinance.info/recommendations
 PRG,Consumer Defensive,8.800000190734863,4.7607003380067585,-45.90113369521182,,,,,,,,yfinance.info/recommendations
-PRI,Real Estate,4.019999980926514,9.313392402644443,131.67642902570185,,,,,,,,yfinance.info/recommendations
+PRI,Real Estate,4.019999980926514,9.313392401150306,131.6764289885343,,,,,,,,yfinance.info/recommendations
 PRIME,Utilities,0.050000000745058,-0.17883491170126095,-457.66981807282673,,,,,,,,yfinance.info/recommendations
-PRIN,Real Estate,1.42,-1.6083042661416131,-213.26086381278967,,,,,,,,yfinance.info/recommendations
-PRINC,Healthcare,1.7400000095367432,-0.1874645832685582,-110.77382656557965,,,,,,,,yfinance.info/recommendations
+PRIN,Real Estate,1.4199999570846558,-1.6083042663906488,-213.2608672533056,,,,,,,,yfinance.info/recommendations
+PRINC,Healthcare,1.7400000095367432,-0.24729496937244955,-114.21235448373872,,,,,,,,yfinance.info/recommendations
 PRM,Energy,7.599999904632568,14.013059327671565,84.38236188831958,9.4,9.45,9.6,9.1,4.0,1.0,1970-01-01,yfinance.info/recommendations
-PROEN,Communication Services,0.9800000190734864,-0.0921407759835892,-109.4021198153344,,,,,,,,yfinance.info/recommendations
+PROEN,Communication Services,0.9800000190734864,-0.09226826719225402,-109.41512912208782,,,,,,,,yfinance.info/recommendations
 PROS,Industrials,0.3000000119209289,-0.6385968753391226,-312.8656166545212,,,,,,,,yfinance.info/recommendations
-PROSPECT,Real Estate,6.949999809265137,5.550973333046171,-20.129877908110227,9.8,9.8,9.8,9.8,1.0,,1970-01-01,yfinance.info/recommendations
-PROUD,Real Estate,0.9800000190734864,4.585561783718141,367.9144586194429,,,,,,,,yfinance.info/recommendations
+PROSPECT,Real Estate,6.949999809265137,5.550973331703686,-20.129877927426563,9.8,9.8,9.8,9.8,1.0,,1970-01-01,yfinance.info/recommendations
+PROUD,Real Estate,0.9800000190734864,4.585561784212731,367.91445866991126,,,,,,,,yfinance.info/recommendations
 PRTR,Industrials,3.200000047683716,5.340555687620268,66.8923627512434,,,,,,,,yfinance.info/recommendations
 PSGC,Industrials,3.1600000858306885,0.8068515902008975,-74.46672252261045,,,,,,,,yfinance.info/recommendations
-PSH,Real Estate,3.5199999809265137,3.0572668070212874,-13.145828875357788,3.19667,3.0,3.98,2.78,6.0,,1970-01-01,yfinance.info/recommendations
+PSH,Real Estate,3.5199999809265137,3.0572668058936907,-13.145828907391785,3.19667,3.0,3.98,2.78,6.0,,1970-01-01,yfinance.info/recommendations
 PSL,Industrials,6.75,4.349894682551538,-35.55711581405129,7.23333,7.5,7.7,6.5,3.0,,1970-01-01,yfinance.info/recommendations
-PSP,Basic Materials,4.420000076293945,4.479636061532164,1.3492304119646608,7.0,7.0,7.0,7.0,1.0,,1970-01-01,yfinance.info/recommendations
+PSP,Basic Materials,4.420000076293945,4.4592655726861485,0.8883596315483849,7.0,7.0,7.0,7.0,1.0,,1970-01-01,yfinance.info/recommendations
 PSTC,Energy,0.270000010728836,-3.7507923138310244,-1489.1822832547907,,,,,,,,yfinance.info/recommendations
 PT,Technology,11.699999809265137,16.893755999963954,44.39107927665027,,,,,,,,yfinance.info/recommendations
 PTC,Energy,0.6100000143051147,0.6601281811487782,8.217732076738935,,,,,,,,yfinance.info/recommendations
-PTECH,Industrials,1.7,-9.262162012076784,-644.8330595339285,,,,,,,,yfinance.info/recommendations
+PTECH,Industrials,1.7000000476837158,-9.262162012076784,-644.8330442517731,,,,,,,,yfinance.info/recommendations
 PTG,Consumer Cyclical,7.900000095367432,12.180956782010508,54.189324493216574,9.625,9.9,11.5,7.3,8.0,2.375,1970-01-01,yfinance.info/recommendations
-PTL,Basic Materials,9.949999809265137,4.559868084425549,-54.172179177535874,,,,,,,,yfinance.info/recommendations
+PTL,Basic Materials,9.949999809265137,4.572416591728865,-54.046063523828714,,,,,,,,yfinance.info/recommendations
 PTT,Energy,34.25,87.08516078346227,154.26324316339347,37.7,38.5,45.0,27.8,18.0,1.77778,1970-01-01,yfinance.info/recommendations
 PTTEP,Energy,155.0,526.5077539943932,239.68242193186654,149.27618,150.0,174.0,110.0,21.0,1.7619,1970-01-01,yfinance.info/recommendations
-PTTGC,Basic Materials,32.25,7.406342006553679,-77.03459842929092,24.95556,26.5,32.0,16.0,18.0,3.22222,1970-01-01,yfinance.info/recommendations
+PTTGC,Basic Materials,32.25,7.34403705108095,-77.22779208967148,24.95556,26.5,32.0,16.0,18.0,3.22222,1970-01-01,yfinance.info/recommendations
 PYLON,Industrials,3.0,2.271126106325594,-24.295796455813537,,,,,,,,yfinance.info/recommendations
 Q-CON,Industrials,7.150000095367432,15.402038900378221,115.41312860061892,,,,,,,,yfinance.info/recommendations
 QDC,Consumer Cyclical,0.1199999973177909,-3.1471072357720162,-2722.58942176279,,,,,,,,yfinance.info/recommendations
-QH,Real Estate,1.350000023841858,3.903448718856189,189.14434443843,1.3775,1.425,1.52,1.1,8.0,,1970-01-01,yfinance.info/recommendations
-QHBREIT,Real Estate,3.559999942779541,0.10509913065886574,-97.047777181232,,,,,,,,yfinance.info/recommendations
-QHHRREIT,Real Estate,7.150000095367432,29.678855006521605,315.0888756735945,,,,,,,,yfinance.info/recommendations
-QHOP,Real Estate,3.0999999046325684,0.32941866310629186,-89.37359118579273,,,,,,,,yfinance.info/recommendations
+QH,Real Estate,1.350000023841858,3.9034487184091784,189.14434440531812,1.3775,1.425,1.52,1.1,8.0,,1970-01-01,yfinance.info/recommendations
+QHBREIT,Real Estate,3.559999942779541,0.10509913063344785,-97.04777718194599,,,,,,,,yfinance.info/recommendations
+QHHRREIT,Real Estate,7.150000095367432,29.67885499934387,315.08887557320656,,,,,,,,yfinance.info/recommendations
+QHOP,Real Estate,3.0999999046325684,0.329418663026623,-89.37359118836271,,,,,,,,yfinance.info/recommendations
 QLT,Industrials,1.3899999856948853,1.589006286810609,14.317000227610578,,,,,,,,yfinance.info/recommendations
 QTC,Industrials,3.619999885559082,-1.494247560873838,-141.27755823514514,,,,,,,,yfinance.info/recommendations
 QTCG,Industrials,0.1000000014901161,-0.27152440330798416,-371.52439926195535,,,,,,,,yfinance.info/recommendations
 RABBIT,Industrials,0.3300000131130218,0.21185859415649616,-35.80042856424473,,,,,,,,yfinance.info/recommendations
-RAM,Healthcare,18.399999618530277,8.388212821313681,-54.41188589555145,19.25,19.25,20.3,18.2,2.0,,1970-01-01,yfinance.info/recommendations
+RAM,Healthcare,18.399999618530277,8.196964370364874,-55.45127967225677,19.25,19.25,20.3,18.2,2.0,,1970-01-01,yfinance.info/recommendations
 RATCH,Utilities,28.25,20.02397301886223,-29.118679579248745,33.4,32.0,42.0,29.0,7.0,2.14286,1970-01-01,yfinance.info/recommendations
 RBF,Consumer Defensive,3.5199999809265137,3.201810844501652,-9.039464151960296,3.57333,3.92,4.0,2.8,3.0,3.66667,1970-01-01,yfinance.info/recommendations
 RCL,Industrials,31.0,116.44358202995058,275.6244581611309,,,,,,,,yfinance.info/recommendations
 READY,Technology,3.140000104904175,9.289032627626039,195.82905469073282,,,,,,,,yfinance.info/recommendations
-RICHY,Real Estate,0.1500000059604644,-0.24860312207391633,-265.7354081302109,,,,,,,,yfinance.info/recommendations
-RJH,Healthcare,12.300000190734863,25.407646664592363,106.5662298422646,15.5,15.5,15.5,15.5,1.0,2.0,1970-01-01,yfinance.info/recommendations
-RML,Real Estate,0.1199999973177909,-0.7475989091707587,-722.9991049007477,,,,,,,,yfinance.info/recommendations
-ROCK,Consumer Cyclical,11.1,22.189146047273965,99.9022166421078,,,,,,,,yfinance.info/recommendations
+RICHY,Real Estate,0.1500000059604644,-0.24860312210427102,-265.73540815044737,,,,,,,,yfinance.info/recommendations
+RJH,Healthcare,12.300000190734863,24.94954894278554,102.84185817801136,15.5,15.5,15.5,15.5,1.0,2.0,1970-01-01,yfinance.info/recommendations
+RML,Real Estate,0.1199999973177909,-0.7475989092620412,-722.9991049768165,,,,,,,,yfinance.info/recommendations
+ROCK,Consumer Cyclical,11.100000381469728,22.189146047273965,99.90220977214008,,,,,,,,yfinance.info/recommendations
 ROCTEC,Technology,0.550000011920929,0.618588376407633,12.470611454562054,0.835,0.835,0.835,0.835,1.0,,,yfinance.info/recommendations
-ROH,Consumer Cyclical,1.21,-1.041139844823015,-186.04461527462934,,,,,,,,yfinance.info/recommendations
+ROH,Consumer Cyclical,1.2100000381469729,-1.041139844823015,-186.04461256195043,,,,,,,,yfinance.info/recommendations
 ROJNA,Utilities,4.960000038146973,18.2998871240991,268.94933434185685,6.95,6.95,8.6,5.3,2.0,,1970-01-01,yfinance.info/recommendations
 RP,Industrials,0.4799999892711639,2.2207358613103514,362.653314780764,,,,,,,,yfinance.info/recommendations
-RPC,Consumer Cyclical,0.3000000119209289,0.3300208010757303,10.006929320627487,,,,,,,,yfinance.info/recommendations
-RPH,Healthcare,4.980000019073486,4.561044931509487,-8.412752730108311,,,,,,,,yfinance.info/recommendations
-RS,Communication Services,0.1500000059604644,-1.6687998445909937,-1212.5331855192328,,,,,,,,yfinance.info/recommendations
+RPC,Consumer Cyclical,0.3000000119209289,-0.2705609762112224,-190.18698848669854,,,,,,,,yfinance.info/recommendations
+RPH,Healthcare,4.980000019073486,4.588825367955155,-7.854912642974407,,,,,,,,yfinance.info/recommendations
+RS,Communication Services,0.1500000059604644,-1.1857917437328673,-890.527797742493,,,,,,,,yfinance.info/recommendations
 RSP,Consumer Cyclical,0.9200000166893004,2.6069090498167435,183.35967418760828,,,,,,,,yfinance.info/recommendations
 RT,Industrials,0.2599999904632568,0.7820457201023914,200.78682645679174,,,,,,,,yfinance.info/recommendations
 RWI,Basic Materials,0.1899999976158142,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 S,Consumer Cyclical,0.5,-2.600570708639664,-620.1141417279329,,,,,,,,yfinance.info/recommendations
-S11,Financial Services,3.839999914169312,3.7834383042425133,-1.472958624766907,,,,,,,,yfinance.info/recommendations
-SA,Real Estate,7.199999809265137,-4.123030295088638,-157.26431117099503,,,,,,,,yfinance.info/recommendations
+S11,Financial Services,3.839999914169312,3.7834382983583787,-1.4729587779995799,,,,,,,,yfinance.info/recommendations
+SA,Real Estate,7.199999809265137,-4.123030296580048,-157.26431119170908,,,,,,,,yfinance.info/recommendations
 SAAM,Utilities,4.960000038146973,-0.538671810297099,-110.86031867246402,,,,,,,,yfinance.info/recommendations
 SABINA,Consumer Cyclical,15.199999809265137,26.75855414536411,76.0431215864455,16.925,17.55,18.2,14.4,4.0,,1970-01-01,yfinance.info/recommendations
-SAF,Basic Materials,0.3199999928474426,0.16609384372036326,-48.09567267723436,,,,,,,,yfinance.info/recommendations
-SAFE,Healthcare,6.0,10.053377863081217,67.55629771802028,8.58333,8.8,9.7,7.25,3.0,1.66667,1970-01-01,yfinance.info/recommendations
-SAK,Financial Services,3.3399999141693115,2.8884153296125077,-13.520496891064054,4.82667,4.6,5.28,4.6,3.0,1.0,1970-01-01,yfinance.info/recommendations
-SALEE,Basic Materials,0.3899999856948852,0.515148226296944,32.08929363909464,,,,,,,,yfinance.info/recommendations
-SAM,Basic Materials,0.15,-0.2684813959366746,-278.9875972911164,,,,,,,,yfinance.info/recommendations
+SAF,Basic Materials,0.3199999928474426,0.16469659936840997,-48.5323115469794,,,,,,,,yfinance.info/recommendations
+SAFE,Healthcare,6.0,9.966857403063795,66.11429005106325,8.58333,8.8,9.7,7.25,3.0,1.66667,1970-01-01,yfinance.info/recommendations
+SAK,Financial Services,3.3399999141693115,2.8884153341116567,-13.520496756358988,4.82667,4.6,5.28,4.6,3.0,1.0,1970-01-01,yfinance.info/recommendations
+SALEE,Basic Materials,0.3899999856948852,0.511282455245527,31.09807025621959,,,,,,,,yfinance.info/recommendations
+SAM,Basic Materials,0.1500000059604644,-0.26622282869736963,-277.4818787457503,,,,,,,,yfinance.info/recommendations
 SAMART,Technology,5.550000190734863,9.009552927889112,62.334281410108886,8.645,8.645,8.645,8.645,1.0,,1970-01-01,yfinance.info/recommendations
-SAMCO,Real Estate,0.699999988079071,0.3310909918091437,-52.70128607891574,,,,,,,,yfinance.info/recommendations
-SAMTEL,Communication Services,3.759999990463257,7.4079480145193815,97.01989450288997,,,,,,,,yfinance.info/recommendations
+SAMCO,Real Estate,0.699999988079071,0.33109099184957025,-52.701286073140515,,,,,,,,yfinance.info/recommendations
+SAMTEL,Communication Services,3.759999990463257,7.411656467302035,97.11852356650857,,,,,,,,yfinance.info/recommendations
 SANKO,Consumer Cyclical,0.8299999833106995,3.346715389725775,303.2187297614651,,,,,,,,yfinance.info/recommendations
 SAPPE,Consumer Defensive,29.5,67.06401969835315,127.33565999441745,32.625,32.5,35.75,28.0,8.0,3.5,1970-01-01,yfinance.info/recommendations
 SAT,Consumer Cyclical,14.100000381469728,23.3796541313573,65.81314538177548,15.26,14.5,17.0,13.7,5.0,2.6,1970-01-01,yfinance.info/recommendations
 SAUCE,Consumer Defensive,41.5,26.168579454198902,-36.94318203807494,,,,,,,,yfinance.info/recommendations
 SAV,Industrials,11.0,11.135676580746214,1.2334234613292174,17.05,17.05,18.1,16.0,2.0,1.0,1970-01-01,yfinance.info/recommendations
-SAWAD,Financial Services,22.5,10.87827166274846,-51.652125943340174,31.85938,32.5,36.0,22.0,16.0,1.4,1970-01-01,yfinance.info/recommendations
-SAWANG,Consumer Cyclical,6.15,-5.606144211602839,-191.15681644882665,,,,,,,,yfinance.info/recommendations
-SC,Real Estate,1.940000057220459,4.41162666360597,127.40342956106619,2.29375,2.225,2.8,1.95,8.0,1.33333,1970-01-01,yfinance.info/recommendations
-SCAP,Financial Services,1.059999942779541,0.1848275518784177,-82.56343756078314,,,,,,,,yfinance.info/recommendations
-SCB,Financial Services,144.0,24.75607265536295,-82.80828287822017,144.16667,145.0,160.0,129.0,18.0,2.63158,1970-01-01,yfinance.info/recommendations
+SAWAD,Financial Services,22.5,10.878271746681513,-51.652125570304385,31.85938,32.5,36.0,22.0,16.0,1.4,1970-01-01,yfinance.info/recommendations
+SAWANG,Consumer Cyclical,6.150000095367432,-5.606144211602839,-191.1568150352671,,,,,,,,yfinance.info/recommendations
+SC,Real Estate,1.940000057220459,4.41162666222003,127.40342948962598,2.29375,2.225,2.8,1.95,8.0,1.33333,1970-01-01,yfinance.info/recommendations
+SCAP,Financial Services,1.059999942779541,0.18482755330448436,-82.56343742624854,,,,,,,,yfinance.info/recommendations
+SCB,Financial Services,144.0,24.756072846372405,-82.80828274557473,144.16667,145.0,160.0,129.0,18.0,2.63158,1970-01-01,yfinance.info/recommendations
 SCC,Industrials,181.5,75.01885460659663,-58.667297737412326,213.71053,200.0,462.5,133.0,19.0,2.95,1970-01-01,yfinance.info/recommendations
-SCCC,Basic Materials,139.0,187.31197878478136,34.756819269626874,179.5,179.5,185.0,174.0,2.0,,1970-01-01,yfinance.info/recommendations
+SCCC,Basic Materials,139.0,186.68898586692873,34.308622925848006,179.5,179.5,185.0,174.0,2.0,,1970-01-01,yfinance.info/recommendations
 SCG,Utilities,2.359999895095825,-0.7768628700351735,-132.91791968506126,,,,,,,,yfinance.info/recommendations
-SCGD,Basic Materials,5.050000190734863,7.678710180259785,52.05366119288004,6.4,6.0,7.5,5.7,3.0,,1970-01-01,yfinance.info/recommendations
+SCGD,Basic Materials,5.050000190734863,7.6490412688843215,51.46615801951589,6.4,6.0,7.5,5.7,3.0,,1970-01-01,yfinance.info/recommendations
 SCGP,Consumer Cyclical,17.600000381469727,24.35047970772532,38.354995340584644,20.30556,20.0,26.0,13.0,18.0,,1970-01-01,yfinance.info/recommendations
 SCI,Industrials,0.9800000190734864,0.7011411715839306,-28.45498388389779,,,,,,,,yfinance.info/recommendations
 SCL,Consumer Cyclical,1.159999966621399,0.633655172795277,-45.3745524975442,,,,,,,,yfinance.info/recommendations
 SCM,Consumer Defensive,0.1199999973177909,-0.46068800934697396,-483.90668303679496,,,,,,,,yfinance.info/recommendations
 SCN,Utilities,0.3400000035762787,-0.972724956784051,-386.0955725154341,,,,,,,,yfinance.info/recommendations
-SCP,Basic Materials,7.599999904632568,12.28596361005573,61.65741795031917,,,,,,,,yfinance.info/recommendations
+SCP,Basic Materials,7.599999904632568,12.222242669169518,60.818984507084906,,,,,,,,yfinance.info/recommendations
 SDC,Technology,0.0299999993294477,0.050771320650398966,69.23773928408838,,,,,,,,yfinance.info/recommendations
 SE,Industrials,0.4600000083446502,0.5669684064941356,23.25399917587402,,,,,,,,yfinance.info/recommendations
 SE-ED,Consumer Cyclical,1.649999976158142,-0.18012994838737695,-110.91696672667786,,,,,,,,yfinance.info/recommendations
 SEAFCO,Industrials,2.380000114440918,3.1179259724317583,31.005286660004437,2.4,2.4,2.4,2.4,1.0,3.0,1970-01-01,yfinance.info/recommendations
 SEAOIL,Energy,3.660000085830689,10.803209781499767,195.16965923916982,,,,,,,,yfinance.info/recommendations
 SECURE,Technology,11.5,15.563446913962746,35.3343209909804,22.2,22.2,22.2,22.2,1.0,,1970-01-01,yfinance.info/recommendations
-SEI,Healthcare,2.2799999713897705,7.45354864940245,226.91003258474387,,,,,,,,yfinance.info/recommendations
-SELIC,Basic Materials,2.700000047683716,3.081692643036156,14.136762541166913,,,,,,,,yfinance.info/recommendations
-SENA,Real Estate,1.8799999952316284,-7.810158825046399,-515.433981109353,,,,,,,,yfinance.info/recommendations
-SENX,Real Estate,0.2199999988079071,0.14857884477880853,-32.46416109822797,,,,,,,,yfinance.info/recommendations
-SFLEX,Consumer Cyclical,3.1600000858306885,5.000007400226362,58.22807798791499,3.65,3.65,3.7,3.6,2.0,1.0,1970-01-01,yfinance.info/recommendations
+SEI,Healthcare,2.2799999713897705,6.890642822609437,202.2211802226145,,,,,,,,yfinance.info/recommendations
+SELIC,Basic Materials,2.700000047683716,3.0622298959397027,13.41592006884362,,,,,,,,yfinance.info/recommendations
+SENA,Real Estate,1.8799999952316284,-7.810158826641391,-515.4339811941929,,,,,,,,yfinance.info/recommendations
+SENX,Real Estate,0.2199999988079071,0.14857884478678587,-32.4641610946019,,,,,,,,yfinance.info/recommendations
+SFLEX,Consumer Cyclical,3.1600000858306885,5.393167385734472,70.66984934327105,3.65,3.65,3.7,3.6,2.0,1.0,1970-01-01,yfinance.info/recommendations
 SFT,Industrials,1.7300000190734863,2.223174225763086,28.50717926313797,,,,,,,,yfinance.info/recommendations
-SGC,Financial Services,0.8199999928474426,0.10198736697490204,-87.56251611408533,,,,,,,,yfinance.info/recommendations
-SGF,Financial Services,0.1500000059604644,0.72018362926812,380.12240043373015,,,,,,,,yfinance.info/recommendations
+SGC,Financial Services,0.8199999928474426,0.10198736720973542,-87.56251608544711,,,,,,,,yfinance.info/recommendations
+SGF,Financial Services,0.1500000059604644,0.7201836270026953,380.1223989234471,,,,,,,,yfinance.info/recommendations
 SGP,Energy,7.800000190734863,6.695865785731655,-14.155568948764142,,,,,,,,yfinance.info/recommendations
 SHANG,Consumer Cyclical,44.5,65.01755735096634,46.10687045160976,,,,,,,,yfinance.info/recommendations
 SHR,Consumer Cyclical,1.5299999713897705,-1.0552474611823421,-168.9704235892117,2.96667,3.0,3.3,2.6,3.0,1.0,1970-01-01,yfinance.info/recommendations
 SIAM,Consumer Cyclical,0.6499999761581421,0.7131856783912102,9.720877623185524,,,,,,,,yfinance.info/recommendations
 SICT,Technology,2.319999933242798,5.020115551386274,116.3842972344128,2.94,2.94,2.94,2.94,1.0,,1970-01-01,yfinance.info/recommendations
 SIMAT,Technology,1.1799999475479126,-0.11116008333714938,-109.42034646426421,,,,,,,,yfinance.info/recommendations
-SINGER,Financial Services,4.960000038146973,3.2364477602076422,-34.74903759442791,6.7,6.7,6.7,6.7,1.0,,1970-01-01,yfinance.info/recommendations
+SINGER,Financial Services,4.960000038146973,3.236447751364144,-34.74903777272425,6.7,6.7,6.7,6.7,1.0,,1970-01-01,yfinance.info/recommendations
 SINO,Industrials,0.8700000047683716,2.227923471362697,156.0831562243334,,,,,,,,yfinance.info/recommendations
-SIRI,Real Estate,1.3899999856948853,4.1994302768500615,202.1172892135458,1.72,1.66,2.0,1.52,9.0,1.3,1970-01-01,yfinance.info/recommendations
-SIRIPRT,Real Estate,7.0,8.001858321284669,14.312261732638124,,,,,,,,yfinance.info/recommendations
+SIRI,Real Estate,1.3899999856948853,4.199430276043194,202.1172891554978,1.72,1.66,2.0,1.52,9.0,1.3,1970-01-01,yfinance.info/recommendations
+SIRIPRT,Real Estate,7.0,8.001858319349445,14.312261704992071,,,,,,,,yfinance.info/recommendations
 SIS,Technology,19.700000762939453,27.44399343700995,39.309605960213226,24.0,24.0,24.0,24.0,1.0,,1970-01-01,yfinance.info/recommendations
-SISB,Consumer Defensive,10.100000381469728,10.02737074190189,-0.7191053150957303,15.66667,16.25,18.0,12.8,6.0,,1970-01-01,yfinance.info/recommendations
-SITHAI,Consumer Cyclical,1.0,2.6687807621272537,166.87807621272538,,,,,,,,yfinance.info/recommendations
+SISB,Consumer Defensive,10.100000381469728,10.02737074190189,-0.7191053150957303,14.85,15.0,18.0,11.3,6.0,1.57143,1970-01-01,yfinance.info/recommendations
+SITHAI,Consumer Cyclical,1.0,2.7163935210010672,171.63935210010672,,,,,,,,yfinance.info/recommendations
 SJWD,Industrials,7.150000095367432,15.910439577100597,122.52362748091647,12.01667,12.2,13.4,10.0,6.0,1.0,1970-01-01,yfinance.info/recommendations
-SK,Basic Materials,0.5600000023841858,0.9064977693022858,61.87460097194545,,,,,,,,yfinance.info/recommendations
+SK,Basic Materials,0.5600000023841858,0.9106028255050271,62.60764671931406,,,,,,,,yfinance.info/recommendations
 SKE,Utilities,0.1500000059604644,-0.5162318286601923,-444.15453876465574,,,,,,,,yfinance.info/recommendations
 SKIN,Consumer Defensive,1.1100000143051147,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-SKN,Basic Materials,5.699999809265137,6.931386133863159,21.603269575491026,,,,,,,,yfinance.info/recommendations
-SKR,Healthcare,6.800000190734863,6.763579814929539,-0.5355937468200045,,,,,,,,yfinance.info/recommendations
-SKY,Technology,12.5,7.825755673394541,-37.39395461284367,16.2,16.2,16.2,16.2,1.0,1.0,1970-01-01,yfinance.info/recommendations
+SKN,Basic Materials,5.699999809265137,7.053599056377549,23.747356007138585,,,,,,,,yfinance.info/recommendations
+SKR,Healthcare,6.800000190734863,6.773233990135045,-0.393620586015386,,,,,,,,yfinance.info/recommendations
+SKY,Technology,12.5,7.825755673394541,-37.39395461284367,16.2,16.2,16.2,16.2,1.0,,1970-01-01,yfinance.info/recommendations
 SLP,Industrials,0.3899999856948852,0.8489176838251327,117.67120896493563,,,,,,,,yfinance.info/recommendations
 SMART,Unknown,0.6100000143051147,1.0092578173882927,65.4520973311771,,,,,,,,yfinance.info/recommendations
-SMD100,Healthcare,1.850000023841858,-1.4474689861887176,-178.2415658126743,,,,,,,,yfinance.info/recommendations
-SMIT,Basic Materials,3.5199999809265137,3.426934468329793,-2.6439066221876697,,,,,,,,yfinance.info/recommendations
+SMD100,Healthcare,1.850000023841858,-1.4693689937572425,-179.42534999031153,,,,,,,,yfinance.info/recommendations
+SMIT,Basic Materials,3.5199999809265137,3.4106800757024076,-3.105679142513277,,,,,,,,yfinance.info/recommendations
 SMO,Consumer Defensive,4.960000038146973,5.018175702380515,1.1728964473007615,8.0,8.0,8.0,8.0,1.0,,,yfinance.info/recommendations
 SMPC,Industrials,9.199999809265137,18.085205439619667,96.57832407133766,,,,,,,,yfinance.info/recommendations
 SMT,Technology,1.3200000524520874,0.9495907172324057,-28.061312159161943,,,,,,,,yfinance.info/recommendations
 SNC,Technology,5.699999809265137,6.115305769235359,7.2860697169701325,,,,,,,,yfinance.info/recommendations
-SNNP,Consumer Defensive,7.099999904632568,9.914858362648612,39.645894307398805,8.01,7.2,11.5,6.4,5.0,3.6,1970-01-01,yfinance.info/recommendations
+SNNP,Consumer Defensive,7.099999904632568,9.914858362648612,39.645894307398805,8.01,7.2,11.5,6.4,5.0,,1970-01-01,yfinance.info/recommendations
 SNP,Consumer Cyclical,9.100000381469728,20.013441991296006,119.92792475096208,,,,,,,,yfinance.info/recommendations
 SNPS,Consumer Defensive,4.760000228881836,3.013367995795226,-36.69395271220204,6.4,6.4,6.4,6.4,1.0,,1970-01-01,yfinance.info/recommendations
 SO,Industrials,4.260000228881836,6.344272848443901,48.92658468492957,,,,,,,,yfinance.info/recommendations
@@ -676,224 +676,224 @@ SONIC,Industrials,1.4500000476837158,4.1424825555593205,185.68844271258314,,,,,,
 SORKON,Consumer Defensive,3.799999952316284,7.964965026984769,109.60434544557658,,,,,,,,yfinance.info/recommendations
 SPA,Consumer Cyclical,3.299999952316284,4.0693106765562135,23.312446525944548,4.31429,4.4,5.0,3.5,7.0,1.71429,1970-01-01,yfinance.info/recommendations
 SPACK,Consumer Cyclical,1.2000000476837158,4.127589222628933,243.96575488443997,,,,,,,,yfinance.info/recommendations
-SPALI,Real Estate,16.799999237060547,42.075253175303736,150.44794694089245,18.73571,18.65,21.6,16.2,14.0,2.14286,1970-01-01,yfinance.info/recommendations
+SPALI,Real Estate,16.799999237060547,42.07525316647133,150.4479468883186,18.73571,18.65,21.6,16.2,14.0,2.14286,1970-01-01,yfinance.info/recommendations
 SPC,Consumer Defensive,56.0,131.54514716916623,134.90204851636827,,,,,,,,yfinance.info/recommendations
 SPCG,Utilities,9.050000190734863,11.609274900757503,28.27927796778119,,,,,,,,yfinance.info/recommendations
-SPG,Basic Materials,11.0,14.119833797191589,28.362125429014444,,,,,,,,yfinance.info/recommendations
-SPI,Real Estate,43.75,43.07227377435916,-1.5490885157504897,,,,,,,,yfinance.info/recommendations
-SPRC,Energy,7.300000190734863,9.26873147138272,26.96892094806469,8.144066,8.225,10.626701,5.5930004,13.0,1.53846,1970-01-01,yfinance.info/recommendations
+SPG,Basic Materials,11.0,14.080977900670442,28.008890006094926,,,,,,,,yfinance.info/recommendations
+SPI,Real Estate,43.75,43.07227376235808,-1.549088543181532,,,,,,,,yfinance.info/recommendations
+SPRC,Energy,7.300000190734863,9.26873147138272,26.96892094806469,8.04505,8.125,10.4975,5.525,13.0,1.53846,1970-01-01,yfinance.info/recommendations
 SPREME,Technology,1.5399999618530271,4.6701311992529355,203.25528019062625,,,,,,,,yfinance.info/recommendations
-SPRIME,Real Estate,3.440000057220459,3.363187122746547,-2.2329341045411852,,,,,,,,yfinance.info/recommendations
+SPRIME,Real Estate,3.440000057220459,3.363187121933171,-2.232934128185837,,,,,,,,yfinance.info/recommendations
 SPTX,Technology,0.0099999997764825,-0.0025346039512226387,-125.34604007875474,,,,,,,,yfinance.info/recommendations
 SPVI,Technology,2.5799999237060547,4.93541053735416,91.29498772483153,,,,,,,,yfinance.info/recommendations
 SQ,Industrials,0.270000010728836,0.5261637520602984,94.87545598238161,,,,,,,,yfinance.info/recommendations
 SR,Industrials,0.3199999928474426,-0.09337822433819123,-129.18069575792413,,,,,,,,yfinance.info/recommendations
 SRICHA,Industrials,14.199999809265137,13.590542333978062,-4.291954108967094,,,,,,,,yfinance.info/recommendations
-SRIPANWA,Real Estate,5.25,1.127650352940258,-78.52094565828081,,,,,,,,yfinance.info/recommendations
+SRIPANWA,Real Estate,5.25,1.1276503526675392,-78.52094566347544,,,,,,,,yfinance.info/recommendations
 SRS,Technology,1.4600000381469729,1.8497281176900968,26.693703380841384,,,,,,,,yfinance.info/recommendations
 SSF,Consumer Defensive,5.050000190734863,16.47534509719057,226.24444504809253,,,,,,,,yfinance.info/recommendations
 SSP,Utilities,3.400000095367432,1.5283981934237292,-55.04711321902014,4.8,4.8,4.8,4.8,1.0,,1970-01-01,yfinance.info/recommendations
-SSSC,Basic Materials,2.200000047683716,2.792728625340602,26.942207491356378,,,,,,,,yfinance.info/recommendations
+SSSC,Basic Materials,2.200000047683716,2.831840433212761,28.720016901557905,,,,,,,,yfinance.info/recommendations
 SST,Consumer Defensive,1.25,-2.3429477969156998,-287.435823753256,,,,,,,,yfinance.info/recommendations
-SSTRT,Real Estate,4.28000020980835,0.6073980096607073,-85.80845841388626,,,,,,,,yfinance.info/recommendations
-STA,Basic Materials,16.0,8.42721459028898,-47.32990881069388,16.125,16.3,18.8,13.1,4.0,1.0,1970-01-01,yfinance.info/recommendations
+SSTRT,Real Estate,4.28000020980835,0.6073980095138101,-85.80845841731843,,,,,,,,yfinance.info/recommendations
+STA,Basic Materials,16.0,8.356321667798703,-47.772989576258105,16.125,16.3,18.8,13.1,4.0,1.0,1970-01-01,yfinance.info/recommendations
 STANLY,Consumer Cyclical,197.0,221.06163367952175,12.214027248488197,208.66,220.0,230.0,182.0,5.0,,1970-01-01,yfinance.info/recommendations
-STARM,Financial Services,0.9300000071525574,1.1975730322059126,28.771292795212045,,,,,,,,yfinance.info/recommendations
-STC,Basic Materials,0.4300000071525574,0.19331620643241498,-55.0427434379485,,,,,,,,yfinance.info/recommendations
-STECH,Basic Materials,1.0299999713897705,5.336212871098146,418.07893391472993,,,,,,,,yfinance.info/recommendations
+STARM,Financial Services,0.9300000071525574,1.1975730302957261,28.77129258981565,,,,,,,,yfinance.info/recommendations
+STC,Basic Materials,0.4300000071525574,0.19188345595403156,-55.375941218076704,,,,,,,,yfinance.info/recommendations
+STECH,Basic Materials,1.0299999713897705,5.364637739878972,420.8386299895243,,,,,,,,yfinance.info/recommendations
 STECON,Industrials,11.399999618530272,9.444523227588068,-17.153302248919818,12.0,11.45,16.0,10.0,12.0,2.0,1970-01-01,yfinance.info/recommendations
-STELLA,Real Estate,0.1899999976158142,-0.681226942505115,-458.540500554414,,,,,,,,yfinance.info/recommendations
-STGT,Basic Materials,9.899999618530272,7.811027268325784,-21.100731623205974,10.53333,11.0,14.0,6.6,3.0,,1970-01-01,yfinance.info/recommendations
+STELLA,Real Estate,0.1899999976158142,-0.6812269425882934,-458.5405005981921,,,,,,,,yfinance.info/recommendations
+STGT,Basic Materials,9.899999618530272,7.812181464915366,-21.089073071346824,10.0,9.7,14.0,6.6,4.0,2.25,1970-01-01,yfinance.info/recommendations
 STI,Industrials,1.7000000476837158,2.40416727555103,41.42160047740918,,,,,,,,yfinance.info/recommendations
-STOWER,Basic Materials,0.0199999995529651,0.02570759554578611,28.537980601978706,,,,,,,,yfinance.info/recommendations
-STP,Basic Materials,10.600000381469728,18.057588588847164,70.35460319807474,,,,,,,,yfinance.info/recommendations
+STOWER,Basic Materials,0.0199999995529651,-0.015325866754333641,-176.62933548446756,,,,,,,,yfinance.info/recommendations
+STP,Basic Materials,10.600000381469728,18.034924387884764,70.14078998914297,,,,,,,,yfinance.info/recommendations
 STPI,Industrials,4.199999809265137,2.566573471440425,-38.89110504770495,,,,,,,,yfinance.info/recommendations
-STX,Basic Materials,1.0,5.492276482538572,449.22764825385724,,,,,,,,yfinance.info/recommendations
+STX,Basic Materials,1.0,5.531001304939144,453.1001304939144,,,,,,,,yfinance.info/recommendations
 SUC,Industrials,28.75,112.48197831234219,291.2416636951033,,,,,,,,yfinance.info/recommendations
 SUN,Consumer Defensive,2.740000009536743,7.062460214212292,157.75402151937786,,,,,,,,yfinance.info/recommendations
 SUPER,Utilities,0.1099999994039535,0.7856456027654631,614.2232791114237,,,,,,,,yfinance.info/recommendations
 SUSCO,Energy,2.0199999809265137,6.00211285934886,197.1343027734025,3.1,3.1,3.1,3.1,1.0,,,yfinance.info/recommendations
-SUTHA,Basic Materials,2.2799999713897705,2.3752202363990422,4.176327465093359,,,,,,,,yfinance.info/recommendations
+SUTHA,Basic Materials,2.2799999713897705,2.4109194397542444,5.742082017863892,,,,,,,,yfinance.info/recommendations
 SVI,Technology,7.400000095367432,9.676170438725961,30.759058297627107,6.0875,6.125,6.8,5.3,4.0,,,yfinance.info/recommendations
 SVOA,Technology,1.4800000190734863,-0.7963707739304762,-153.80883538292264,,,,,,,,yfinance.info/recommendations
-SVR,Real Estate,0.3000000119209289,-0.35447523690522964,-218.15840760654993,,,,,,,,yfinance.info/recommendations
+SVR,Real Estate,0.3000000119209289,-0.3544752369485114,-218.15840762097721,,,,,,,,yfinance.info/recommendations
 SVT,Industrials,1.2699999809265137,3.3249925693142264,161.8104424606776,,,,,,,,yfinance.info/recommendations
-SWC,Basic Materials,4.4,4.175692940729492,-5.0978877106933655,,,,,,,,yfinance.info/recommendations
-SYMC,Communication Services,3.5999999046325684,10.165157733638997,182.36550008121452,6.0,6.0,6.0,6.0,1.0,,,yfinance.info/recommendations
-SYNEX,Technology,9.300000190734863,2.837369220580071,-69.49065416786976,12.775,12.55,14.4,11.6,4.0,1.25,1970-01-01,yfinance.info/recommendations
+SWC,Basic Materials,4.400000095367432,4.149668350375394,-5.689357717414627,,,,,,,,yfinance.info/recommendations
+SYMC,Communication Services,3.5999999046325684,10.155673046220652,182.10203653483666,6.0,6.0,6.0,6.0,1.0,,,yfinance.info/recommendations
+SYNEX,Technology,9.300000190734863,2.837369220580071,-69.49065416786976,12.775,12.55,14.4,11.6,4.0,1.0,1970-01-01,yfinance.info/recommendations
 SYNTEC,Industrials,1.690000057220459,8.546348340201419,405.70106809686075,,,,,,,,yfinance.info/recommendations
-TACC,Consumer Defensive,5.400000095367432,4.754796790444955,-11.948209139403275,7.03333,7.0,7.4,6.7,3.0,1.66667,1970-01-01,yfinance.info/recommendations
-TAE,Basic Materials,0.8399999737739563,0.24352622499795315,-71.00878183319014,,,,,,,,yfinance.info/recommendations
+TACC,Consumer Defensive,5.400000095367432,4.754796790444955,-11.948209139403275,6.975,6.9,7.4,6.7,4.0,,1970-01-01,yfinance.info/recommendations
+TAE,Basic Materials,0.8399999737739563,0.2414775901129434,-71.25266694616292,,,,,,,,yfinance.info/recommendations
 TAKUNI,Industrials,0.3400000035762787,-1.2388886400319412,-464.37900794139193,,,,,,,,yfinance.info/recommendations
 TAN,Consumer Cyclical,4.0,8.861344610827937,121.53361527069842,,,,,,,,yfinance.info/recommendations
-TASCO,Basic Materials,13.100000381469728,24.28877286318324,85.41047447250692,16.96667,16.95,18.4,15.3,6.0,,1970-01-01,yfinance.info/recommendations
+TASCO,Basic Materials,13.100000381469728,24.4155945464981,86.37857889710106,16.96667,16.95,18.4,15.3,6.0,,1970-01-01,yfinance.info/recommendations
 TATG,Consumer Cyclical,0.9800000190734864,3.632924805135168,270.70660555392794,,,,,,,,yfinance.info/recommendations
 TBN,Technology,3.9800000190734863,9.30798203762628,133.86889429696805,,,,,,,,yfinance.info/recommendations
 TC,Consumer Defensive,5.5,17.452840757847465,217.32437741540846,,,,,,,,yfinance.info/recommendations
-TCAP,Financial Services,55.25,13.735401201991419,-75.13954533576214,59.2,60.0,61.0,54.0,5.0,,1970-01-01,yfinance.info/recommendations
+TCAP,Financial Services,55.25,13.735401307969113,-75.1395451439473,59.2,60.0,61.0,54.0,5.0,,1970-01-01,yfinance.info/recommendations
 TCC,Energy,0.3000000119209289,0.3101145555388011,3.3715144053187798,,,,,,,,yfinance.info/recommendations
 TCJ,Industrials,2.319999933242798,4.809443977173843,107.30362567085963,,,,,,,,yfinance.info/recommendations
 TCMC,Consumer Cyclical,0.3100000023841858,-3.3088152741148926,-1167.3597576345333,,,,,,,,yfinance.info/recommendations
 TCOAT,Consumer Cyclical,26.25,-7.885521594771409,-130.04008226579583,,,,,,,,yfinance.info/recommendations
 TEAM,Technology,2.5799999237060547,3.536233197015551,37.06330626304477,,,,,,,,yfinance.info/recommendations
 TEAMG,Industrials,2.799999952316284,1.6806626006881844,-39.97633466751077,,,,,,,,yfinance.info/recommendations
-TEGH,Basic Materials,3.200000047683716,15.094144612781614,371.69201212066673,4.0,4.0,4.0,4.0,1.0,,1970-01-01,yfinance.info/recommendations
+TEGH,Basic Materials,3.200000047683716,15.16541413593825,373.9191846861241,4.0,4.0,4.0,4.0,1.0,,1970-01-01,yfinance.info/recommendations
 TEKA,Industrials,1.690000057220459,8.040718044775149,375.7821167177774,,,,,,,,yfinance.info/recommendations
 TERA,Technology,0.9900000095367432,1.1224218358199796,13.375941919960322,,,,,,,,yfinance.info/recommendations
-TFG,Consumer Defensive,7.150000095367432,15.145540847220367,111.82574328961674,5.92222,5.9,6.5,5.2,9.0,1.55556,1970-01-01,yfinance.info/recommendations
+TFG,Consumer Defensive,7.150000095367432,15.145540847220367,111.82574328961674,6.06667,5.9,7.8,5.2,9.0,1.55556,1970-01-01,yfinance.info/recommendations
 TFI,Consumer Cyclical,0.050000000745058,-0.06667271183998519,-233.34542169296896,,,,,,,,yfinance.info/recommendations
 TFM,Consumer Defensive,6.099999904632568,6.020558120101342,-1.3023243569380334,7.2,7.2,7.2,7.2,1.0,,1970-01-01,yfinance.info/recommendations
 TFMAMA,Consumer Defensive,188.0,256.8086949264056,36.600369641705115,,,,,,,,yfinance.info/recommendations
 TGE,Utilities,1.1699999570846558,2.1128038455212317,80.58153188191605,,,,,,,,yfinance.info/recommendations
-TGH,Financial Services,10.300000190734863,25.521050989935812,147.77718948872163,,,,,,,,yfinance.info/recommendations
-TGPRO,Basic Materials,0.0299999993294477,-0.09238137646663094,-407.937928438386,,,,,,,,yfinance.info/recommendations
-TH,Financial Services,0.449999988079071,0.6919345135184956,53.76322929966688,,,,,,,,yfinance.info/recommendations
+TGH,Financial Services,10.300000190734863,25.52105092859907,147.7771888932193,,,,,,,,yfinance.info/recommendations
+TGPRO,Basic Materials,0.0299999993294477,-0.09160422932136414,-405.3474378962614,,,,,,,,yfinance.info/recommendations
+TH,Financial Services,0.449999988079071,0.6919345150896149,53.763229648804526,,,,,,,,yfinance.info/recommendations
 THAI,Industrials,6.0,124.5462255351808,1975.7704255863466,8.57308,7.8,13.0,6.5,13.0,2.0,1970-01-01,yfinance.info/recommendations
-THANA,Real Estate,1.5700000524520874,0.9428894523645144,-39.94334898958297,,,,,,,,yfinance.info/recommendations
-THANI,Financial Services,1.6399999856948853,2.569678296915182,56.687702398142534,2.3375,2.33,2.4,2.29,4.0,,1970-01-01,yfinance.info/recommendations
+THANA,Real Estate,1.5700000524520874,0.9428894524796422,-39.943348982249994,,,,,,,,yfinance.info/recommendations
+THANI,Financial Services,1.6399999856948853,2.5696782903919444,56.68770200038414,2.3375,2.33,2.4,2.29,4.0,,1970-01-01,yfinance.info/recommendations
 THCOM,Technology,11.699999809265137,2.5590883287441346,-78.12744982510502,11.48125,11.5,13.0,9.925,4.0,1.2,1970-01-01,yfinance.info/recommendations
-THE,Basic Materials,0.8100000023841858,0.6045439154828327,-25.364948925506862,,,,,,,,yfinance.info/recommendations
-THG,Healthcare,8.199999809265137,3.5482300113749687,-56.72890129380439,8.8,8.8,10.4,7.2,2.0,,1970-01-01,yfinance.info/recommendations
+THE,Basic Materials,0.8100000023841858,0.5994582629836452,-25.99280725689182,,,,,,,,yfinance.info/recommendations
+THG,Healthcare,8.199999809265137,3.5876308490190523,-56.24840326257804,8.8,8.8,10.4,7.2,2.0,,1970-01-01,yfinance.info/recommendations
 THIP,Consumer Cyclical,22.600000381469727,68.32323287918148,202.31518462805562,,,,,,,,yfinance.info/recommendations
 THMUI,Industrials,0.3000000119209289,0.2931662716300789,-2.2779133397671862,,,,,,,,yfinance.info/recommendations
-THRE,Financial Services,0.4000000059604645,0.1040889383116772,-73.97776580984221,,,,,,0.0,1970-01-01,yfinance.info/recommendations
+THRE,Financial Services,0.4000000059604645,0.10408893911479213,-73.97776560906348,,,,,,0.0,1970-01-01,yfinance.info/recommendations
 THREL,Financial Services,1.0099999904632568,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-TIDLOR,Financial Services,15.0,-4.472830458325866,-129.81886972217245,23.47333,23.0,26.7,20.0,15.0,1.1875,1970-01-01,yfinance.info/recommendations
-TIF1,Financial Services,7.400000095367432,0.6872191257668402,-90.7132551768877,,,,,,,,yfinance.info/recommendations
+TIDLOR,Financial Services,15.0,-4.472830430948022,-129.8188695396535,23.34,23.0,26.7,20.0,15.0,1.1875,1970-01-01,yfinance.info/recommendations
+TIF1,Financial Services,7.400000095367432,0.6872191310691897,-90.71325510523432,,,,,,,,yfinance.info/recommendations
 TIGER,Industrials,0.2399999946355819,-0.31955376077710584,-233.14740329987052,,,,,,,,yfinance.info/recommendations
 TIPCO,Consumer Defensive,6.699999809265137,3.3834108405118895,-49.50132930103791,,,,,,,,yfinance.info/recommendations
-TIPH,Financial Services,20.0,12.677690451099314,-36.611547744503426,,,,,,,,yfinance.info/recommendations
-TISCO,Financial Services,113.5,39.595115106880755,-65.11443602917996,105.66667,106.0,117.0,89.0,15.0,3.3125,1970-01-01,yfinance.info/recommendations
-TITLE,Real Estate,7.800000190734863,-2.395728806407987,-130.71447112595877,,,,,,,,yfinance.info/recommendations
-TK,Financial Services,4.119999885559082,4.11449204166056,-0.13368553523090482,,,,,,,,yfinance.info/recommendations
-TKC,Industrials,7.599999904632568,3.732948885804819,-50.88225088622165,,,,,,,,yfinance.info/recommendations
+TIPH,Financial Services,20.0,12.677690548916072,-36.61154725541964,,,,,,,,yfinance.info/recommendations
+TISCO,Financial Services,113.5,39.59511541238323,-65.11443576001477,105.66667,106.0,117.0,89.0,15.0,3.3125,1970-01-01,yfinance.info/recommendations
+TITLE,Real Estate,7.800000190734863,-2.3957288068821674,-130.714471132038,,,,,,,,yfinance.info/recommendations
+TK,Financial Services,4.119999885559082,4.114492030801637,-0.13368579879699585,,,,,,,,yfinance.info/recommendations
+TKC,Industrials,7.599999904632568,6.217963769703372,-18.184686214098214,,,,,,,,yfinance.info/recommendations
 TKN,Consumer Defensive,3.920000076293945,6.744624477974577,72.05674353841071,7.33333,4.5,13.5,4.0,3.0,3.66667,1970-01-01,yfinance.info/recommendations
 TKS,Industrials,6.25,5.984989581425214,-4.240166697196571,6.7,6.7,6.7,6.7,1.0,,,yfinance.info/recommendations
 TKT,Consumer Cyclical,0.7099999785423279,1.026374042722562,44.55972869601615,,,,,,,,yfinance.info/recommendations
-TL,Healthcare,0.3700000047683716,0.12615649928721898,-65.90364928070858,,,,,,,,yfinance.info/recommendations
+TL,Healthcare,0.3700000047683716,0.12755738697776514,-65.5250309908458,,,,,,,,yfinance.info/recommendations
 TLHPF,Unknown,4.36,51.69243912548748,1085.606401960722,,,,,,,,yfinance.info/recommendations
-TLI,Financial Services,10.199999809265137,3.073383601934365,-69.86878765289126,15.68,14.2,19.0,13.5,5.0,1.2,1970-01-01,yfinance.info/recommendations
-TM,Healthcare,0.7900000214576721,1.407554406856597,78.17143906647517,,,,,,,,yfinance.info/recommendations
-TMAN,Healthcare,12.5,12.928840394523377,3.430723156187014,17.9,17.9,17.9,17.9,1.0,1.0,1970-01-01,yfinance.info/recommendations
+TLI,Financial Services,10.199999809265137,3.07338362564755,-69.86878742040905,15.68,14.2,19.0,13.5,5.0,1.2,1970-01-01,yfinance.info/recommendations
+TM,Healthcare,0.7900000214576721,1.3979849657719685,76.96011744309452,,,,,,,,yfinance.info/recommendations
+TMAN,Healthcare,12.5,12.847481720880838,2.7798537670467027,17.9,17.9,17.9,17.9,1.0,1.0,1970-01-01,yfinance.info/recommendations
 TMC,Industrials,0.6800000071525574,-0.07135781690794553,-110.49379649373098,,,,,,,,yfinance.info/recommendations
 TMD,Consumer Cyclical,25.0,26.787990492713213,7.151961970852852,,,,,,,,yfinance.info/recommendations
 TMI,Industrials,0.4900000095367431,0.5620962349053802,14.713515094989171,,,,,,,,yfinance.info/recommendations
 TMILL,Consumer Defensive,2.119999885559082,4.373380868791865,106.29156155065198,,,,,,,,yfinance.info/recommendations
-TMT,Basic Materials,3.259999990463257,2.192082494136644,-32.75820550462205,,,,,,,,yfinance.info/recommendations
-TMW,Basic Materials,57.5,159.94265385616052,178.1611371411487,,,,,,,,yfinance.info/recommendations
-TNDT,Industrials,0.1700000017881393,-0.4772300789730043,-380.7235729136916,,,,,,,,yfinance.info/recommendations
-TNH,Healthcare,30.75,49.010994300571994,59.38534731893331,,,,,,,,yfinance.info/recommendations
-TNITY,Financial Services,2.400000095367432,0.09929970920610381,-95.86251228082133,,,,,,,,yfinance.info/recommendations
-TNL,Financial Services,23.9,3.4615864711378763,-85.51637459774946,,,,,,,,yfinance.info/recommendations
+TMT,Basic Materials,3.259999990463257,2.173641865541735,-33.323868960108385,,,,,,,,yfinance.info/recommendations
+TMW,Basic Materials,57.5,159.80883149978789,177.92840260832676,,,,,,,,yfinance.info/recommendations
+TNDT,Industrials,0.1700000017881393,0.030468517722445153,-82.0773427047276,,,,,,,,yfinance.info/recommendations
+TNH,Healthcare,30.75,48.44790432791268,57.5541604159762,,,,,,,,yfinance.info/recommendations
+TNITY,Financial Services,2.400000095367432,0.09929970889374456,-95.86251229383632,,,,,,,,yfinance.info/recommendations
+TNL,Financial Services,23.899999618530277,3.461586491410664,-85.51637428175184,,,,,,,,yfinance.info/recommendations
 TNP,Consumer Defensive,2.759999990463257,2.8605171619624428,3.6419265161777936,3.95,3.95,4.3,3.6,2.0,1.0,1970-01-01,yfinance.info/recommendations
 TNPC,Consumer Cyclical,0.8700000047683716,-0.6375729708869056,-173.28424912556784,,,,,,,,yfinance.info/recommendations
 TNR,Consumer Defensive,4.880000114440918,10.98201828373059,125.0413529957213,,,,,,,,yfinance.info/recommendations
-TOA,Basic Materials,12.300000190734863,15.191784981975148,23.510445092663986,17.3,16.0,19.9,16.0,3.0,1.66667,1970-01-01,yfinance.info/recommendations
-TOG,Healthcare,6.849999904632568,13.04008601963358,90.36622191505047,,,,,,,,yfinance.info/recommendations
+TOA,Basic Materials,12.300000190734863,15.098255273374454,22.750040969490495,17.3,16.0,19.9,16.0,3.0,1.66667,1970-01-01,yfinance.info/recommendations
+TOG,Healthcare,6.849999904632568,12.864645028900648,87.80503953292687,,,,,,,,yfinance.info/recommendations
 TOP,Energy,46.0,69.86226735808222,51.87449425670047,50.11053,51.0,73.0,30.0,19.0,2.0,1970-01-01,yfinance.info/recommendations
 TOPP,Consumer Cyclical,135.0,302.6871563662477,124.21270841944272,,,,,,,,yfinance.info/recommendations
-TPA,Basic Materials,2.400000095367432,-0.10453434327256604,-104.35559746328103,,,,,,,,yfinance.info/recommendations
-TPAC,Consumer Cyclical,9.399999618530272,20.841693104052467,121.72014840263527,,,,,,,,yfinance.info/recommendations
+TPA,Basic Materials,2.400000095367432,-0.10365496076535737,-104.31895652693663,,,,,,,,yfinance.info/recommendations
+TPAC,Consumer Cyclical,9.399999618530272,21.88952587541911,132.86730599720627,,,,,,,,yfinance.info/recommendations
 TPBI,Consumer Cyclical,3.259999990463257,14.736766699029845,352.0480595748622,,,,,,,,yfinance.info/recommendations
 TPCH,Utilities,2.039999961853028,2.6191135011198146,28.387919122348944,,,,,,,,yfinance.info/recommendations
-TPCS,Consumer Cyclical,10.4,10.811933368878867,3.9608977776814083,,,,,,,,yfinance.info/recommendations
-TPIPL,Basic Materials,0.6899999976158142,-0.9797583804318384,-241.993968669165,,,,,,,,yfinance.info/recommendations
+TPCS,Consumer Cyclical,10.399999618530272,10.811933368878867,3.960901590944574,,,,,,,,yfinance.info/recommendations
+TPIPL,Basic Materials,0.6899999976158142,-0.9696687170740933,-240.53169861226525,,,,,,,,yfinance.info/recommendations
 TPIPP,Utilities,1.7999999523162842,4.709485754476222,161.638104401944,,,,,,,,yfinance.info/recommendations
 TPL,Industrials,0.4600000083446502,-0.06733924210531156,-114.63896540950893,,,,,,,,yfinance.info/recommendations
 TPLAS,Consumer Cyclical,1.2000000476837158,0.49319828839878016,-58.90014426659652,,,,,,,,yfinance.info/recommendations
 TPOLY,Industrials,0.1899999976158142,-2.337405894055284,-1330.2136438872963,,,,,,,,yfinance.info/recommendations
 TPP,Consumer Cyclical,10.600000381469728,12.08016326965232,13.963800329386048,,,,,,,,yfinance.info/recommendations
-TPRIME,Real Estate,7.300000190734863,1.2308459183536253,-83.13909744939718,,,,,,,,yfinance.info/recommendations
+TPRIME,Real Estate,7.300000190734863,1.230845918055949,-83.13909745347495,,,,,,,,yfinance.info/recommendations
 TPS,Technology,3.299999952316284,3.88486155516452,17.72307913028056,,,,,,,,yfinance.info/recommendations
-TQM,Financial Services,12.800000190734863,27.34612637614662,113.64160913013744,16.5,16.5,18.0,15.0,2.0,1.5,1970-01-01,yfinance.info/recommendations
-TQR,Financial Services,5.25,2.1547945067713625,-58.95629510911691,,,,,,,,yfinance.info/recommendations
+TQM,Financial Services,12.800000190734863,27.34612647210659,113.64160987982468,16.5,16.5,18.0,15.0,2.0,1.5,1970-01-01,yfinance.info/recommendations
+TQR,Financial Services,5.25,2.1547945233970256,-58.9562947924376,,,,,,,,yfinance.info/recommendations
 TR,Consumer Cyclical,26.25,-47.08413967528038,-279.3681511439253,,,,,,,,yfinance.info/recommendations
 TRC,Industrials,0.3899999856948852,-0.6247282353291428,-260.1867328830869,,,,,,,,yfinance.info/recommendations
-TRITN,Industrials,0.0199999995529651,-0.006546906259573304,-132.73453202954045,,,,,,,,yfinance.info/recommendations
-TRP,Healthcare,4.5,3.380311831763098,-24.881959294153383,5.05,5.05,5.05,5.05,1.0,2.0,1970-01-01,yfinance.info/recommendations
+TRITN,Industrials,0.0199999995529651,0.03493692728269396,74.68464031797632,,,,,,,,yfinance.info/recommendations
+TRP,Healthcare,4.5,3.2838240039391096,-27.026133245797567,5.05,5.05,5.05,5.05,1.0,,1970-01-01,yfinance.info/recommendations
 TRT,Industrials,4.019999980926514,13.465657001996739,234.9665936787698,,,,,,,,yfinance.info/recommendations
 TRU,Consumer Cyclical,3.9800000190734863,4.304929706440605,8.164062457536367,,,,,,,,yfinance.info/recommendations
-TRUBB,Basic Materials,0.8199999928474426,1.5011515894178535,83.06726859900549,,,,,,,,yfinance.info/recommendations
-TRUE,Communication Services,13.800000190734863,4.723928664916327,-65.76863333604945,16.26471,16.0,19.0,12.3,17.0,1.44444,1970-01-01,yfinance.info/recommendations
+TRUBB,Basic Materials,0.8199999928474426,1.488523333410538,81.52723736516803,,,,,,,,yfinance.info/recommendations
+TRUE,Communication Services,13.800000190734863,4.728175399174941,-65.73785989981815,16.26471,16.0,19.0,12.3,17.0,1.44444,1970-01-01,yfinance.info/recommendations
 TRV,Consumer Cyclical,1.6799999475479126,1.5128960956175712,-9.946658163545905,,,,,,,,yfinance.info/recommendations
 TSC,Consumer Cyclical,14.399999618530272,17.142886178206492,19.04782383567988,,,,,,,,yfinance.info/recommendations
 TSE,Utilities,0.5199999809265137,1.3329618394401443,156.3388246794029,,,,,,,,yfinance.info/recommendations
-TSI,Financial Services,0.0599999986588954,0.0014362911019154439,-97.60618144330158,,,,,,,,yfinance.info/recommendations
+TSI,Financial Services,0.0599999986588954,0.0014362911129973785,-97.60618142483169,,,,,,,,yfinance.info/recommendations
 TSR,Unknown,0.14,-1.8692152386832064,-1435.1537419165759,,,,,,,,yfinance.info/recommendations
-TSTE,Consumer Defensive,10.4,6.242024492645565,-39.98053372456188,,,,,,,,yfinance.info/recommendations
-TSTH,Basic Materials,0.7300000190734863,0.9820100641843258,34.52192308579523,,,,,,,,yfinance.info/recommendations
+TSTE,Consumer Defensive,10.399999618530272,6.242024492645565,-39.98053152306088,,,,,,,,yfinance.info/recommendations
+TSTH,Basic Materials,0.7300000190734863,0.9755066724142536,33.631047524130686,,,,,,,,yfinance.info/recommendations
 TTA,Industrials,4.699999809265137,8.279917468629801,76.16846392860596,5.3,5.3,5.3,5.3,2.0,,1970-01-01,yfinance.info/recommendations
-TTB,Financial Services,2.240000009536743,0.8743470818180905,-60.96664829930446,2.15944,2.19,2.6,1.72,18.0,2.77778,1970-01-01,yfinance.info/recommendations
-TTCL,Industrials,0.15,-40.778801070166416,-27285.867380110943,,,,,,,,yfinance.info/recommendations
+TTB,Financial Services,2.240000009536743,0.8743470885642559,-60.96664799813637,2.15944,2.19,2.6,1.72,18.0,2.77778,1970-01-01,yfinance.info/recommendations
+TTCL,Industrials,0.1500000059604644,-40.778801070166416,-27285.866299841688,,,,,,,,yfinance.info/recommendations
 TTI,Consumer Cyclical,24.799999237060547,5.020963972047253,-79.75417690923135,,,,,,,,yfinance.info/recommendations
 TTT,Consumer Cyclical,42.25,89.61968095409097,112.11758805702003,,,,,,,,yfinance.info/recommendations
 TTW,Utilities,9.050000190734863,7.200689135283274,-20.434375872664205,10.275,10.2,11.0,9.7,4.0,,1970-01-01,yfinance.info/recommendations
 TU,Consumer Defensive,10.800000190734863,3.6583506780614687,-66.12638320877156,13.39231,13.5,15.0,9.7,13.0,2.35714,1970-01-01,yfinance.info/recommendations
-TU-PF,Unknown,0.83,2.2403490581696732,169.9215732734546,,,,,,,,yfinance.info/recommendations
-TURBO,Financial Services,1.5099999904632568,0.2719518374900585,-81.98994442333569,2.11,2.11,2.28,1.94,2.0,,1970-01-01,yfinance.info/recommendations
+TU-PF,Unknown,1.1799999475479126,2.2403490581696732,89.86009811485236,,,,,,,,yfinance.info/recommendations
+TURBO,Financial Services,1.5099999904632568,0.2719518395883466,-81.9899442843762,2.11,2.11,2.28,1.94,2.0,,1970-01-01,yfinance.info/recommendations
 TURTLE,Consumer Cyclical,3.2,0.0,-100.0,,,,,,,,yfinance.info/recommendations
 TVDH,Consumer Cyclical,0.0599999986588954,0.23900921514012166,298.34870080399065,,,,,,,,yfinance.info/recommendations
-TVH,Financial Services,8.75,1.6055682674983465,-81.65064837144746,,,,,,,,yfinance.info/recommendations
+TVH,Financial Services,8.75,1.6055682798863664,-81.65064822987009,,,,,,,,yfinance.info/recommendations
 TVO,Consumer Defensive,24.200000762939453,26.631864640562856,10.049023970890225,27.5,27.5,30.0,25.0,2.0,2.5,1970-01-01,yfinance.info/recommendations
-TVT,Communication Services,0.2300000041723251,-0.05927400665125228,-125.7713067721694,,,,,,,,yfinance.info/recommendations
-TWP,Basic Materials,1.159999966621399,1.3587087764460621,17.13007030538285,,,,,,,,yfinance.info/recommendations
+TVT,Communication Services,0.2300000041723251,-0.05935602153195744,-125.80696541530736,,,,,,,,yfinance.info/recommendations
+TWP,Basic Materials,1.159999966621399,1.3472788033578669,16.14472776942692,,,,,,,,yfinance.info/recommendations
 TWPC,Consumer Defensive,2.8399999141693115,6.218612098931235,118.96522136868282,3.58,3.58,3.58,3.58,1.0,1.0,1970-01-01,yfinance.info/recommendations
 TWZ,Consumer Cyclical,0.0099999997764825,-0.526535856296356,-5365.35868065354,,,,,,,,yfinance.info/recommendations
-TYCN,Basic Materials,1.7100000381469729,3.3885838750164217,98.1627952879131,,,,,,,,yfinance.info/recommendations
-UAC,Basic Materials,2.7799999713897705,3.3310057924644725,19.820353480048585,,,,,,,,yfinance.info/recommendations
+TYCN,Basic Materials,1.7100000381469729,-0.5396259729125827,-131.55707373535174,,,,,,,,yfinance.info/recommendations
+UAC,Basic Materials,2.7799999713897705,3.32286998666285,19.52769859208629,,,,,,,,yfinance.info/recommendations
 UBA,Industrials,1.0700000524520874,2.897319724009572,170.77753102627148,,,,,,,,yfinance.info/recommendations
 UBE,Consumer Defensive,0.7099999785423279,1.4683270231421768,106.8066292278965,,,,,,,,yfinance.info/recommendations
-UBIS,Basic Materials,1.0800000429153442,0.39607887836969874,-63.326031237876045,,,,,,,,yfinance.info/recommendations
-UEC,Basic Materials,0.6600000262260437,0.4768023858726933,-27.75721713238341,,,,,,,,yfinance.info/recommendations
-UKEM,Basic Materials,0.7400000095367432,0.908515044595608,22.7723017415039,,,,,,,,yfinance.info/recommendations
+UBIS,Basic Materials,1.0800000429153442,0.3927469127571635,-63.63454656011075,,,,,,,,yfinance.info/recommendations
+UEC,Basic Materials,0.6600000262260437,0.4727913435261744,-28.36495079710074,,,,,,,,yfinance.info/recommendations
+UKEM,Basic Materials,0.7400000095367432,0.9063144228283835,22.4749204254412,,,,,,,,yfinance.info/recommendations
 UMI,Industrials,0.6800000071525574,1.4645335723313928,115.37258190099196,,,,,,,,yfinance.info/recommendations
-UMS,Energy,0.26,0.3570473813370566,37.32591589886792,,,,,,,,yfinance.info/recommendations
+UMS,Energy,0.2599999904632568,0.3570473813370566,37.32592093595271,,,,,,,,yfinance.info/recommendations
 UNIQ,Industrials,2.5199999809265137,12.674596348798971,402.9601763782147,,,,,,,,yfinance.info/recommendations
-UOBKH,Financial Services,5.35,4.490843611443472,-16.05899791694445,95.832,95.832,95.832,95.832,1.0,,1970-01-01,yfinance.info/recommendations
+UOBKH,Financial Services,5.349999904632568,4.20939941536196,-21.319635693506488,95.832,95.832,95.832,95.832,1.0,,1970-01-01,yfinance.info/recommendations
 UP,Consumer Cyclical,26.25,53.88642736044544,105.28162803979215,,,,,,,,yfinance.info/recommendations
 UPF,Consumer Cyclical,21.5,23.259793918431136,8.185087992702957,,,,,,,,yfinance.info/recommendations
 UPOIC,Consumer Defensive,7.400000095367432,4.272592155981139,-42.26226890651152,,,,,,,,yfinance.info/recommendations
 UREKA,Industrials,0.2899999916553497,0.014590156079178093,-94.9689115520673,,,,,,,,yfinance.info/recommendations
-UTP,Basic Materials,7.400000095367432,22.934347901558553,209.92361629719406,,,,,,,,yfinance.info/recommendations
+UTP,Basic Materials,7.400000095367432,23.051635160034365,211.5085792291437,,,,,,,,yfinance.info/recommendations
 UV,Utilities,0.8500000238418579,2.197479558678327,158.52699965184556,,,,,,,,yfinance.info/recommendations
 UVAN,Consumer Defensive,16.600000381469727,20.806618289511277,25.341071152849615,,,,,,,,yfinance.info/recommendations
-VARO,Basic Materials,4.360000133514404,23.060828594525383,428.91807083356815,,,,,,,,yfinance.info/recommendations
+VARO,Basic Materials,4.360000133514404,23.173074674053066,431.4925221200457,,,,,,,,yfinance.info/recommendations
 VCOM,Technology,3.299999952316284,5.66246847429702,71.58995624598445,,,,,,,,yfinance.info/recommendations
 VGI,Industrials,0.8399999737739563,0.9649505081641974,14.875064082307365,1.468,1.3,1.8,1.25,5.0,,1970-01-01,yfinance.info/recommendations
-VIBHA,Healthcare,1.3799999952316284,0.7416856646131671,-46.2546617988446,,,,,,,,yfinance.info/recommendations
-VIH,Healthcare,9.199999809265137,8.699983514917621,-5.43495983384651,,,,,,,,yfinance.info/recommendations
+VIBHA,Healthcare,1.3799999952316284,0.7465538947534567,-45.90189149760467,,,,,,,,yfinance.info/recommendations
+VIH,Healthcare,9.199999809265137,8.769760669725036,-4.676512483259134,,,,,,,,yfinance.info/recommendations
 VL,Industrials,0.800000011920929,2.1755140908674404,171.93925730621936,,,,,,,,yfinance.info/recommendations
-VNG,Basic Materials,1.950000047683716,-3.6240608637628053,-285.8492705201521,,,,,,,,yfinance.info/recommendations
+VNG,Basic Materials,1.950000047683716,-3.5935738904975416,-284.2858360319593,,,,,,,,yfinance.info/recommendations
 VPO,Consumer Defensive,0.6100000143051147,2.547276457785939,317.5862947622525,,,,,,,,yfinance.info/recommendations
-VRANDA,Real Estate,4.21999979019165,-2.6364509228053636,-162.47514345695336,,,,,,,,yfinance.info/recommendations
+VRANDA,Real Estate,4.21999979019165,0.7698679240229954,-81.75668335784367,,,,,,,,yfinance.info/recommendations
 VS,Industrials,0.25,-0.4108938564066494,-264.3575425626597,,,,,,,,yfinance.info/recommendations
 WACOAL,Consumer Cyclical,17.5,-2.4977842592708193,-114.27305291011898,,,,,,,,yfinance.info/recommendations
-WARRIX,Consumer Cyclical,1.7300000190734863,1.7193094414178316,-0.6179524588317719,1.9,1.9,2.3,1.5,2.0,2.5,1970-01-01,yfinance.info/recommendations
-WAVE,Consumer Defensive,0.0299999993294477,-0.1866878407238112,-722.2928163220333,,,,,,,,yfinance.info/recommendations
+WARRIX,Consumer Cyclical,1.7300000190734863,2.291957502677038,32.48309117964702,1.9,1.9,2.3,1.5,2.0,2.5,1970-01-01,yfinance.info/recommendations
+WAVE,Consumer Defensive,0.0299999993294477,0.2679680194559931,793.226751485152,,,,,,,,yfinance.info/recommendations
 WFX,Consumer Cyclical,1.1699999570846558,1.3920685253833716,18.98022020890108,,,,,,,,yfinance.info/recommendations
 WGE,Industrials,0.7699999809265137,3.5846303596562086,365.53642187665383,,,,,,,,yfinance.info/recommendations
-WHA,Real Estate,4.059999942779541,4.291743426629574,5.7079676629595575,4.50471,4.8,5.6,3.0,17.0,1.82353,1970-01-01,yfinance.info/recommendations
-WHABT,Real Estate,5.599999904632568,7.53644714636852,34.57941561988307,,,,,,,,yfinance.info/recommendations
-WHAIR,Real Estate,6.900000095367432,2.519033236127724,-63.49227244476461,8.05,8.05,8.6,7.5,2.0,1.5,1970-01-01,yfinance.info/recommendations
-WHART,Real Estate,10.199999809265137,0.9543908723968233,-90.64322656624067,11.35,11.35,11.4,11.3,2.0,2.0,1970-01-01,yfinance.info/recommendations
+WHA,Real Estate,4.059999942779541,4.29174342555111,5.7079676363964165,4.50471,4.8,5.6,3.0,17.0,1.82353,1970-01-01,yfinance.info/recommendations
+WHABT,Real Estate,5.599999904632568,7.536447144545854,34.57941558733547,,,,,,,,yfinance.info/recommendations
+WHAIR,Real Estate,6.900000095367432,2.5190332355185037,-63.49227245359389,8.05,8.05,8.6,7.5,2.0,1.5,1970-01-01,yfinance.info/recommendations
+WHART,Real Estate,10.199999809265137,0.9543908721660069,-90.64322656850356,11.35,11.35,11.4,11.3,2.0,,1970-01-01,yfinance.info/recommendations
 WHAUP,Utilities,4.239999771118164,0.11233126244425293,-97.35067762952663,5.75714,5.9,6.1,5.3,7.0,1.0,1970-01-01,yfinance.info/recommendations
 WICE,Industrials,2.4200000762939453,5.7402532706945095,137.20054089772142,2.7,2.7,2.7,2.7,1.0,,1970-01-01,yfinance.info/recommendations
 WIIK,Industrials,0.8700000047683716,0.26423936121817926,-69.6276597965617,,,,,,,,yfinance.info/recommendations
-WIN,Real Estate,0.2399999946355819,0.6273678268897461,161.4032670468793,,,,,,,,yfinance.info/recommendations
-WINDOW,Basic Materials,0.7699999809265137,1.2310227890591312,59.873093448377126,,,,,,,,yfinance.info/recommendations
-WINMED,Healthcare,0.8799999952316284,0.5020126157965596,-42.95311153218554,,,,,,,,yfinance.info/recommendations
+WIN,Real Estate,0.2399999946355819,0.6273678268052911,161.40326701168973,,,,,,,,yfinance.info/recommendations
+WINDOW,Basic Materials,0.7699999809265137,1.2333508050220523,60.1754331913106,,,,,,,,yfinance.info/recommendations
+WINMED,Healthcare,0.8799999952316284,0.4818627207530389,-45.24287234499293,,,,,,,,yfinance.info/recommendations
 WINNER,Consumer Defensive,2.059999942779541,1.6182039862212543,-21.44640625388441,,,,,,,,yfinance.info/recommendations
-WORK,Communication Services,3.440000057220459,4.399112395377807,27.881172157081775,4.24,4.24,4.26,4.22,2.0,,1970-01-01,yfinance.info/recommendations
+WORK,Communication Services,3.440000057220459,4.405003202234351,28.052416539597974,4.24,4.24,4.26,4.22,2.0,,1970-01-01,yfinance.info/recommendations
 WP,Utilities,3.759999990463257,7.304380860348383,94.26544890624946,,,,,,,,yfinance.info/recommendations
-WPH,Healthcare,6.0,4.4278505218992175,-26.202491301679707,,,,,,,,yfinance.info/recommendations
+WPH,Healthcare,6.0,4.329682254447684,-27.838629092538596,,,,,,,,yfinance.info/recommendations
 WSOL,Industrials,0.19,-8.535558866016556,-4592.399403166608,,,,,,,,yfinance.info/recommendations
 XBIO,Consumer Defensive,0.0599999986588954,-1.0650017531971667,-1875.0029616696886,,,,,,,,yfinance.info/recommendations
-XO,Consumer Defensive,13.899999618530272,30.798046471742353,121.56868573352384,17.45,17.45,18.0,16.9,2.0,3.5,1970-01-01,yfinance.info/recommendations
-XPG,Financial Services,0.4600000083446502,-0.07761021706392288,-116.8717860121807,1.01,1.01,1.01,1.01,1.0,,,yfinance.info/recommendations
-XYZ,Basic Materials,0.3899999856948852,-0.8651978664677745,-321.84561492385757,,,,,,,,yfinance.info/recommendations
+XO,Consumer Defensive,13.899999618530272,30.798046471742353,121.56868573352384,17.45,17.45,18.0,16.9,2.0,,1970-01-01,yfinance.info/recommendations
+XPG,Financial Services,0.4600000083446502,-0.07761021662575276,-116.87178591692637,1.01,1.01,1.01,1.01,1.0,,,yfinance.info/recommendations
+XYZ,Basic Materials,0.3899999856948852,-0.8579194941622997,-319.9793655463078,,,,,,,,yfinance.info/recommendations
 YGG,Communication Services,0.1800000071525573,0.0,-100.0,,,,,,,,yfinance.info/recommendations
-YONG,Basic Materials,0.7099999785423279,1.4381556158103175,102.55713510906526,,,,,,,,yfinance.info/recommendations
+YONG,Basic Materials,0.7099999785423279,1.4379888320975323,102.53364444458278,,,,,,,,yfinance.info/recommendations
 YUASA,Consumer Cyclical,14.800000190734863,26.407614646231966,78.42982639124378,,,,,,,,yfinance.info/recommendations
-ZAA,Communication Services,1.85,-0.32814727454161646,-117.73769051576306,,,,,,,,yfinance.info/recommendations
-ZEN,Consumer Cyclical,5.6,10.126077544146815,80.822813288336,5.8,5.8,5.8,5.8,1.0,,1970-01-01,yfinance.info/recommendations
-ZIGA,Basic Materials,0.8399999737739563,0.37932178279559536,-54.84264349540674,,,,,,,,yfinance.info/recommendations
+ZAA,Communication Services,1.850000023841858,-0.3286013177402415,-117.7622331624538,,,,,,,,yfinance.info/recommendations
+ZEN,Consumer Cyclical,5.599999904632568,10.126077544146815,80.8228163677302,5.8,5.8,5.8,5.8,1.0,,1970-01-01,yfinance.info/recommendations
+ZIGA,Basic Materials,0.8399999737739563,0.37711416537783315,-55.105455100964754,,,,,,,,yfinance.info/recommendations
