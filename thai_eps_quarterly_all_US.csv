@@ -2247,11 +2247,6 @@ DAVE,2025-09-30,2025Q3,6.34,yahoo_income
 DAVE,2025-06-30,2025Q2,0.62,yahoo_income
 DAVE,2025-03-31,2025Q1,1.97,yahoo_income
 DAVE,2024-12-31,2024Q4,1.16,yahoo_income
-DAY,2025-09-30,2025Q3,-1.23,yahoo_income
-DAY,2025-06-30,2025Q2,0.13,yahoo_income
-DAY,2025-03-31,2025Q1,0.09,yahoo_income
-DAY,2024-12-31,2024Q4,0.07,yahoo_income
-DAY,2024-09-30,2024Q3,0.01,yahoo_income
 DB,2025-12-31,2025Q4,0.669219,yahoo_income
 DB,2025-09-30,2025Q3,0.782039,yahoo_income
 DB,2025-06-30,2025Q2,0.739984,yahoo_income
@@ -2942,16 +2937,6 @@ FAST,2025-09-30,2025Q3,0.29,yahoo_income
 FAST,2025-06-30,2025Q2,0.29,yahoo_income
 FAST,2025-03-31,2025Q1,0.26,yahoo_income
 FAST,2024-12-31,2024Q4,0.23,yahoo_income
-FAT,2025-09-30,2025Q3,-3.39,yahoo_income
-FAT,2025-06-30,2025Q2,-3.17,yahoo_income
-FAT,2025-03-31,2025Q1,-2.73,yahoo_income
-FAT,2024-12-31,2024Q4,-4.06,yahoo_income
-FAT,2024-09-30,2024Q3,-2.74,yahoo_income
-FATBB,2025-09-30,2025Q3,-3.39,yahoo_income
-FATBB,2025-06-30,2025Q2,-3.17,yahoo_income
-FATBB,2025-03-31,2025Q1,-2.73,yahoo_income
-FATBB,2024-12-31,2024Q4,-4.06,yahoo_income
-FATBB,2024-09-30,2024Q3,-2.74,yahoo_income
 FBK,2025-12-31,2025Q4,1.07,yahoo_income
 FBK,2025-09-30,2025Q3,0.43,yahoo_income
 FBK,2025-06-30,2025Q2,0.06,yahoo_income
@@ -5240,7 +5225,7 @@ MOS,2025-09-30,2025Q3,1.29,yahoo_income
 MOS,2025-06-30,2025Q2,1.29,yahoo_income
 MOS,2025-03-31,2025Q1,0.75,yahoo_income
 MOS,2024-12-31,2024Q4,0.53,yahoo_income
-MOVE,2025-12-31,2025Q4,-0.2164501710428361,yahoo_income_ni/shares
+MOVE,2025-12-31,2025Q4,-0.2164501677994525,yahoo_income_ni/shares
 MPC,2025-12-31,2025Q4,5.12,yahoo_income
 MPC,2025-09-30,2025Q3,4.51,yahoo_income
 MPC,2025-06-30,2025Q2,3.96,yahoo_income
