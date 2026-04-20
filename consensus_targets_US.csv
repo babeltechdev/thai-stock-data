@@ -15,9 +15,9 @@ ABT,120.0,120.0,143.0,108.0,25.0,1.64286,1970-01-01,20563.0,yfinance.info/recomm
 ACET,53.0,26.0,128.0,18.0,6.0,1.0,1970-01-01,20563.0,yfinance.info/recommendations
 ACGL,109.47368,110.0,125.0,95.0,19.0,2.25,1970-01-01,20563.0,yfinance.info/recommendations
 ACHC,23.28571,24.0,31.0,13.0,14.0,2.21429,1970-01-01,20563.0,yfinance.info/recommendations
-ACHR,11.05556,12.0,18.0,4.5,9.0,,1970-01-01,20563.0,yfinance.info/recommendations
+ACHR,10.94444,12.0,18.0,4.5,9.0,1.88889,1970-01-01,20563.0,yfinance.info/recommendations
 ACI,21.52941,22.0,29.0,14.0,17.0,2.1,1970-01-01,20563.0,yfinance.info/recommendations
-ACIU,9.113369,8.671587,12.099235,7.0110703,4.0,1.0,1970-01-01,20563.0,yfinance.info/recommendations
+ACIU,9.135064,8.69223,12.128038,7.0277605,4.0,1.0,1970-01-01,20563.0,yfinance.info/recommendations
 ACMR,70.5,69.0,82.0,66.0,6.0,,1970-01-01,20563.0,yfinance.info/recommendations
 ACN,250.51407,250.0,320.0,210.0,27.0,1.85714,1970-01-01,20563.0,yfinance.info/recommendations
 ACNB,56.66667,57.0,57.0,56.0,3.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -66,7 +66,7 @@ AIT,305.0,300.0,330.0,290.0,5.0,1.57143,1970-01-01,20563.0,yfinance.info/recomme
 AIZ,260.0,261.0,280.0,240.0,6.0,1.57143,1970-01-01,20563.0,yfinance.info/recommendations
 AJG,271.42105,268.0,388.0,226.0,19.0,1.90909,1970-01-01,20563.0,yfinance.info/recommendations
 AKAM,111.63174,115.0,134.0,72.0,23.0,2.125,1970-01-01,20563.0,yfinance.info/recommendations
-AKO-B,32.6729,33.741623,42.32172,21.977964,6.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
+AKO-B,32.74259,33.813587,42.411987,22.024841,6.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 AL,65.0,65.0,65.0,65.0,3.0,,1970-01-01,20563.0,yfinance.info/recommendations
 ALB,190.33092,197.0,230.0,83.28,22.0,2.08333,1970-01-01,20563.0,yfinance.info/recommendations
 ALCO,44.5,44.5,45.0,44.0,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -124,7 +124,7 @@ AQB,,,,,,,,,yfinance.info/recommendations
 AQMS,12.0,12.0,12.0,12.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
 AQST,8.88889,9.0,11.0,6.0,9.0,1.22222,1970-01-01,20563.0,yfinance.info/recommendations
 AR,48.80952,50.0,56.0,36.0,21.0,1.71429,1970-01-01,20563.0,yfinance.info/recommendations
-ARAI,12.0,12.0,12.0,12.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
+ARAI,5.0,5.0,5.0,5.0,1.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 ARDT,12.43636,13.0,15.0,8.8,11.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 ARDX,16.1,16.5,19.0,13.0,10.0,1.09091,1970-01-01,20563.0,yfinance.info/recommendations
 ARE,57.85714,58.5,70.0,47.0,14.0,2.6875,1970-01-01,20563.0,yfinance.info/recommendations
@@ -198,7 +198,7 @@ BC,88.70588,90.0,120.0,74.0,17.0,2.1,1970-01-01,20563.0,yfinance.info/recommenda
 BCAB,,,,,,,,,yfinance.info/recommendations
 BCBP,9.0,9.0,9.0,9.0,2.0,3.0,1970-01-01,20563.0,yfinance.info/recommendations
 BCDA,15.5,15.5,25.0,6.0,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
-BCE,27.95872,26.209017,32.94535,24.72178,3.0,2.61111,1970-01-01,20563.0,yfinance.info/recommendations
+BCE,27.969128,26.218773,32.957615,24.730986,3.0,2.61111,1970-01-01,20563.0,yfinance.info/recommendations
 BCG,,,,,,,,,yfinance.info/recommendations
 BCS,26.93333,26.0,31.0,23.8,3.0,2.33333,1970-01-01,20563.0,yfinance.info/recommendations
 BDTX,9.71429,10.0,14.0,7.0,7.0,1.44444,1970-01-01,20563.0,yfinance.info/recommendations
@@ -239,7 +239,7 @@ BLNE,4.5,4.5,4.5,4.5,1.0,,,,yfinance.info/recommendations
 BLNK,2.25,1.5,5.0,1.0,4.0,,1970-01-01,20563.0,yfinance.info/recommendations
 BMBL,4.275,4.0,5.0,3.3,12.0,3.0625,1970-01-01,20563.0,yfinance.info/recommendations
 BMI,162.5,164.0,197.0,110.0,10.0,2.15385,1970-01-01,20563.0,yfinance.info/recommendations
-BMO,141.75345,142.24457,155.89894,127.11683,3.0,2.71429,1970-01-01,20563.0,yfinance.info/recommendations
+BMO,141.80519,142.2965,155.95584,127.16323,3.0,2.71429,1970-01-01,20563.0,yfinance.info/recommendations
 BMRN,88.86957,94.0,120.0,55.0,23.0,1.6087,1970-01-01,20563.0,yfinance.info/recommendations
 BMY,63.04,64.0,75.0,40.0,25.0,2.51724,1970-01-01,20563.0,yfinance.info/recommendations
 BNED,,,,,,,,,yfinance.info/recommendations
@@ -372,7 +372,7 @@ CNK,33.45455,35.0,37.0,23.0,11.0,1.90909,1970-01-01,20563.0,yfinance.info/recomm
 CNM,60.875,62.5,75.0,40.0,16.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 CNNE,19.0,19.0,22.0,16.0,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
 CNP,45.86667,46.0,50.0,41.0,15.0,2.1875,1970-01-01,20563.0,yfinance.info/recommendations
-CNQ,49.45488,48.67369,55.2279,45.244247,4.0,2.28571,1970-01-01,20563.0,yfinance.info/recommendations
+CNQ,49.480877,48.699276,55.256935,45.268032,4.0,2.28571,1970-01-01,20563.0,yfinance.info/recommendations
 CNR,112.25,112.5,119.0,105.0,4.0,1.0,1970-01-01,20563.0,yfinance.info/recommendations
 CNS,66.33333,70.0,76.0,53.0,3.0,2.66667,1970-01-01,20563.0,yfinance.info/recommendations
 CNSP,10.0,10.0,10.0,10.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -435,7 +435,7 @@ CTRN,67.5,67.5,68.0,67.0,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
 CTS,54.0,54.0,54.0,54.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
 CTSH,83.17577,83.5,107.0,61.0,26.0,2.17857,1970-01-01,20563.0,yfinance.info/recommendations
 CTVA,85.38095,86.0,96.0,74.0,21.0,1.77273,1970-01-01,20563.0,yfinance.info/recommendations
-CTXR,6.0,6.0,6.0,6.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
+CTXR,6.0,6.0,6.0,6.0,1.0,1.0,1970-01-01,20563.0,yfinance.info/recommendations
 CUBI,88.72727,88.0,104.0,71.0,11.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 CURI,6.16667,6.0,7.0,5.5,3.0,1.66667,1970-01-01,20563.0,yfinance.info/recommendations
 CURV,1.58,1.66,2.25,0.75,4.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -504,7 +504,7 @@ DRCT,8.0,8.0,8.0,8.0,1.0,2.5,1970-01-01,20563.0,yfinance.info/recommendations
 DRI,225.48148,230.0,272.0,156.0,27.0,1.87097,1970-01-01,20563.0,yfinance.info/recommendations
 DRIO,18.8,20.0,28.0,10.0,5.0,,1970-01-01,20563.0,yfinance.info/recommendations
 DRMA,4.0,4.0,4.0,4.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
-DRUG,161.34349,146.30113,192.97662,144.7527,3.0,1.14286,1970-01-01,20563.0,yfinance.info/recommendations
+DRUG,161.43536,146.38446,193.08652,144.83513,3.0,1.14286,1970-01-01,20563.0,yfinance.info/recommendations
 DRVN,19.14444,20.0,24.0,12.0,9.0,,1970-01-01,20563.0,yfinance.info/recommendations
 DSGR,35.5,35.5,36.0,35.0,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
 DT,48.90625,50.0,68.0,36.0,32.0,1.67647,1970-01-01,20563.0,yfinance.info/recommendations
@@ -714,7 +714,7 @@ GETY,3.925,3.925,7.0,0.85,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
 GEV,952.65845,964.5,1225.0,600.0,32.0,1.58824,1970-01-01,20563.0,yfinance.info/recommendations
 GEVO,5.4375,2.875,14.0,2.0,4.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 GFF,114.14286,115.0,117.0,108.0,7.0,,1970-01-01,20563.0,yfinance.info/recommendations
-GGB,4.924713,4.9240766,5.5540605,4.3427,6.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
+GGB,4.92234,4.921704,5.551384,4.340607,6.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 GIFT,4.0,4.0,4.0,4.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
 GIII,31.0,31.5,35.0,26.0,4.0,,1970-01-01,20563.0,yfinance.info/recommendations
 GIL,83.11111,79.0,110.0,74.0,9.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1035,7 +1035,7 @@ MCHX,4.0,4.0,4.0,4.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
 MCK,991.6667,1000.0,1107.0,860.0,15.0,1.5625,1970-01-01,20563.0,yfinance.info/recommendations
 MCO,534.05,538.5,610.0,460.0,20.0,1.73913,1970-01-01,20563.0,yfinance.info/recommendations
 MCRB,22.0,22.0,22.0,22.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
-MCS,23.25,23.5,24.0,22.0,4.0,,1970-01-01,20563.0,yfinance.info/recommendations
+MCS,23.5,23.5,25.0,22.0,4.0,1.2,1970-01-01,20563.0,yfinance.info/recommendations
 MCW,7.05556,7.0,7.5,7.0,9.0,,1970-01-01,20563.0,yfinance.info/recommendations
 MDAI,4.66667,5.0,6.0,3.0,3.0,1.0,1970-01-01,20563.0,yfinance.info/recommendations
 MDB,352.4864,363.0,495.0,250.0,36.0,1.61538,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1191,7 +1191,7 @@ NUVB,12.33333,12.0,20.0,7.0,9.0,1.4,1970-01-01,20563.0,yfinance.info/recommendat
 NUVL,142.38889,140.0,165.0,116.0,18.0,1.21053,1970-01-01,20563.0,yfinance.info/recommendations
 NVDA,268.6148,265.0,380.0,140.0,56.0,1.28814,1970-01-01,20563.0,yfinance.info/recommendations
 NVEC,,,,,,,,,yfinance.info/recommendations
-NVO,47.02494,44.906757,66.01342,36.15256,12.0,2.35714,1970-01-01,20563.0,yfinance.info/recommendations
+NVO,47.048325,44.92909,66.04625,36.17054,12.0,2.35714,1970-01-01,20563.0,yfinance.info/recommendations
 NVR,7514.3335,7600.0,9022.0,5664.0,6.0,2.71429,1970-01-01,20563.0,yfinance.info/recommendations
 NVST,28.53846,29.0,35.0,19.0,13.0,2.13333,1970-01-01,20563.0,yfinance.info/recommendations
 NVTS,8.15,8.0,13.0,4.2,8.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1333,7 +1333,7 @@ PNTG,38.16667,37.5,41.0,36.0,6.0,1.14286,1970-01-01,20563.0,yfinance.info/recomm
 PNW,105.15385,103.0,124.0,87.0,13.0,2.58824,1970-01-01,20563.0,yfinance.info/recommendations
 PODD,333.30435,340.0,435.0,230.0,23.0,1.5,1970-01-01,20563.0,yfinance.info/recommendations
 POOL,262.9091,250.0,340.0,215.0,11.0,2.35714,1970-01-01,20563.0,yfinance.info/recommendations
-POR,52.5,51.0,62.0,42.5,11.0,2.84615,1970-01-01,20563.0,yfinance.info/recommendations
+POR,52.77273,54.0,62.0,42.5,11.0,2.84615,1970-01-01,20563.0,yfinance.info/recommendations
 POST,124.42857,128.0,133.0,110.0,7.0,1.75,1970-01-01,20563.0,yfinance.info/recommendations
 POWI,54.2,53.0,65.0,45.0,5.0,1.8,1970-01-01,20563.0,yfinance.info/recommendations
 PPCB,,,,,,,,,yfinance.info/recommendations
@@ -1395,7 +1395,7 @@ RDDT,228.11667,240.0,300.0,125.0,30.0,1.96667,1970-01-01,20563.0,yfinance.info/r
 RDI,,,,,,1.0,1970-01-01,20563.0,yfinance.info/recommendations
 RDIB,,,,,,,,,yfinance.info/recommendations
 RDNT,92.375,91.5,100.0,86.0,8.0,1.25,1970-01-01,20563.0,yfinance.info/recommendations
-RDY,14.389843,14.173634,16.812143,11.279665,5.0,2.6,1970-01-01,20563.0,yfinance.info/recommendations
+RDY,14.316693,14.101583,16.726679,11.222325,5.0,2.6,1970-01-01,20563.0,yfinance.info/recommendations
 REAL,18.1875,18.25,20.0,16.0,8.0,1.44444,1970-01-01,20563.0,yfinance.info/recommendations
 REBN,,,,,,,,,yfinance.info/recommendations
 REFI,16.0,16.0,20.0,12.0,4.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1458,7 +1458,7 @@ RWT,6.90625,7.0,8.5,6.0,8.0,2.0,1970-01-01,20563.0,yfinance.info/recommendations
 RXO,15.85294,15.0,20.0,12.0,17.0,2.7619,1970-01-01,20563.0,yfinance.info/recommendations
 RXST,9.92857,9.5,13.0,8.0,7.0,3.11111,1970-01-01,20563.0,yfinance.info/recommendations
 RXT,2.16667,2.0,2.5,2.0,3.0,,1970-01-01,20563.0,yfinance.info/recommendations
-RY,174.44437,180.957,199.56493,142.81114,3.0,1.8,1970-01-01,20563.0,yfinance.info/recommendations
+RY,174.5157,181.03102,199.64656,142.86955,3.0,1.8,1970-01-01,20563.0,yfinance.info/recommendations
 RYM,,,,,,,,,yfinance.info/recommendations
 RYN,26.33333,25.0,32.0,24.0,6.0,2.33333,1970-01-01,20563.0,yfinance.info/recommendations
 SABS,9.5,7.0,15.0,6.0,8.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1540,7 +1540,7 @@ SMA,35.8,36.0,40.0,30.0,10.0,1.7,1970-01-01,20563.0,yfinance.info/recommendation
 SMBK,43.8,42.5,47.0,42.0,5.0,2.6,1970-01-01,20563.0,yfinance.info/recommendations
 SMCI,33.2,32.0,58.0,15.0,15.0,2.88889,1970-01-01,20563.0,yfinance.info/recommendations
 SMHI,11.0,11.0,11.0,11.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
-SMMT,31.059696,33.679,45.821903,11.990437,14.0,1.70588,1970-01-01,20563.0,yfinance.info/recommendations
+SMMT,31.100649,33.723408,45.88232,12.006247,14.0,1.70588,1970-01-01,20563.0,yfinance.info/recommendations
 SMP,48.66667,47.0,54.0,45.0,3.0,,1970-01-01,20563.0,yfinance.info/recommendations
 SMR,20.42308,20.0,52.0,8.0,13.0,2.5,1970-01-01,20563.0,yfinance.info/recommendations
 SMRT,2.0,2.0,2.0,2.0,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1589,7 +1589,7 @@ STRS,,,,,,,,,yfinance.info/recommendations
 STT,149.75,152.0,170.0,110.0,14.0,2.0625,1970-01-01,20563.0,yfinance.info/recommendations
 STTK,10.0,9.0,15.0,6.0,6.0,1.57143,1970-01-01,20563.0,yfinance.info/recommendations
 STZ,177.54546,184.0,209.0,131.0,22.0,2.04348,1970-01-01,20563.0,yfinance.info/recommendations
-SU,61.36252,57.723,74.38517,51.97939,3.0,2.1,1970-01-01,20563.0,yfinance.info/recommendations
+SU,61.38627,57.74534,74.413956,51.999508,3.0,2.1,1970-01-01,20563.0,yfinance.info/recommendations
 SUNE,,,,,,,,,yfinance.info/recommendations
 SUPN,63.16667,65.0,66.0,55.0,6.0,1.5,1970-01-01,20563.0,yfinance.info/recommendations
 SVCO,9.16667,9.5,12.0,6.0,6.0,,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1619,7 +1619,7 @@ TBI,7.75,7.75,10.0,5.5,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
 TCBS,,,,,,,,,yfinance.info/recommendations
 TCBX,43.66667,45.0,46.0,40.0,3.0,2.25,1970-01-01,20563.0,yfinance.info/recommendations
 TCI,,,,,,,,,yfinance.info/recommendations
-TD,98.519775,102.160126,109.50556,83.89362,3.0,,1970-01-01,20563.0,yfinance.info/recommendations
+TD,98.55142,102.19295,109.54074,83.92058,3.0,,1970-01-01,20563.0,yfinance.info/recommendations
 TDC,35.18182,36.0,49.0,22.0,11.0,2.81818,1970-01-01,20563.0,yfinance.info/recommendations
 TDG,1537.1428,1532.0,1835.0,1200.0,21.0,1.78261,1970-01-01,20563.0,yfinance.info/recommendations
 TDOC,7.09286,6.0,11.0,5.0,21.0,2.5,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1671,13 +1671,13 @@ TRAK,16.0,16.0,16.0,16.0,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
 TRC,26.25,26.25,26.25,26.25,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
 TRDA,21.4,20.0,25.0,19.0,5.0,1.0,1970-01-01,20563.0,yfinance.info/recommendations
 TRGP,263.0,261.0,327.0,231.0,21.0,1.40909,1970-01-01,20563.0,yfinance.info/recommendations
-TRIN,16.61111,17.0,19.0,13.5,9.0,1.77778,1970-01-01,20563.0,yfinance.info/recommendations
+TRIN,16.83333,17.0,19.0,13.5,9.0,1.77778,1970-01-01,20563.0,yfinance.info/recommendations
 TRMB,90.58333,91.5,103.0,79.0,12.0,1.30769,1970-01-01,20563.0,yfinance.info/recommendations
 TRN,33.5,33.5,34.0,33.0,2.0,,1970-01-01,20563.0,yfinance.info/recommendations
 TRNO,69.82353,70.0,80.0,56.0,17.0,2.16667,1970-01-01,20563.0,yfinance.info/recommendations
 TRNS,101.33333,104.0,105.0,95.0,3.0,1.5,1970-01-01,20563.0,yfinance.info/recommendations
 TROW,94.25,95.0,107.0,73.0,12.0,3.38462,1970-01-01,20563.0,yfinance.info/recommendations
-TRP,57.081326,52.838367,68.69032,49.715286,3.0,2.41667,1970-01-01,20563.0,yfinance.info/recommendations
+TRP,57.09925,52.85496,68.71189,49.730896,3.0,2.41667,1970-01-01,20563.0,yfinance.info/recommendations
 TRST,,,,,,,,,yfinance.info/recommendations
 TRTX,10.0,10.0,11.0,8.5,6.0,1.83333,1970-01-01,20563.0,yfinance.info/recommendations
 TRUP,42.25,39.5,59.0,31.0,4.0,2.16667,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1809,7 +1809,7 @@ WEST,8.75,7.5,13.0,7.0,4.0,,1970-01-01,20563.0,yfinance.info/recommendations
 WETH,,,,,,,,,yfinance.info/recommendations
 WEX,176.88889,173.0,210.0,146.0,9.0,2.46154,1970-01-01,20563.0,yfinance.info/recommendations
 WEYS,,,,,,,,,yfinance.info/recommendations
-WF,94.171745,94.171745,94.171745,94.171745,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
+WF,94.25746,94.25746,94.25746,94.25746,1.0,,1970-01-01,20563.0,yfinance.info/recommendations
 WFC,96.17391,95.0,113.0,85.0,23.0,1.92,1970-01-01,20563.0,yfinance.info/recommendations
 WFCF,,,,,,,,,yfinance.info/recommendations
 WFG,86.66667,86.5,95.0,81.0,6.0,1.85714,1970-01-01,20563.0,yfinance.info/recommendations
@@ -1842,7 +1842,7 @@ WST,317.46155,315.0,375.0,275.0,13.0,1.53333,1970-01-01,20563.0,yfinance.info/re
 WT,18.625,20.0,20.0,15.25,6.0,1.66667,1970-01-01,20563.0,yfinance.info/recommendations
 WTFC,168.25,169.0,185.0,150.0,12.0,1.75,1970-01-01,20563.0,yfinance.info/recommendations
 WTI,4.35,4.35,5.0,3.7,2.0,1.5,1970-01-01,20563.0,yfinance.info/recommendations
-WTRG,40.6,39.0,45.0,38.0,5.0,3.0,1970-01-01,20563.0,yfinance.info/recommendations
+WTRG,40.6,39.0,45.0,38.0,5.0,2.85714,1970-01-01,20563.0,yfinance.info/recommendations
 WWD,431.0,438.0,450.0,390.0,10.0,1.45455,1970-01-01,20563.0,yfinance.info/recommendations
 WWW,23.2,23.5,29.0,17.0,10.0,,1970-01-01,20563.0,yfinance.info/recommendations
 WY,31.54545,31.0,38.0,27.0,11.0,1.75,1970-01-01,20563.0,yfinance.info/recommendations
