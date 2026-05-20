@@ -47,6 +47,7 @@ ADD,2025-09-30,2025Q3,0.099,yahoo_income
 ADD,2025-06-30,2025Q2,0.046,yahoo_income
 ADD,2025-03-31,2025Q1,0.05,yahoo_income
 ADD,2024-09-30,2024Q3,0.061,yahoo_income
+ADVANC,2026-03-31,2026Q1,4.54,yahoo_income
 ADVANC,2025-06-30,2025Q2,3.69,yahoo_income
 ADVANC,2025-03-31,2025Q1,3.56,yahoo_income
 ADVANC,2024-09-30,2024Q3,2.95,yahoo_income
@@ -192,6 +193,7 @@ ANI,2025-09-30,2025Q3,0.0791,yahoo_income
 ANI,2025-06-30,2025Q2,0.0736,yahoo_income
 ANI,2025-03-31,2025Q1,0.0747,yahoo_income
 ANI,2024-09-30,2024Q3,0.0954,yahoo_income
+AOT,2026-03-31,2026Q1,0.4,yahoo_income
 AOT,2025-12-31,2025Q4,0.33,yahoo_income
 AOT,2025-06-30,2025Q2,0.27,yahoo_income
 AOT,2025-03-31,2025Q1,0.35,yahoo_income
@@ -1404,6 +1406,7 @@ KASET,2025-09-30,2025Q3,-0.0586,yahoo_income
 KASET,2025-06-30,2025Q2,-0.0571,yahoo_income
 KASET,2025-03-31,2025Q1,-0.0602,yahoo_income
 KASET,2024-09-30,2024Q3,-0.0687,yahoo_income
+KBANK,2026-03-31,2026Q1,6.24,yahoo_income
 KBANK,2025-09-30,2025Q3,5.35,yahoo_income
 KBANK,2025-06-30,2025Q2,5.27,yahoo_income
 KBANK,2025-03-31,2025Q1,5.67,yahoo_income
@@ -1485,6 +1488,7 @@ KSL,2026-01-31,2026Q1,0.027,yahoo_income
 KSL,2025-07-31,2025Q3,0.006,yahoo_income
 KSL,2025-04-30,2025Q2,0.033,yahoo_income
 KSL,2025-01-31,2025Q1,0.027,yahoo_income
+KTB,2026-03-31,2026Q1,0.89,yahoo_income
 KTB,2025-09-30,2025Q3,1.05,yahoo_income
 KTB,2025-06-30,2025Q2,0.8,yahoo_income
 KTB,2025-03-31,2025Q1,0.84,yahoo_income
@@ -1736,6 +1740,7 @@ MILL,2025-09-30,2025Q3,-0.02,yahoo_income
 MILL,2025-06-30,2025Q2,-0.01,yahoo_income
 MILL,2025-03-31,2025Q1,-0.042,yahoo_income
 MILL,2024-09-30,2024Q3,-0.489,yahoo_income
+MINT,2026-03-31,2026Q1,0.0423,yahoo_income
 MINT,2025-09-30,2025Q3,0.38,yahoo_income
 MINT,2025-06-30,2025Q2,0.47,yahoo_income
 MINT,2025-03-31,2025Q1,-0.0018,yahoo_income
@@ -2261,6 +2266,7 @@ PTL,2025-09-30,2025Q3,0.047,yahoo_income
 PTL,2025-06-30,2025Q2,-0.4,yahoo_income
 PTL,2024-12-31,2024Q4,0.382,yahoo_income
 PTL,2024-09-30,2024Q3,0.681,yahoo_income
+PTT,2026-03-31,2026Q1,0.91,yahoo_income
 PTT,2025-09-30,2025Q3,0.69,yahoo_income
 PTT,2025-06-30,2025Q2,0.76,yahoo_income
 PTT,2025-03-31,2025Q1,0.81,yahoo_income
@@ -2285,9 +2291,10 @@ QDC,2025-09-30,2025Q3,-0.130506,yahoo_income
 QDC,2025-06-30,2025Q2,-0.215335,yahoo_income
 QDC,2025-03-31,2025Q1,-0.135074,yahoo_income
 QDC,2024-09-30,2024Q3,-0.087004,yahoo_income
+QH,2026-03-31,2026Q1,0.043242,yahoo_income
 QH,2025-09-30,2025Q3,0.04,yahoo_income
 QH,2025-06-30,2025Q2,0.03,yahoo_income
-QH,2025-03-31,2025Q1,0.04,yahoo_income
+QH,2025-03-31,2025Q1,0.037521,yahoo_income
 QH,2024-09-30,2024Q3,0.05,yahoo_income
 QHBREIT,2025-09-30,2025Q3,0.053414,yahoo_income
 QHBREIT,2025-06-30,2025Q2,0.069817,yahoo_income
@@ -2314,6 +2321,7 @@ QTCG,2025-09-30,2025Q3,-0.014262,yahoo_income
 QTCG,2025-06-30,2025Q2,0.005262,yahoo_income
 QTCG,2025-03-31,2025Q1,-0.010108,yahoo_income
 QTCG,2024-09-30,2024Q3,-0.289385,yahoo_income
+RABBIT,2026-03-31,2026Q1,0.0577,yahoo_income
 RABBIT,2025-09-30,2025Q3,-0.0027,yahoo_income
 RABBIT,2025-06-30,2025Q2,-0.01,yahoo_income
 RABBIT,2025-03-31,2025Q1,0.0129,yahoo_income
@@ -2331,6 +2339,7 @@ RBF,2025-09-30,2025Q3,0.05,yahoo_income
 RBF,2025-06-30,2025Q2,0.05,yahoo_income
 RBF,2025-03-31,2025Q1,0.05,yahoo_income
 RBF,2024-09-30,2024Q3,0.05,yahoo_income
+RCL,2026-03-31,2026Q1,2.02,yahoo_income
 RCL,2025-09-30,2025Q3,2.78,yahoo_income
 RCL,2025-06-30,2025Q2,2.42,yahoo_income
 RCL,2025-03-31,2025Q1,2.48,yahoo_income
@@ -2489,6 +2498,7 @@ SCB,2025-09-30,2025Q3,3.58,yahoo_income
 SCB,2025-06-30,2025Q2,3.8,yahoo_income
 SCB,2025-03-31,2025Q1,3.71,yahoo_income
 SCB,2024-09-30,2024Q3,3.25,yahoo_income
+SCC,2026-03-31,2026Q1,5.19,yahoo_income
 SCC,2025-09-30,2025Q3,-0.56,yahoo_income
 SCC,2025-06-30,2025Q2,14.45,yahoo_income
 SCC,2025-03-31,2025Q1,0.92,yahoo_income
@@ -2617,6 +2627,7 @@ SINO,2025-09-30,2025Q3,0.02,yahoo_income
 SINO,2025-06-30,2025Q2,0.01,yahoo_income
 SINO,2025-03-31,2025Q1,0.025,yahoo_income
 SINO,2024-09-30,2024Q3,0.04,yahoo_income
+SIRI,2026-03-31,2026Q1,0.045,yahoo_income
 SIRI,2025-09-30,2025Q3,0.052,yahoo_income
 SIRI,2025-06-30,2025Q2,0.065,yahoo_income
 SIRI,2025-03-31,2025Q1,0.042,yahoo_income
@@ -2936,6 +2947,7 @@ TAN,2025-09-30,2025Q3,0.04,yahoo_income
 TAN,2025-06-30,2025Q2,-0.04,yahoo_income
 TAN,2025-03-31,2025Q1,0.13,yahoo_income
 TAN,2024-09-30,2024Q3,0.09,yahoo_income
+TASCO,2026-03-31,2026Q1,0.29,yahoo_income
 TASCO,2025-09-30,2025Q3,0.11,yahoo_income
 TASCO,2025-06-30,2025Q2,0.25,yahoo_income
 TASCO,2025-03-31,2025Q1,0.282,yahoo_income
@@ -2956,6 +2968,7 @@ TC,2025-09-30,2025Q3,0.16,yahoo_income
 TC,2025-06-30,2025Q2,0.14,yahoo_income
 TC,2025-03-31,2025Q1,0.19,yahoo_income
 TC,2024-09-30,2024Q3,0.17,yahoo_income
+TCAP,2026-03-31,2026Q1,2.02,yahoo_income
 TCAP,2025-09-30,2025Q3,1.98,yahoo_income
 TCAP,2025-06-30,2025Q2,1.97,yahoo_income
 TCAP,2025-03-31,2025Q1,1.63,yahoo_income
@@ -3028,6 +3041,7 @@ TH,2025-09-30,2025Q3,0.03,yahoo_income
 TH,2025-06-30,2025Q2,-0.0518,yahoo_income
 TH,2025-03-31,2025Q1,0.0,yahoo_income
 TH,2024-09-30,2024Q3,0.047,yahoo_income
+THAI,2026-03-31,2026Q1,0.36,yahoo_income
 THAI,2025-09-30,2025Q3,0.16,yahoo_income
 THAI,2025-06-30,2025Q2,0.43,yahoo_income
 THAI,2025-03-31,2025Q1,0.35,yahoo_income
@@ -3040,6 +3054,7 @@ THANI,2025-09-30,2025Q3,0.05,yahoo_income
 THANI,2025-06-30,2025Q2,0.04,yahoo_income
 THANI,2025-03-31,2025Q1,0.04,yahoo_income
 THANI,2024-09-30,2024Q3,0.01,yahoo_income
+THCOM,2026-03-31,2026Q1,0.54,yahoo_income
 THCOM,2025-06-30,2025Q2,-0.19,yahoo_income
 THCOM,2025-03-31,2025Q1,0.11,yahoo_income
 THCOM,2024-09-30,2024Q3,-0.513,yahoo_income
@@ -3230,6 +3245,7 @@ TPCS,2025-09-30,2025Q3,0.28,yahoo_income
 TPCS,2025-06-30,2025Q2,0.34,yahoo_income
 TPCS,2025-03-31,2025Q1,0.25,yahoo_income
 TPCS,2024-09-30,2024Q3,0.24,yahoo_income
+TPIPL,2026-03-31,2026Q1,0.044,yahoo_income
 TPIPL,2025-09-30,2025Q3,0.015,yahoo_income
 TPIPL,2025-06-30,2025Q2,0.03,yahoo_income
 TPIPL,2025-03-31,2025Q1,0.038,yahoo_income
@@ -3332,10 +3348,12 @@ TSTH,2025-12-31,2025Q4,0.06,yahoo_income
 TSTH,2025-06-30,2025Q2,0.04,yahoo_income
 TSTH,2024-12-31,2024Q4,0.03,yahoo_income
 TSTH,2024-09-30,2024Q3,-0.02,yahoo_income
+TTA,2026-03-31,2026Q1,0.11,yahoo_income
 TTA,2025-09-30,2025Q3,0.28,yahoo_income
 TTA,2025-06-30,2025Q2,0.05,yahoo_income
 TTA,2025-03-31,2025Q1,0.47,yahoo_income
 TTA,2024-09-30,2024Q3,-0.6,yahoo_income
+TTB,2026-03-31,2026Q1,0.06,yahoo_income
 TTB,2025-09-30,2025Q3,0.06,yahoo_income
 TTB,2025-06-30,2025Q2,0.05,yahoo_income
 TTB,2025-03-31,2025Q1,0.05,yahoo_income
@@ -3377,6 +3395,7 @@ TVH,2025-09-30,2025Q3,0.613,yahoo_income
 TVH,2025-06-30,2025Q2,0.46,yahoo_income
 TVH,2025-03-31,2025Q1,0.222,yahoo_income
 TVH,2024-09-30,2024Q3,0.27,yahoo_income
+TVO,2026-03-31,2026Q1,0.8,yahoo_income
 TVO,2025-09-30,2025Q3,0.55,yahoo_income
 TVO,2025-06-30,2025Q2,0.73,yahoo_income
 TVO,2025-03-31,2025Q1,0.6,yahoo_income
@@ -3494,6 +3513,7 @@ VL,2025-09-30,2025Q3,0.014,yahoo_income
 VL,2025-06-30,2025Q2,0.0037,yahoo_income
 VL,2025-03-31,2025Q1,0.0042,yahoo_income
 VL,2024-09-30,2024Q3,0.055,yahoo_income
+VNG,2026-03-31,2026Q1,-0.14,yahoo_income
 VNG,2025-09-30,2025Q3,-0.09,yahoo_income
 VNG,2025-06-30,2025Q2,-0.02,yahoo_income
 VNG,2025-03-31,2025Q1,-0.02,yahoo_income
