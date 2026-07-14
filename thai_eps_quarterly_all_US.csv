@@ -818,8 +818,8 @@ AWRE,2025-03-31,2025Q1,-0.08,yahoo_income
 AX,2026-03-31,2026Q1,2.15,yahoo_income
 AX,2025-12-31,2025Q4,2.22,yahoo_income
 AX,2025-09-30,2025Q3,1.94,yahoo_income
+AX,2025-06-30,2025Q2,1.92,yahoo_income
 AX,2025-03-31,2025Q1,1.81,yahoo_income
-AX,2024-12-31,2024Q4,1.8,yahoo_income
 AXGN,2026-03-31,2026Q1,-0.38,yahoo_income
 AXGN,2025-12-31,2025Q4,-0.28,yahoo_income
 AXGN,2025-09-30,2025Q3,0.01,yahoo_income
@@ -2133,6 +2133,11 @@ CVX,2025-12-31,2025Q4,1.39,yahoo_income
 CVX,2025-09-30,2025Q3,1.82,yahoo_income
 CVX,2025-06-30,2025Q2,1.45,yahoo_income
 CVX,2025-03-31,2025Q1,2.0,yahoo_income
+CWAN,2026-03-31,2026Q1,-0.01,yahoo_income
+CWAN,2025-12-31,2025Q4,-0.04,yahoo_income
+CWAN,2025-09-30,2025Q3,-0.04,yahoo_income
+CWAN,2025-06-30,2025Q2,-0.09,yahoo_income
+CWAN,2025-03-31,2025Q1,0.03,yahoo_income
 CWD,2026-03-31,2026Q1,-0.52,yahoo_income
 CWD,2025-12-31,2025Q4,-1.24,yahoo_income
 CWD,2025-09-30,2025Q3,-1.65,yahoo_income
@@ -7320,6 +7325,11 @@ SNAP,2025-12-31,2025Q4,0.03,yahoo_income
 SNAP,2025-09-30,2025Q3,-0.06,yahoo_income
 SNAP,2025-06-30,2025Q2,-0.16,yahoo_income
 SNAP,2025-03-31,2025Q1,-0.08,yahoo_income
+SNCY,2026-03-31,2026Q1,0.43,yahoo_income
+SNCY,2025-12-31,2025Q4,0.15,yahoo_income
+SNCY,2025-09-30,2025Q3,0.03,yahoo_income
+SNCY,2025-06-30,2025Q2,0.12,yahoo_income
+SNCY,2025-03-31,2025Q1,0.66,yahoo_income
 SND,2026-03-31,2026Q1,-0.1,yahoo_income
 SND,2025-12-31,2025Q4,0.03,yahoo_income
 SND,2025-09-30,2025Q3,0.08,yahoo_income
@@ -7630,6 +7640,10 @@ TBCH,2025-12-31,2025Q4,0.87,yahoo_income
 TBCH,2025-09-30,2025Q3,0.08,yahoo_income
 TBCH,2025-06-30,2025Q2,-0.14,yahoo_income
 TBCH,2025-03-31,2025Q1,-0.03,yahoo_income
+TBHC,2025-10-31,2025Q4,-0.16,yahoo_income
+TBHC,2025-07-31,2025Q3,-0.9,yahoo_income
+TBHC,2025-04-30,2025Q2,-0.54,yahoo_income
+TBHC,2024-10-31,2024Q4,-0.59,yahoo_income
 TBI,2026-03-31,2026Q1,-0.66,yahoo_income
 TBI,2025-12-31,2025Q4,-1.05,yahoo_income
 TBI,2025-09-30,2025Q3,-0.06,yahoo_income
