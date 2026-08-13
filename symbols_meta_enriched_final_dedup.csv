@@ -1,7 +1,7 @@
 ﻿symbol,sector,last_price
 2S,Basic Materials,4.34
 88TH,Consumer Defensive,3.9
-A,Real Estate,2.76
+A,Real Estate,2.759999990463257
 A5,Real Estate,1.79
 AAI,Consumer Defensive,4.08
 AAV,Industrials,1.05
@@ -30,7 +30,7 @@ AJ,Consumer Cyclical,3.22
 AJA,Technology,0.12
 AKP,Industrials,0.69
 AKR,Industrials,0.98
-AKS,Real Estate,0.01
+AKS,Real Estate,0.009999999776482582
 ALLA,Industrials,1.18
 ALLY,Real Estate,5.15
 ALPHAX,Utilities,0.23
@@ -131,7 +131,7 @@ BSBM,Basic Materials,0.64
 BSM,Industrials,0.72
 BTC,Financial Services,0.15
 BTG,Consumer Defensive,20.9
-BTNC,Consumer Cyclical,14.2
+BTNC,Consumer Cyclical,14.199999809265137
 BTS,Industrials,2.06
 BTW,Industrials,0.07
 BUI,Financial Services,11.1
@@ -144,7 +144,7 @@ CCET,Technology,8.25
 CCP,Basic Materials,0.28
 CEN,Basic Materials,0.59
 CENTEL,Consumer Cyclical,41.0
-CEYE,Consumer Cyclical,1.12
+CEYE,Consumer Cyclical,1.1200000047683716
 CFARM,Consumer Defensive,0.82
 CFRESH,Consumer Defensive,1.41
 CGD,Real Estate,0.1
@@ -157,12 +157,12 @@ CHAYO,Financial Services,1.39
 CHEWA,Real Estate,0.14
 CHG,Healthcare,1.63
 CHIC,Consumer Cyclical,0.3
-CHO,Industrials,0.02
+CHO,Industrials,0.019999999552965164
 CHOTI,Consumer Defensive,68.0
 CHOW,Basic Materials,1.35
 CI,Real Estate,0.37
 CIG,Industrials,0.02
-CIMBT,Financial Services,0.37
+CIMBT,Financial Services,0.3700000047683716
 CITY,Industrials,1.2
 CIVIL,Industrials,1.06
 CK,Industrials,18.0
@@ -216,13 +216,13 @@ DPAINT,Basic Materials,0.25
 DREIT,Real Estate,5.0
 DRT,Industrials,5.3
 DTCENT,Technology,0.95
-DTCI,Industrials,17.7
+DTCI,Industrials,17.700000762939453
 DUSIT,Consumer Cyclical,11.5
 EA,Utilities,2.92
 EASON,Basic Materials,1.17
 EAST,Financial Services,0.74
 EASTW,Utilities,5.6
-ECF,Consumer Cyclical,0.1
+ECF,Consumer Cyclical,0.10000000149011612
 EFORL,Healthcare,0.11
 EGCO,Utilities,132.5
 EKH,Healthcare,5.0
@@ -265,7 +265,7 @@ GFC,Healthcare,2.1
 GFPT,Consumer Defensive,9.7
 GGC,Basic Materials,4.3
 GJS,Basic Materials,0.13
-GLAND,Real Estate,0.74
+GLAND,Real Estate,0.7400000095367432
 GLOBAL,Consumer Cyclical,7.5
 GLORY,Industrials,1.0
 GPI,Communication Services,1.81
@@ -288,12 +288,12 @@ HENG,Financial Services,0.94
 HFT,Consumer Cyclical,4.06
 HL,Healthcare,5.6
 HMPRO,Consumer Cyclical,6.65
-HPT,Consumer Cyclical,0.14
+HPT,Consumer Cyclical,0.14000000059604645
 HTC,Consumer Defensive,16.5
 HTECH,Industrials,4.04
 HUMAN,Technology,4.42
 HYDRO,Industrials,0.05
-HYDROGEN,Real Estate,8.2
+HYDROGEN,Real Estate,8.199999809265137
 I2,Technology,0.76
 ICC,Consumer Cyclical,23.9
 ICHI,Consumer Defensive,14.9
@@ -310,7 +310,7 @@ IMPACT,Real Estate,13.0
 IND,Industrials,0.87
 INET,Technology,4.02
 INETREIT,Real Estate,13.3
-INGRS,Consumer Cyclical,0.09
+INGRS,Consumer Cyclical,0.09000000357627869
 INOX,Basic Materials,4.18
 INSET,Technology,4.5
 INSURE,Financial Services,49.0
@@ -359,7 +359,7 @@ KIAT,Industrials,0.35
 KISS,Consumer Defensive,3.7
 KJL,Industrials,6.7
 KK,Consumer Defensive,1.02
-KKC,Industrials,0.04
+KKC,Industrials,0.03999999910593033
 KKP,Financial Services,110.0
 KLINIQ,Consumer Cyclical,28.0
 KOOL,Consumer Cyclical,0.29
@@ -416,7 +416,7 @@ MEB,Technology,12.7
 MEDEZE,Healthcare,6.7
 MEGA,Healthcare,38.5
 MENA,Industrials,0.77
-META,Utilities,0.02
+META,Utilities,0.019999999552965164
 METCO,Technology,290.0
 MFC,Financial Services,20.9
 MFEC,Technology,6.3
@@ -426,9 +426,9 @@ MGT,Basic Materials,2.2
 MICRO,Financial Services,1.5
 MIDA,Financial Services,0.39
 MII,Real Estate,6.45
-MILL,Basic Materials,0.01
+MILL,Basic Materials,0.009999999776482582
 MINT,Consumer Cyclical,22.9
-MIPF,Real Estate,9.05
+MIPF,Real Estate,9.050000190734863
 MITSIB,Consumer Cyclical,0.63
 MJD,Real Estate,0.33
 MK,Real Estate,0.58
@@ -449,7 +449,7 @@ MTC,Financial Services,34.5
 MTI,Financial Services,17.6
 MTW,Consumer Cyclical,0.81
 MUD,Consumer Cyclical,0.95
-MVP,Communication Services,0.06
+MVP,Communication Services,0.05999999865889549
 NAM,Healthcare,3.32
 NAT,Technology,1.72
 NATION,Communication Services,0.04
@@ -465,14 +465,14 @@ NER,Basic Materials,4.52
 NETBAY,Technology,12.1
 NEW,Healthcare,95.0
 NEX,Industrials,0.99
-NFC,Basic Materials,1.23
+NFC,Basic Materials,1.2300000190734863
 NKI,Financial Services,19.0
 NKT,Healthcare,3.7
 NL,Industrials,0.67
 NNCL,Utilities,1.78
 NOBLE,Real Estate,1.85
 NOVA,Energy,5.9
-NPK,Consumer Cyclical,14.1
+NPK,Consumer Cyclical,14.100000381469727
 NRF,Consumer Defensive,0.22
 NSL,Consumer Defensive,22.9
 NTF,Consumer Defensive,14.5
@@ -481,10 +481,10 @@ NTV,Healthcare,19.0
 NUT,Consumer Defensive,5.15
 NV,Consumer Defensive,0.6
 NVD,Real Estate,0.82
-NWR,Industrials,0.04
+NWR,Industrials,0.03999999910593033
 NYT,Industrials,4.04
-OCC,Consumer Defensive,9.6
-OGC,Consumer Cyclical,9.1
+OCC,Consumer Defensive,9.600000381469727
+OGC,Consumer Cyclical,9.100000381469727
 OHTL,Consumer Cyclical,264.0
 OKJ,Consumer Defensive,3.32
 ONEE,Communication Services,2.94
@@ -511,7 +511,7 @@ PF,Real Estate,0.04
 PG,Consumer Cyclical,6.55
 PHG,Healthcare,10.4
 PHOL,Industrials,3.34
-PICO,Communication Services,4.2
+PICO,Communication Services,4.199999809265137
 PIMO,Industrials,1.2
 PIN,Real Estate,4.6
 PIS,Technology,5.15
@@ -568,7 +568,7 @@ QDC,Consumer Cyclical,0.07
 QH,Real Estate,1.47
 QHBREIT,Real Estate,3.8
 QHHRREIT,Real Estate,8.7
-QHOP,Real Estate,3.38
+QHOP,Real Estate,3.380000114440918
 QLT,Industrials,2.0
 QTC,Industrials,5.25
 QTCG,Industrials,0.15
@@ -583,7 +583,7 @@ RJH,Healthcare,15.4
 RML,Real Estate,0.09
 ROCK,Consumer Cyclical,10.6
 ROCTEC,Technology,0.67
-ROH,Consumer Cyclical,1.21
+ROH,Consumer Cyclical,1.2100000381469727
 ROJNA,Utilities,6.05
 RP,Industrials,0.64
 RPC,Consumer Cyclical,0.37
@@ -601,7 +601,7 @@ SAF,Basic Materials,0.39
 SAFE,Healthcare,5.35
 SAK,Financial Services,3.34
 SALEE,Basic Materials,0.59
-SAM,Basic Materials,0.1
+SAM,Basic Materials,0.10000000149011612
 SAMART,Technology,5.55
 SAMCO,Real Estate,0.83
 SAMTEL,Communication Services,3.06
@@ -611,7 +611,7 @@ SAT,Consumer Cyclical,16.2
 SAUCE,Consumer Defensive,41.75
 SAV,Industrials,11.4
 SAWAD,Financial Services,24.7
-SAWANG,Consumer Cyclical,6.05
+SAWANG,Consumer Cyclical,6.050000190734863
 SC,Real Estate,2.02
 SCAP,Financial Services,1.81
 SCB,Financial Services,152.0
@@ -819,19 +819,19 @@ TRV,Consumer Cyclical,1.5
 TSC,Consumer Cyclical,15.4
 TSE,Utilities,0.77
 TSI,Financial Services,0.06
-TSR,Unknown,0.04
+TSR,Unknown,0.03999999910593033
 TSTE,Consumer Defensive,9.95
 TSTH,Basic Materials,1.01
 TTA,Industrials,5.75
 TTB,Financial Services,3.08
-TTCL,Industrials,0.08
+TTCL,Industrials,0.07999999821186066
 TTI,Consumer Cyclical,26.0
 TTT,Consumer Cyclical,43.5
 TTW,Utilities,10.4
 TU,Consumer Defensive,13.3
 TU-PF,Unknown,0.83
 TURBO,Financial Services,1.64
-TURTLE,Consumer Cyclical,3.72
+TURTLE,Consumer Cyclical,3.7200000286102295
 TVDH,Consumer Cyclical,0.05
 TVH,Financial Services,11.7
 TVO,Consumer Defensive,27.0
@@ -887,7 +887,7 @@ WINNER,Consumer Defensive,2.26
 WORK,Communication Services,3.46
 WP,Utilities,3.76
 WPH,Healthcare,6.1
-WSOL,Industrials,0.03
+WSOL,Industrials,0.029999999329447746
 XBIO,Consumer Cyclical,0.07
 XO,Consumer Defensive,18.7
 XPG,Financial Services,0.48
@@ -896,5 +896,5 @@ YGG,Communication Services,0.18
 YONG,Basic Materials,0.7
 YUASA,Consumer Cyclical,14.7
 ZAA,Communication Services,1.6
-ZEN,Consumer Cyclical,5.6
+ZEN,Consumer Cyclical,5.599999904632568
 ZIGA,Basic Materials,0.85
