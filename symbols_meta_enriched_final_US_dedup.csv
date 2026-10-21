@@ -28,11 +28,11 @@ ACRE,Real Estate,3.2899999618530273
 ACRS,Healthcare,3.7699999809265137
 ACT,Financial Services,46.849998474121094
 ACTG,Industrials,4.199999809265137
-ACTU,Healthcare,0.616100013256073
+ACTU,Healthcare,0.6159999966621399
 ACVA,Consumer Cyclical,10.5
 ACXP,Healthcare,1.1399999856948853
 ADBE,Technology,256.7300109863281
-ADGM,Healthcare,0.12080000340938568
+ADGM,Healthcare,0.12099999934434891
 ADI,Technology,397.04998779296875
 ADMA,Healthcare,11.229999542236328
 ADP,Technology,292.75
@@ -57,9 +57,9 @@ AHT,Real Estate,1.7899999618530273
 AI,Technology,11.6899995803833
 AIG,Financial Services,81.87999725341797
 AII,Financial Services,28.950000762939453
-AIMD,Technology,0.9003000259399414
+AIMD,Technology,0.8999999761581421
 AIN,Consumer Cyclical,64.43000030517578
-AIRE,Real Estate,0.9067999720573425
+AIRE,Real Estate,0.9070000052452087
 AISP,Technology,2.1600000858306885
 AIT,Industrials,330.79998779296875
 AIZ,Financial Services,283.6099853515625
@@ -69,14 +69,14 @@ AKO-B,Consumer Defensive,29.639999389648438
 ALB,Basic Materials,95.7699966430664
 ALCO,Consumer Defensive,37.349998474121094
 ALGM,Technology,33.90999984741211
-ALGN,Healthcare,150.4949951171875
+ALGN,Healthcare,150.5
 ALIT,Technology,8.600000381469727
 ALL,Financial Services,249.91000366210938
-ALLR,Healthcare,0.8758000135421753
+ALLR,Healthcare,0.8759999871253967
 ALRM,Technology,58.68000030517578
 ALSN,Consumer Cyclical,109.66000366210938
 ALTO,Basic Materials,3.559999942779541
-ALUR,Healthcare,0.475
+ALUR,Healthcare,0.4749999940395355
 AM,Energy,20.56999969482422
 AMAL,Financial Services,47.959999084472656
 AMAT,Technology,404.9800109863281
@@ -105,7 +105,7 @@ ANRO,Healthcare,24.40999984741211
 ANTX,Healthcare,3.559999942779541
 AON,Financial Services,296.7099914550781
 AOS,Industrials,59.540000915527344
-APA,Energy,49.89500045776367
+APA,Energy,49.900001525878906
 APD,Basic Materials,302.5799865722656
 APG,Industrials,39.9900016784668
 APGE,Healthcare,135.07000732421875
@@ -124,7 +124,7 @@ ARAI,Technology,0.11999999731779099
 ARDT,Healthcare,12.119999885559082
 ARDX,Healthcare,3.2100000381469727
 ARE,Real Estate,42.650001525878906
-AREB,Consumer Cyclical,0.06750000268220901
+AREB,Consumer Cyclical,0.06800000369548798
 AREC,Industrials,1.100000023841858
 ARES,Financial Services,116.29000091552734
 ARKR,Consumer Cyclical,4.420000076293945
@@ -155,7 +155,7 @@ ATO,Utilities,167.1300048828125
 ATRA,Healthcare,9.15999984741211
 ATRC,Healthcare,57.66999816894531
 ATRO,Industrials,59.849998474121094
-AUID,Technology,0.3084999918937683
+AUID,Technology,0.3089999854564667
 AUR,Consumer Cyclical,5.010000228881836
 AVAH,Healthcare,12.75
 AVAV,Industrials,117.62999725341797
@@ -177,7 +177,7 @@ AYTU,Healthcare,2.009999990463257
 AZO,Consumer Cyclical,3160.179931640625
 BA,Industrials,190.47000122070312
 BAC,Financial Services,50.63999938964844
-BAER,Industrials,0.5529000163078308
+BAER,Industrials,0.5529999732971191
 BALL,Consumer Cyclical,64.16000366210938
 BAP,Financial Services,390.54998779296875
 BATRK,Communication Services,50.15999984741211
@@ -197,7 +197,7 @@ BCS,Financial Services,22.329999923706055
 BDTX,Healthcare,2.069999933242798
 BDX,Healthcare,193.8000030517578
 BEAM,Healthcare,24.93000030517578
-BEAT,Healthcare,0.4108000099658966
+BEAT,Healthcare,0.41100001335144043
 BEEP,Industrials,2.5399999618530273
 BELFA,Technology,171.6999969482422
 BEN,Financial Services,31.239999771118164
@@ -224,18 +224,18 @@ BKR,Energy,55.650001525878906
 BL,Technology,31.229999542236328
 BLBD,Industrials,57.369998931884766
 BLDR,Industrials,53.91999816894531
-BLIN,Technology,0.6865000128746033
+BLIN,Technology,0.6899999976158142
 BLK,Financial Services,1128.6800537109375
 BLKB,Technology,53.56999969482422
 BLNE,Financial Services,0.6600000262260437
-BLNK,Industrials,0.421099990606308
+BLNK,Industrials,0.42100000381469727
 BMBL,Communication Services,5.949999809265137
 BMI,Technology,129.00999450683594
 BMO,Financial Services,167.47000122070312
 BMRN,Healthcare,56.439998626708984
 BMY,Healthcare,61.68000030517578
 BNED,Consumer Cyclical,13.479999542236328
-BNGO,Healthcare,1.2450000047683716
+BNGO,Healthcare,1.25
 BODI,Communication Services,4.300000190734863
 BOKF,Financial Services,126.45999908447266
 BOOT,Consumer Cyclical,115.3499984741211
@@ -253,7 +253,7 @@ BROS,Consumer Cyclical,43.81999969482422
 BRT,Real Estate,13.359999656677246
 BRTX,Healthcare,1.559999942779541
 BRX,Real Estate,27.719999313354492
-BSLK,Basic Materials,0.003
+BSLK,Basic Materials,0.003000000026077032
 BSX,Healthcare,45.58000183105469
 BTG,Basic Materials,5.199999809265137
 BTU,Energy,22.649999618530273
@@ -279,7 +279,7 @@ CAPR,Healthcare,6.610000133514404
 CARE,Financial Services,30.18000030517578
 CARL,Healthcare,14.180000305175781
 CARR,Industrials,56.16999816894531
-CASH,Financial Services,73.92500305175781
+CASH,Financial Services,73.93000030517578
 CAT,Industrials,725.239990234375
 CATO,Consumer Cyclical,2.309999942779541
 CATY,Financial Services,60.66999816894531
@@ -316,9 +316,9 @@ CGNX,Technology,56.77000045776367
 CHCO,Financial Services,142.10000610351562
 CHCT,Real Estate,13.149999618530273
 CHD,Consumer Defensive,105.95999908447266
-CHDN,Consumer Cyclical,83.0250015258789
+CHDN,Consumer Cyclical,83.02999877929688
 CHEF,Consumer Defensive,110.87999725341797
-CHGG,Consumer Defensive,0.7020999789237976
+CHGG,Consumer Defensive,0.699999988079071
 CHMI,Real Estate,2.490000009536743
 CHPT,Consumer Cyclical,7.829999923706055
 CHRW,Industrials,140.57000732421875
@@ -332,8 +332,8 @@ CIFR,Technology,8.880000114440918
 CIM,Real Estate,8.380000114440918
 CINF,Financial Services,172.07000732421875
 CION,Financial Services,6.360000133514404
-CISO,Technology,0.17509999871253967
-CJMB,Industrials,0.6599000096321106
+CISO,Technology,0.17499999701976776
+CJMB,Industrials,0.6600000262260437
 CL,Consumer Defensive,94.54000091552734
 CLAR,Consumer Cyclical,3.5999999046325684
 CLH,Industrials,316.2799987792969
@@ -349,7 +349,7 @@ CMDB,Industrials,19.56999969482422
 CME,Financial Services,295.30999755859375
 CMG,Consumer Cyclical,29.649999618530273
 CMI,Industrials,536.219970703125
-CMPX,Healthcare,0.833299994468689
+CMPX,Healthcare,0.8330000042915344
 CMRC,Technology,3.799999952316284
 CMRE,Industrials,13.779999732971191
 CMS,Utilities,68.41999816894531
@@ -365,11 +365,11 @@ CNP,Utilities,40.2400016784668
 CNQ,Energy,54.18000030517578
 CNR,Energy,87.30999755859375
 CNS,Financial Services,72.02999877929688
-CNSP,Healthcare,4.99
-CNTX,Healthcare,0.24379999935626984
+CNSP,Healthcare,4.989999771118164
+CNTX,Healthcare,0.24400000274181366
 CNVS,Communication Services,1.559999942779541
 CNXC,Technology,29.25
-COCH,Healthcare,0.6345000267028809
+COCH,Healthcare,0.6349999904632568
 COF,Financial Services,201.55999755859375
 COGT,Healthcare,31.239999771118164
 COHU,Technology,52.7400016784668
@@ -382,7 +382,7 @@ COOK,Consumer Cyclical,45.290000915527344
 COP,Energy,145.9499969482422
 COR,Healthcare,343.2699890136719
 CORT,Healthcare,116.44999694824219
-COSM,Healthcare,0.3305000066757202
+COSM,Healthcare,0.3310000002384186
 COST,Consumer Defensive,994.6099853515625
 COTY,Consumer Defensive,3.2200000286102295
 CPAY,Technology,408.3599853515625
@@ -396,8 +396,8 @@ CRBU,Healthcare,0.5189999938011169
 CRCT,Technology,6.480000019073486
 CRD-A,Financial Services,12.569999694824219
 CRD-B,Financial Services,12.09000015258789
-CRDF,Healthcare,0.9315000176429749
-CREG,Utilities,0.179
+CRDF,Healthcare,0.9300000071525574
+CREG,Utilities,0.17945000529289246
 CRL,Healthcare,315.45001220703125
 CRM,Technology,242.42999267578125
 CRNC,Technology,8.880000114440918
@@ -424,7 +424,7 @@ CTRN,Consumer Cyclical,48.79999923706055
 CTS,Technology,55.31999969482422
 CTSH,Technology,68.18000030517578
 CTVA,Basic Materials,12.899999618530273
-CTXR,Healthcare,0.41749998927116394
+CTXR,Healthcare,0.4180000126361847
 CUBI,Financial Services,76.0199966430664
 CURI,Communication Services,2.7899999618530273
 CURV,Consumer Cyclical,2.190000057220459
@@ -443,7 +443,7 @@ CXW,Industrials,30.34000015258789
 CYH,Healthcare,2.8499999046325684
 CYN,Technology,0.41499999165534973
 CYRX,Industrials,17.440000534057617
-CZNC,Financial Services,25.69499969482422
+CZNC,Financial Services,25.700000762939453
 CZR,Consumer Cyclical,29.09000015258789
 D,Utilities,62.84000015258789
 DAC,Industrials,157.42999267578125
@@ -481,1338 +481,1338 @@ DLTR,Consumer Defensive,124.95999908447266
 DNOW,Industrials,15.770000457763672
 DNUT,Consumer Defensive,2.9700000286102295
 DOC,Real Estate,18.760000228881836
-DOCN,Technology,99.48
-DORM,Consumer Cyclical,123.94
-DOV,Industrials,197.14
-DOW,Basic Materials,30.69
-DPZ,Consumer Cyclical,316.31
-DRCT,Communication Services,0.24
-DRI,Consumer Cyclical,217.99
-DRIO,Healthcare,4.08
-DRMA,Healthcare,0.8699
-DRUG,Healthcare,55.2
-DRVN,Consumer Cyclical,12.14
-DSGR,Industrials,35.04
-DT,Technology,63.64
-DTE,Utilities,129.32
-DTI,Energy,1.88
-DUK,Utilities,121.33
-DUOL,Technology,139.58
-DUOT,Technology,5.8
-DVA,Healthcare,175.35
-DVN,Energy,50.38
-DX,Real Estate,10.96
-DXC,Technology,14.63
-DXCM,Healthcare,85.74
-DXPE,Industrials,170.55
+DOCN,Technology,99.4800033569336
+DORM,Consumer Cyclical,123.94000244140625
+DOV,Industrials,197.13999938964844
+DOW,Basic Materials,30.690000534057617
+DPZ,Consumer Cyclical,316.30999755859375
+DRCT,Communication Services,0.24899999797344208
+DRI,Consumer Cyclical,217.99000549316406
+DRIO,Healthcare,4.079999923706055
+DRMA,Healthcare,0.8700000047683716
+DRUG,Healthcare,55.20000076293945
+DRVN,Consumer Cyclical,12.140000343322754
+DSGR,Industrials,35.040000915527344
+DT,Technology,63.63999938964844
+DTE,Utilities,129.32000732421875
+DTI,Energy,1.8799999952316284
+DUK,Utilities,121.33000183105469
+DUOL,Technology,139.5800018310547
+DUOT,Technology,5.800000190734863
+DVA,Healthcare,175.35000610351562
+DVN,Energy,50.380001068115234
+DX,Real Estate,10.960000038146973
+DXC,Technology,14.630000114440918
+DXCM,Healthcare,85.73999786376953
+DXPE,Industrials,170.5500030517578
 DY,Industrials,252.0
-E,Energy,58.86
+E,Energy,58.86000061035156
 EA,Communication Services,209.6999969482422
-EAF,Industrials,6.95
-EBAY,Consumer Cyclical,121.19
-EBC,Financial Services,21.47
+EAF,Industrials,6.949999809265137
+EBAY,Consumer Cyclical,121.19000244140625
+EBC,Financial Services,21.469999313354492
 EBF,Industrials,22.5
-EBMT,Financial Services,20.73
-ECG,Industrials,105.74
-ECL,Basic Materials,288.16
-ECO,Industrials,88.19
-ECOR,Healthcare,7.49
-ED,Utilities,111.98
-EEFT,Technology,66.15
-EFSC,Financial Services,60.55
-EFX,Industrials,176.54
-EG,Financial Services,393.19
+EBMT,Financial Services,20.729999542236328
+ECG,Industrials,105.73999786376953
+ECL,Basic Materials,288.1600036621094
+ECO,Industrials,88.19000244140625
+ECOR,Healthcare,7.489999771118164
+ED,Utilities,111.9800033569336
+EEFT,Technology,66.1500015258789
+EFSC,Financial Services,60.54999923706055
+EFX,Industrials,176.5399932861328
+EG,Financial Services,393.19000244140625
 EGP,Real Estate,201.25
-EHC,Healthcare,121.67
-EIG,Financial Services,51.7
-EIX,Utilities,56.53
-EL,Consumer Defensive,106.12
-ELAN,Healthcare,22.7
-ELDN,Healthcare,2.255
-ELF,Consumer Defensive,114.74
-ELTX,Healthcare,1.57
-ELUT,Healthcare,0.8105
-ELV,Healthcare,440.18
-EMBJ,Industrials,72.37
-EME,Industrials,702.48
+EHC,Healthcare,121.66999816894531
+EIG,Financial Services,51.70000076293945
+EIX,Utilities,56.529998779296875
+EL,Consumer Defensive,106.12000274658203
+ELAN,Healthcare,22.700000762939453
+ELDN,Healthcare,2.255000114440918
+ELF,Consumer Defensive,114.73999786376953
+ELTX,Healthcare,1.5700000524520874
+ELUT,Healthcare,0.8109999895095825
+ELV,Healthcare,440.17999267578125
+EMBJ,Industrials,72.37000274658203
+EME,Industrials,702.47998046875
 EMN,Basic Materials,63.5
-EMPD,Consumer Cyclical,2.87
-EMR,Industrials,160.46
-ENGN,Healthcare,1.67
-ENOV,Healthcare,20.69
-ENPH,Technology,32.23
-ENS,Industrials,170.61
-ENTG,Technology,142.9
-ENVA,Financial Services,179.45
-EOG,Energy,157.91
-EPAC,Industrials,35.56
-EPAM,Technology,130.68
-EPC,Consumer Defensive,28.22
-EPD,Energy,36.98
-EPRT,Real Estate,25.76
-EQBK,Financial Services,47.94
-EQH,Financial Services,54.02
-EQIX,Real Estate,987.44
-EQT,Energy,54.82
-ERAS,Healthcare,14.62
-ERIE,Financial Services,245.935
-ES,Utilities,65.44
-ESE,Technology,247.64
-ESEA,Industrials,67.31
-ESLA,Healthcare,0.4
-ESOA,Industrials,9.35
-ESQ,Financial Services,119.21
-ESRT,Real Estate,4.71
-ESS,Real Estate,272.08
-ETD,Consumer Cyclical,20.16
-ETN,Industrials,381.98
-ETON,Healthcare,50.19
-ETR,Utilities,105.16
-ETS,Industrials,2.06
-ETSY,Consumer Cyclical,87.41
-EVER,Communication Services,22.72
-EVGO,Consumer Cyclical,1.1
-EVH,Healthcare,4.87
-EVLV,Industrials,4.28
-EVMN,Healthcare,5.38
-EVRG,Utilities,82.86
-EW,Healthcare,88.29
+EMPD,Consumer Cyclical,2.869999885559082
+EMR,Industrials,160.4600067138672
+ENGN,Healthcare,1.6699999570846558
+ENOV,Healthcare,20.690000534057617
+ENPH,Technology,32.22999954223633
+ENS,Industrials,170.61000061035156
+ENTG,Technology,142.89999389648438
+ENVA,Financial Services,179.4499969482422
+EOG,Energy,157.91000366210938
+EPAC,Industrials,35.560001373291016
+EPAM,Technology,130.67999267578125
+EPC,Consumer Defensive,28.219999313354492
+EPD,Energy,36.97999954223633
+EPRT,Real Estate,25.760000228881836
+EQBK,Financial Services,47.939998626708984
+EQH,Financial Services,54.02000045776367
+EQIX,Real Estate,987.4400024414062
+EQT,Energy,54.81999969482422
+ERAS,Healthcare,14.619999885559082
+ERIE,Financial Services,245.94000244140625
+ES,Utilities,65.44000244140625
+ESE,Technology,247.63999938964844
+ESEA,Industrials,67.30999755859375
+ESLA,Healthcare,0.4000000059604645
+ESOA,Industrials,9.350000381469727
+ESQ,Financial Services,119.20999908447266
+ESRT,Real Estate,4.710000038146973
+ESS,Real Estate,272.0799865722656
+ETD,Consumer Cyclical,20.15999984741211
+ETN,Industrials,381.9800109863281
+ETON,Healthcare,50.189998626708984
+ETR,Utilities,105.16000366210938
+ETS,Industrials,2.059999942779541
+ETSY,Consumer Cyclical,87.41000366210938
+EVER,Communication Services,22.719999313354492
+EVGO,Consumer Cyclical,1.100000023841858
+EVH,Healthcare,4.869999885559082
+EVLV,Industrials,4.28000020980835
+EVMN,Healthcare,5.380000114440918
+EVRG,Utilities,82.86000061035156
+EW,Healthcare,88.29000091552734
 EWTX,Healthcare,39.75
-EXC,Utilities,43.03
-EXE,Energy,92.67
-EXOZ,Healthcare,4.12
-EXP,Basic Materials,172.71
-EXPD,Industrials,198.41
-EXPE,Consumer Cyclical,300.76
-EXPO,Industrials,72.55
-EXR,Real Estate,141.05
-EZPW,Financial Services,33.05
-F,Consumer Cyclical,12.15
-FA,Industrials,19.56
-FANG,Energy,202.42
-FAST,Industrials,51.65
+EXC,Utilities,43.029998779296875
+EXE,Energy,92.66999816894531
+EXOZ,Healthcare,4.119999885559082
+EXP,Basic Materials,172.7100067138672
+EXPD,Industrials,198.41000366210938
+EXPE,Consumer Cyclical,300.760009765625
+EXPO,Industrials,72.55000305175781
+EXR,Real Estate,141.0500030517578
+EZPW,Financial Services,33.04999923706055
+F,Consumer Cyclical,12.149999618530273
+FA,Industrials,19.559999465942383
+FANG,Energy,202.4199981689453
+FAST,Industrials,51.650001525878906
 FBK,Financial Services,52.25
-FBLA,Financial Services,16.55
-FBNC,Financial Services,61.57
-FBP,Financial Services,27.58
-FBRT,Real Estate,6.09
+FBLA,Financial Services,16.549999237060547
+FBNC,Financial Services,61.56999969482422
+FBP,Financial Services,27.579999923706055
+FBRT,Real Estate,6.090000152587891
 FBRX,Healthcare,76.98999786376953
-FBYD,Industrials,8.38
-FC,Consumer Defensive,18.24
-FCAP,Financial Services,61.22
-FCF,Financial Services,20.54
-FCNCA,Financial Services,2120.39
-FCUV,Technology,3.405
-FDS,Financial Services,312.27
-FDX,Industrials,298.76
-FE,Utilities,45.72
-FEMY,Healthcare,1.67
-FENC,Healthcare,10.46
-FERG,Industrials,227.08
-FFAI,Consumer Cyclical,0.6655
-FFIN,Financial Services,30.19
-FFIV,Technology,456.71
-FG,Financial Services,20.14
-FGBI,Financial Services,8.29
-FHI,Financial Services,55.97
-FHTX,Healthcare,2.01
-FIBK,Financial Services,35.56
-FICO,Technology,799.73
-FIG,Technology,22.71
-FIP,Industrials,2.31
-FIS,Technology,36.43
-FITB,Financial Services,52.41
-FIVE,Consumer Cyclical,223.8
-FIVN,Technology,34.31
-FIX,Industrials,1397.09
-FIZZ,Consumer Defensive,35.13
-FKWL,Technology,2.2
-FLG,Financial Services,11.12
+FBYD,Industrials,8.380000114440918
+FC,Consumer Defensive,18.239999771118164
+FCAP,Financial Services,61.220001220703125
+FCF,Financial Services,20.540000915527344
+FCNCA,Financial Services,2120.389892578125
+FCUV,Technology,3.4049999713897705
+FDS,Financial Services,312.2699890136719
+FDX,Industrials,298.760009765625
+FE,Utilities,45.720001220703125
+FEMY,Healthcare,1.6699999570846558
+FENC,Healthcare,10.460000038146973
+FERG,Industrials,227.0800018310547
+FFAI,Consumer Cyclical,0.6660000085830688
+FFIN,Financial Services,30.190000534057617
+FFIV,Technology,456.7099914550781
+FG,Financial Services,20.139999389648438
+FGBI,Financial Services,8.289999961853027
+FHI,Financial Services,55.970001220703125
+FHTX,Healthcare,2.009999990463257
+FIBK,Financial Services,35.560001373291016
+FICO,Technology,799.72998046875
+FIG,Technology,22.709999084472656
+FIP,Industrials,2.309999942779541
+FIS,Technology,36.43000030517578
+FITB,Financial Services,52.40999984741211
+FIVE,Consumer Cyclical,223.8000030517578
+FIVN,Technology,34.310001373291016
+FIX,Industrials,1397.0899658203125
+FIZZ,Consumer Defensive,35.130001068115234
+FKWL,Technology,2.200000047683716
+FLG,Financial Services,11.119999885559082
 FLNT,Communication Services,2.75
-FLOC,Energy,19.1
-FLR,Industrials,45.18
-FLWS,Consumer Cyclical,2.69
-FLYW,Technology,18.64
-FMAO,Financial Services,35.55
-FMC,Basic Materials,5.31
-FNB,Financial Services,17.66
-FNKO,Consumer Cyclical,6.87
-FNV,Basic Materials,241.12
-FNWB,Financial Services,9.7
+FLOC,Energy,19.100000381469727
+FLR,Industrials,45.18000030517578
+FLWS,Consumer Cyclical,2.690000057220459
+FLYW,Technology,18.639999389648438
+FMAO,Financial Services,35.54999923706055
+FMC,Basic Materials,5.309999942779541
+FNB,Financial Services,17.65999984741211
+FNKO,Consumer Cyclical,6.869999885559082
+FNV,Basic Materials,241.1199951171875
+FNWB,Financial Services,9.699999809265137
 FNWD,Financial Services,42.43000030517578
-FOR,Real Estate,25.59
-FORM,Technology,107.7
-FOSL,Consumer Cyclical,6.81
-FOUR,Technology,40.46
+FOR,Real Estate,25.59000015258789
+FORM,Technology,107.69999694824219
+FOSL,Consumer Cyclical,6.809999942779541
+FOUR,Technology,40.459999084472656
 FOX,Communication Services,59.75
 FOXA,Communication Services,67.0
-FPI,Real Estate,10.04
+FPI,Real Estate,10.039999961853027
 FRD,Basic Materials,42.5
-FRHC,Financial Services,172.32
-FRMI,Real Estate,2.94
-FRPT,Consumer Defensive,66.05
-FRT,Real Estate,106.53
-FSBW,Financial Services,44.85
-FSLR,Technology,174.43
-FSS,Industrials,114.66
-FTAI,Industrials,157.95
-FTCI,Technology,1.45
-FTEK,Industrials,1.38
-FTFT,Technology,2.15
-FTLF,Consumer Defensive,8.13
-FTNT,Technology,170.93
-FTV,Technology,58.36
-FUBO,Communication Services,8.22
-FUL,Basic Materials,50.57
-FULC,Healthcare,3.72
-FUN,Consumer Cyclical,7.86
-FUNC,Financial Services,41.85
+FRHC,Financial Services,172.32000732421875
+FRMI,Real Estate,2.940000057220459
+FRPT,Consumer Defensive,66.05000305175781
+FRT,Real Estate,106.52999877929688
+FSBW,Financial Services,44.849998474121094
+FSLR,Technology,174.42999267578125
+FSS,Industrials,114.66000366210938
+FTAI,Industrials,157.9499969482422
+FTCI,Technology,1.4500000476837158
+FTEK,Industrials,1.3799999952316284
+FTFT,Technology,2.1500000953674316
+FTLF,Consumer Defensive,8.130000114440918
+FTNT,Technology,170.92999267578125
+FTV,Technology,58.36000061035156
+FUBO,Communication Services,8.220000267028809
+FUL,Basic Materials,50.56999969482422
+FULC,Healthcare,3.7200000286102295
+FUN,Consumer Cyclical,7.860000133514404
+FUNC,Financial Services,41.849998474121094
 FUSB,Financial Services,16.399999618530273
-FWONK,Communication Services,92.48
-G,Technology,38.7
-GABC,Financial Services,50.36
-GANX,Healthcare,1.19
-GAP,Consumer Cyclical,23.47
-GASS,Industrials,8.32
-GBFH,Financial Services,17.31
-GBX,Industrials,37.61
-GCBC,Financial Services,34.93
-GCMG,Financial Services,12.58
-GCTK,Healthcare,0.6511
-GD,Industrials,344.44
-GDC,Communication Services,1.19
-GDDY,Technology,108.8
-GDOT,Financial Services,12.19
-GDRX,Healthcare,3.52
-GE,Industrials,299.87
-GEF,Consumer Cyclical,81.56
-GEF-B,Consumer Cyclical,113.14
-GEHC,Healthcare,70.23
-GEN,Technology,24.08
-GETY,Communication Services,0.0155
-GEV,Industrials,890.33
-GEVO,Basic Materials,1.13
-GFF,Industrials,94.99
-GGB,Basic Materials,5.24
-GIFT,Communication Services,0.508
-GIII,Consumer Cyclical,28.51
-GIL,Consumer Cyclical,40.91
-GILD,Healthcare,156.51
-GIPR,Real Estate,0.3644
-GIS,Consumer Defensive,33.43
-GL,Financial Services,169.72
+FWONK,Communication Services,92.4800033569336
+G,Technology,38.70000076293945
+GABC,Financial Services,50.36000061035156
+GANX,Healthcare,1.190000057220459
+GAP,Consumer Cyclical,23.469999313354492
+GASS,Industrials,8.319999694824219
+GBFH,Financial Services,17.309999465942383
+GBX,Industrials,37.61000061035156
+GCBC,Financial Services,34.93000030517578
+GCMG,Financial Services,12.579999923706055
+GCTK,Healthcare,0.6510000228881836
+GD,Industrials,344.44000244140625
+GDC,Communication Services,1.190000057220459
+GDDY,Technology,108.80000305175781
+GDOT,Financial Services,12.1899995803833
+GDRX,Healthcare,3.5199999809265137
+GE,Industrials,299.8699951171875
+GEF,Consumer Cyclical,81.55999755859375
+GEF-B,Consumer Cyclical,113.13999938964844
+GEHC,Healthcare,70.2300033569336
+GEN,Technology,24.079999923706055
+GETY,Communication Services,0.019999999552965164
+GEV,Industrials,890.3300170898438
+GEVO,Basic Materials,1.1299999952316284
+GFF,Industrials,94.98999786376953
+GGB,Basic Materials,5.239999771118164
+GIFT,Communication Services,0.5080000162124634
+GIII,Consumer Cyclical,28.510000228881836
+GIL,Consumer Cyclical,40.90999984741211
+GILD,Healthcare,156.50999450683594
+GIPR,Real Estate,0.36399999260902405
+GIS,Consumer Defensive,33.43000030517578
+GL,Financial Services,169.72000122070312
 GLBZ,Financial Services,4.349999904632568
-GLPI,Real Estate,39.14
-GLW,Technology,132.26
-GM,Consumer Cyclical,77.09
-GMED,Healthcare,78.96
-GNE,Utilities,16.63
-GNRC,Industrials,194.6
-GNW,Financial Services,8.97
-GO,Consumer Defensive,13.02
-GOGO,Communication Services,2.07
-GOLD,Financial Services,38.19
-GOLF,Consumer Cyclical,80.89
-GOOGL,Communication Services,340.275
-GOVX,Healthcare,0.2271
-GPC,Consumer Cyclical,123.52
-GPI,Consumer Cyclical,243.02
-GPMT,Real Estate,4.72
-GPN,Industrials,84.82
-GRDN,Healthcare,41.87
-GRMN,Technology,290.35
-GRND,Technology,14.06
-GRNT,Energy,5.66
-GROV,Consumer Defensive,0.9945
-GROW,Financial Services,2.61
-GRWG,Consumer Cyclical,1.41
-GS,Financial Services,884.81
-GSBC,Financial Services,78.59
-GSIT,Technology,4.03
-GUTS,Healthcare,1.33
-GVA,Industrials,109.51
-GWRE,Technology,183.58
-GWW,Industrials,1335.96
-GXAI,Communication Services,0.435
-GYRE,Healthcare,6.17
-H,Consumer Cyclical,176.15
-HAE,Healthcare,118.21
-HAL,Energy,33.59
-HAS,Consumer Cyclical,109.52
-HASI,Financial Services,35.67
-HAYW,Industrials,12.08
-HBAN,Financial Services,15.54
-HBB,Consumer Cyclical,34.58
-HBNC,Financial Services,19.7
+GLPI,Real Estate,39.13999938964844
+GLW,Technology,132.25999450683594
+GM,Consumer Cyclical,77.08999633789062
+GMED,Healthcare,78.95999908447266
+GNE,Utilities,16.6299991607666
+GNRC,Industrials,194.60000610351562
+GNW,Financial Services,8.970000267028809
+GO,Consumer Defensive,13.020000457763672
+GOGO,Communication Services,2.069999933242798
+GOLD,Financial Services,38.189998626708984
+GOLF,Consumer Cyclical,80.88999938964844
+GOOGL,Communication Services,340.2799987792969
+GOVX,Healthcare,0.22699999809265137
+GPC,Consumer Cyclical,123.5199966430664
+GPI,Consumer Cyclical,243.02000427246094
+GPMT,Real Estate,4.71999979019165
+GPN,Industrials,84.81999969482422
+GRDN,Healthcare,41.869998931884766
+GRMN,Technology,290.3500061035156
+GRND,Technology,14.0600004196167
+GRNT,Energy,5.659999847412109
+GROV,Consumer Defensive,0.9950000047683716
+GROW,Financial Services,2.609999895095825
+GRWG,Consumer Cyclical,1.409999966621399
+GS,Financial Services,884.8099975585938
+GSBC,Financial Services,78.58999633789062
+GSIT,Technology,4.03000020980835
+GUTS,Healthcare,1.3300000429153442
+GVA,Industrials,109.51000213623047
+GWRE,Technology,183.5800018310547
+GWW,Industrials,1335.9599609375
+GXAI,Communication Services,0.4350000023841858
+GYRE,Healthcare,6.170000076293945
+H,Consumer Cyclical,176.14999389648438
+HAE,Healthcare,118.20999908447266
+HAL,Energy,33.59000015258789
+HAS,Consumer Cyclical,109.5199966430664
+HASI,Financial Services,35.66999816894531
+HAYW,Industrials,12.079999923706055
+HBAN,Financial Services,15.539999961853027
+HBB,Consumer Cyclical,34.58000183105469
+HBNC,Financial Services,19.700000762939453
 HCA,Healthcare,465.75
-HCC,Basic Materials,84.13
-HCKT,Technology,11.85
+HCC,Basic Materials,84.12999725341797
+HCKT,Technology,11.850000381469727
 HCSG,Healthcare,21.5
-HCWB,Healthcare,1.17
-HD,Consumer Cyclical,315.11
-HDSN,Basic Materials,5.305
-HE,Utilities,8.83
-HELE,Consumer Defensive,29.42
-HHS,Industrials,4.18
-HIG,Financial Services,136.39
-HII,Industrials,272.23
-HIT,Technology,0.5642
-HIW,Real Estate,29.2
-HLI,Financial Services,130.33
-HLIO,Industrials,68.04
-HLT,Consumer Cyclical,359.29
+HCWB,Healthcare,1.1699999570846558
+HD,Consumer Cyclical,315.1099853515625
+HDSN,Basic Materials,5.309999942779541
+HE,Utilities,8.829999923706055
+HELE,Consumer Defensive,29.420000076293945
+HHS,Industrials,4.179999828338623
+HIG,Financial Services,136.38999938964844
+HII,Industrials,272.2300109863281
+HIT,Technology,0.5640000104904175
+HIW,Real Estate,29.200000762939453
+HLI,Financial Services,130.3300018310547
+HLIO,Industrials,68.04000091552734
+HLT,Consumer Cyclical,359.2900085449219
 HLX,Energy,10.600000381469727
 HMC,Consumer Cyclical,34.25
-HNGE,Healthcare,107.51
-HNI,Consumer Cyclical,45.96
-HNRG,Utilities,11.34
-HOFT,Consumer Cyclical,12.84
-HOMB,Financial Services,29.39
-HON,Industrials,213.32
-HOOD,Financial Services,98.21
-HOUR,Consumer Cyclical,1.652
-HPE,Technology,56.09
-HPK,Energy,10.99
-HPP,Real Estate,9.48
-HPQ,Technology,31.21
-HRL,Consumer Defensive,20.51
-HRMY,Healthcare,38.7
-HRTG,Financial Services,36.98
-HSBC,Financial Services,92.74
-HSCS,Healthcare,3.13
-HSIC,Healthcare,84.68
-HST,Real Estate,24.8
-HSTM,Healthcare,33.77
-HSY,Consumer Defensive,169.58
-HTB,Financial Services,47.13
-HTLD,Industrials,10.27
-HTO,Utilities,56.87
-HUBB,Industrials,459.32
-HUBS,Technology,250.76
-HUM,Healthcare,427.38
-HUN,Basic Materials,8.34
-HURA,Healthcare,1.76
-HURN,Industrials,180.81
-HUT,Financial Services,69.04
-HVT,Consumer Cyclical,28.54
-HWM,Industrials,211.63
-HYFM,Industrials,0.754
-HYPR,Healthcare,0.774
-HZO,Consumer Cyclical,52.36
-IART,Healthcare,13.33
-IBAC,Financial Services,10.86
-IBKR,Financial Services,82.91
-IBM,Technology,241.92
-IBOC,Financial Services,65.31
-IBTA,Technology,48.13
-ICE,Financial Services,158.57
-IDCC,Technology,326.78
-IDN,Technology,2.22
-IDT,Communication Services,84.46
-IDXX,Healthcare,557.93
-IESC,Industrials,241.33
-IEX,Industrials,233.16
-IFF,Basic Materials,91.21
-IIIN,Industrials,30.29
-IMAX,Communication Services,52.44
-IMRX,Healthcare,3.73
-IMSR,Utilities,2.8
-IMXI,Technology,9.69
-INBK,Financial Services,25.99
-INCY,Healthcare,116.615
-INDP,Healthcare,2.96
-INGM,Technology,27.07
-INGN,Healthcare,6.69
-INGR,Consumer Defensive,96.82
-INMB,Healthcare,1.6
-INOD,Technology,55.045
-INSM,Healthcare,95.67
-INTA,Technology,44.78
-INTC,Technology,91.69
-INTU,Technology,335.29
-INVA,Healthcare,21.28
-INVE,Industrials,2.22
+HNGE,Healthcare,107.51000213623047
+HNI,Consumer Cyclical,45.959999084472656
+HNRG,Utilities,11.34000015258789
+HOFT,Consumer Cyclical,12.84000015258789
+HOMB,Financial Services,29.389999389648438
+HON,Industrials,213.32000732421875
+HOOD,Financial Services,98.20999908447266
+HOUR,Consumer Cyclical,1.6519999504089355
+HPE,Technology,56.09000015258789
+HPK,Energy,10.989999771118164
+HPP,Real Estate,9.479999542236328
+HPQ,Technology,31.209999084472656
+HRL,Consumer Defensive,20.510000228881836
+HRMY,Healthcare,38.70000076293945
+HRTG,Financial Services,36.97999954223633
+HSBC,Financial Services,92.73999786376953
+HSCS,Healthcare,3.130000114440918
+HSIC,Healthcare,84.68000030517578
+HST,Real Estate,24.799999237060547
+HSTM,Healthcare,33.77000045776367
+HSY,Consumer Defensive,169.5800018310547
+HTB,Financial Services,47.130001068115234
+HTLD,Industrials,10.270000457763672
+HTO,Utilities,56.869998931884766
+HUBB,Industrials,459.32000732421875
+HUBS,Technology,250.75999450683594
+HUM,Healthcare,427.3800048828125
+HUN,Basic Materials,8.34000015258789
+HURA,Healthcare,1.7599999904632568
+HURN,Industrials,180.80999755859375
+HUT,Financial Services,69.04000091552734
+HVT,Consumer Cyclical,28.540000915527344
+HWM,Industrials,211.6300048828125
+HYFM,Industrials,0.7540000081062317
+HYPR,Healthcare,0.7739999890327454
+HZO,Consumer Cyclical,52.36000061035156
+IART,Healthcare,13.329999923706055
+IBAC,Financial Services,10.859999656677246
+IBKR,Financial Services,82.91000366210938
+IBM,Technology,241.9199981689453
+IBOC,Financial Services,65.30999755859375
+IBTA,Technology,48.130001068115234
+ICE,Financial Services,158.57000732421875
+IDCC,Technology,326.7799987792969
+IDN,Technology,2.2200000286102295
+IDT,Communication Services,84.45999908447266
+IDXX,Healthcare,557.9299926757812
+IESC,Industrials,241.3300018310547
+IEX,Industrials,233.16000366210938
+IFF,Basic Materials,91.20999908447266
+IIIN,Industrials,30.290000915527344
+IMAX,Communication Services,52.439998626708984
+IMRX,Healthcare,3.7300000190734863
+IMSR,Utilities,2.799999952316284
+IMXI,Technology,9.6899995803833
+INBK,Financial Services,25.989999771118164
+INCY,Healthcare,116.62000274658203
+INDP,Healthcare,2.9600000381469727
+INGM,Technology,27.06999969482422
+INGN,Healthcare,6.690000057220459
+INGR,Consumer Defensive,96.81999969482422
+INMB,Healthcare,1.600000023841858
+INOD,Technology,55.04999923706055
+INSM,Healthcare,95.66999816894531
+INTA,Technology,44.779998779296875
+INTC,Technology,91.69000244140625
+INTU,Technology,335.2900085449219
+INVA,Healthcare,21.280000686645508
+INVE,Industrials,2.2200000286102295
 INVH,Real Estate,27.0
-IONQ,Technology,31.26
-IOVA,Healthcare,14.86
-IP,Consumer Cyclical,33.69
-IPI,Basic Materials,31.88
-IQV,Healthcare,267.85
-IR,Industrials,78.59
-IRM,Real Estate,113.06
+IONQ,Technology,31.260000228881836
+IOVA,Healthcare,14.859999656677246
+IP,Consumer Cyclical,33.689998626708984
+IPI,Basic Materials,31.8799991607666
+IQV,Healthcare,267.8500061035156
+IR,Industrials,78.58999633789062
+IRM,Real Estate,113.05999755859375
 ISBA,Financial Services,37.22999954223633
-ISPC,Healthcare,0.9599
+ISPC,Healthcare,0.9599999785423279
 ISRG,Healthcare,438.0
-IT,Technology,219.64
-ITGR,Healthcare,126.7
-ITRI,Technology,84.62
-ITT,Industrials,196.13
-ITW,Industrials,274.97
-IVF,Healthcare,0.602
-IVT,Real Estate,29.98
-IVZ,Financial Services,28.78
-IZEA,Communication Services,2.39
-J,Industrials,139.67
-JAKK,Consumer Cyclical,29.2
-JBHT,Industrials,226.4
-JBI,Industrials,4.26
-JBL,Technology,277.18
-JBLU,Industrials,2.91
-JBTM,Industrials,105.45
-JJSF,Consumer Defensive,81.82
-JKHY,Technology,154.71
-JNJ,Healthcare,259.36
-JOE,Real Estate,68.99
-JPM,Financial Services,335.26
-JRSH,Consumer Cyclical,6.31
-JSPR,Healthcare,0.4999
-JYNT,Healthcare,7.19
-KBR,Industrials,36.84
-KD,Technology,13.89
-KDP,Consumer Defensive,34.63
-KELYA,Industrials,15.82
-KEY,Financial Services,20.81
-KEYS,Technology,334.16
-KFFB,Financial Services,5.28
-KFRC,Industrials,50.73
-KFY,Industrials,73.04
-KGC,Basic Materials,23.64
-KGEI,Energy,6.85
-KHC,Consumer Defensive,23.83
+IT,Technology,219.63999938964844
+ITGR,Healthcare,126.69999694824219
+ITRI,Technology,84.62000274658203
+ITT,Industrials,196.1300048828125
+ITW,Industrials,274.9700012207031
+IVF,Healthcare,0.6019999980926514
+IVT,Real Estate,29.979999542236328
+IVZ,Financial Services,28.780000686645508
+IZEA,Communication Services,2.390000104904175
+J,Industrials,139.6699981689453
+JAKK,Consumer Cyclical,29.200000762939453
+JBHT,Industrials,226.39999389648438
+JBI,Industrials,4.260000228881836
+JBL,Technology,277.17999267578125
+JBLU,Industrials,2.9100000858306885
+JBTM,Industrials,105.44999694824219
+JJSF,Consumer Defensive,81.81999969482422
+JKHY,Technology,154.7100067138672
+JNJ,Healthcare,259.3599853515625
+JOE,Real Estate,68.98999786376953
+JPM,Financial Services,335.260009765625
+JRSH,Consumer Cyclical,6.309999942779541
+JSPR,Healthcare,0.5
+JYNT,Healthcare,7.190000057220459
+KBR,Industrials,36.84000015258789
+KD,Technology,13.890000343322754
+KDP,Consumer Defensive,34.630001068115234
+KELYA,Industrials,15.819999694824219
+KEY,Financial Services,20.809999465942383
+KEYS,Technology,334.1600036621094
+KFFB,Financial Services,5.28000020980835
+KFRC,Industrials,50.72999954223633
+KFY,Industrials,73.04000091552734
+KGC,Basic Materials,23.639999389648438
+KGEI,Energy,6.849999904632568
+KHC,Consumer Defensive,23.829999923706055
 KIDS,Healthcare,23.5
-KIDZ,Consumer Defensive,1.56
+KIDZ,Consumer Defensive,1.559999942779541
 KIM,Real Estate,23.0
-KINS,Financial Services,19.31
-KITT,Industrials,1.33
-KKR,Financial Services,89.21
-KLAC,Technology,161.74
-KLIC,Technology,80.43
-KLRS,Healthcare,2.07
-KMB,Consumer Defensive,108.33
-KMI,Energy,33.57
-KMT,Industrials,31.21
-KNF,Basic Materials,51.18
-KO,Consumer Defensive,93.49
-KOD,Healthcare,92.97
-KOPN,Technology,3.43
-KR,Consumer Defensive,62.98
-KRMD,Healthcare,3.04
-KRNY,Financial Services,9.06
-KRO,Basic Materials,7.55
-KRRO,Healthcare,9.44
-KRYS,Healthcare,325.42
-KSS,Consumer Cyclical,21.74
-KT,Communication Services,18.77
-KTOS,Industrials,38.96
-KTTA,Healthcare,0.41
-KURA,Healthcare,9.98
-KVHI,Communication Services,6.34
-KVUE,Consumer Defensive,19.28
-L,Financial Services,111.35
-LAD,Consumer Cyclical,299.53
-LARK,Financial Services,31.2
-LASE,Industrials,0.706
-LAW,Technology,4.67
-LAZ,Financial Services,36.67
+KINS,Financial Services,19.309999465942383
+KITT,Industrials,1.3300000429153442
+KKR,Financial Services,89.20999908447266
+KLAC,Technology,161.74000549316406
+KLIC,Technology,80.43000030517578
+KLRS,Healthcare,2.069999933242798
+KMB,Consumer Defensive,108.33000183105469
+KMI,Energy,33.56999969482422
+KMT,Industrials,31.209999084472656
+KNF,Basic Materials,51.18000030517578
+KO,Consumer Defensive,93.48999786376953
+KOD,Healthcare,92.97000122070312
+KOPN,Technology,3.430000066757202
+KR,Consumer Defensive,62.97999954223633
+KRMD,Healthcare,3.0399999618530273
+KRNY,Financial Services,9.0600004196167
+KRO,Basic Materials,7.550000190734863
+KRRO,Healthcare,9.4399995803833
+KRYS,Healthcare,325.4200134277344
+KSS,Consumer Cyclical,21.739999771118164
+KT,Communication Services,18.770000457763672
+KTOS,Industrials,38.959999084472656
+KTTA,Healthcare,0.4099999964237213
+KURA,Healthcare,9.979999542236328
+KVHI,Communication Services,6.340000152587891
+KVUE,Consumer Defensive,19.280000686645508
+L,Financial Services,111.3499984741211
+LAD,Consumer Cyclical,299.5299987792969
+LARK,Financial Services,31.200000762939453
+LASE,Industrials,0.7059999704360962
+LAW,Technology,4.670000076293945
+LAZ,Financial Services,36.66999816894531
 LBRDK,Communication Services,36.02000045776367
-LBRT,Energy,16.58
+LBRT,Energy,16.579999923706055
 LBRX,Healthcare,41.0
-LCNB,Financial Services,19.24
-LCUT,Consumer Cyclical,8.2
-LDI,Financial Services,0.5396
-LDOS,Technology,127.66
-LEE,Communication Services,6.41
-LEN,Consumer Cyclical,78.65
-LENZ,Healthcare,3.19
-LESL,Consumer Cyclical,0.102
-LEVI,Consumer Cyclical,20.85
-LFMD,Healthcare,2.245
-LFST,Healthcare,12.22
-LFT,Real Estate,4.26
-LFVN,Consumer Defensive,5.97
-LGIH,Consumer Cyclical,43.1
-LGND,Healthcare,306.4
-LH,Healthcare,323.13
-LHAI,Real Estate,0.82
-LHX,Industrials,248.77
-LIF,Technology,43.37
-LII,Industrials,363.77
-LILA,Communication Services,8.03
+LCNB,Financial Services,19.239999771118164
+LCUT,Consumer Cyclical,8.199999809265137
+LDI,Financial Services,0.5400000214576721
+LDOS,Technology,127.66000366210938
+LEE,Communication Services,6.409999847412109
+LEN,Consumer Cyclical,78.6500015258789
+LENZ,Healthcare,3.190000057220459
+LESL,Consumer Cyclical,0.06199999898672104
+LEVI,Consumer Cyclical,20.850000381469727
+LFMD,Healthcare,2.25
+LFST,Healthcare,12.220000267028809
+LFT,Real Estate,4.260000228881836
+LFVN,Consumer Defensive,5.96999979019165
+LGIH,Consumer Cyclical,43.099998474121094
+LGND,Healthcare,306.3999938964844
+LH,Healthcare,323.1300048828125
+LHAI,Real Estate,0.8199999928474426
+LHX,Industrials,248.77000427246094
+LIF,Technology,43.369998931884766
+LII,Industrials,363.7699890136719
+LILA,Communication Services,8.029999732971191
 LILAK,Communication Services,8.0
-LIN,Basic Materials,501.89
-LIND,Consumer Cyclical,35.45
-LINE,Real Estate,34.44
-LITS,Healthcare,1.19
-LKFN,Financial Services,58.59
-LKQ,Consumer Cyclical,21.53
-LLY,Healthcare,1283.66
-LLYVA,Communication Services,96.69
-LMAT,Healthcare,83.4
-LMB,Industrials,47.54
-LMNR,Consumer Defensive,11.17
-LMT,Industrials,548.71
-LNAI,Healthcare,0.515
-LNG,Energy,283.35
-LNT,Utilities,68.27
-LOAN,Real Estate,3.42
-LOCL,Consumer Defensive,0.986
-LOVE,Consumer Cyclical,14.69
-LOW,Consumer Cyclical,198.53
-LPG,Energy,52.07
+LIN,Basic Materials,501.8900146484375
+LIND,Consumer Cyclical,35.45000076293945
+LINE,Real Estate,34.439998626708984
+LITS,Healthcare,1.190000057220459
+LKFN,Financial Services,58.59000015258789
+LKQ,Consumer Cyclical,21.530000686645508
+LLY,Healthcare,1283.6600341796875
+LLYVA,Communication Services,96.69000244140625
+LMAT,Healthcare,83.4000015258789
+LMB,Industrials,47.540000915527344
+LMNR,Consumer Defensive,11.170000076293945
+LMT,Industrials,548.7100219726562
+LNAI,Healthcare,0.5149999856948853
+LNG,Energy,283.3500061035156
+LNT,Utilities,68.2699966430664
+LOAN,Real Estate,3.4200000762939453
+LOCL,Consumer Defensive,0.9860000014305115
+LOVE,Consumer Cyclical,14.6899995803833
+LOW,Consumer Cyclical,198.52999877929688
+LPG,Energy,52.06999969482422
 LPSN,Technology,3.0999999046325684
-LQDA,Healthcare,36.35
-LRCX,Technology,263.45
-LTC,Real Estate,42.87
-LTH,Consumer Cyclical,41.17
-LTM,Industrials,47.77
-LUCD,Healthcare,0.3519
-LUCK,Consumer Cyclical,5.09
-LULU,Consumer Cyclical,99.94
-LUMN,Communication Services,4.48
-LUNG,Healthcare,1.82
-LUNR,Industrials,10.54
-LUV,Industrials,39.65
-LVS,Consumer Cyclical,38.17
-LW,Consumer Defensive,53.78
-LWAY,Consumer Defensive,22.42
-LXU,Basic Materials,10.3
+LQDA,Healthcare,36.349998474121094
+LRCX,Technology,263.45001220703125
+LTC,Real Estate,42.869998931884766
+LTH,Consumer Cyclical,41.16999816894531
+LTM,Industrials,47.77000045776367
+LUCD,Healthcare,0.35199999809265137
+LUCK,Consumer Cyclical,5.090000152587891
+LULU,Consumer Cyclical,99.94000244140625
+LUMN,Communication Services,4.480000019073486
+LUNG,Healthcare,1.8200000524520874
+LUNR,Industrials,10.539999961853027
+LUV,Industrials,39.650001525878906
+LVS,Consumer Cyclical,38.16999816894531
+LW,Consumer Defensive,53.779998779296875
+LWAY,Consumer Defensive,22.420000076293945
+LXU,Basic Materials,10.300000190734863
 LYFT,Technology,17.25
-LYTS,Technology,19.36
-LYV,Communication Services,174.79
-MA,Financial Services,620.42
-MAC,Real Estate,23.24
-MAGN,Consumer Defensive,11.07
-MAIN,Financial Services,53.36
-MAMA,Consumer Defensive,13.13
-MAMO,Consumer Cyclical,0.9393
-MAN,Industrials,42.98
-MAR,Consumer Cyclical,397.31
-MARA,Financial Services,7.48
-MAS,Industrials,74.66
-MATW,Industrials,19.42
-MATX,Industrials,237.27
-MBC,Consumer Cyclical,6.69
-MBI,Financial Services,4.42
-MBIN,Financial Services,48.42
-MBIO,Healthcare,0.3795
+LYTS,Technology,19.360000610351562
+LYV,Communication Services,174.7899932861328
+MA,Financial Services,620.4199829101562
+MAC,Real Estate,23.239999771118164
+MAGN,Consumer Defensive,11.069999694824219
+MAIN,Financial Services,53.36000061035156
+MAMA,Consumer Defensive,13.130000114440918
+MAMO,Consumer Cyclical,0.9390000104904175
+MAN,Industrials,42.97999954223633
+MAR,Consumer Cyclical,397.30999755859375
+MARA,Financial Services,7.480000019073486
+MAS,Industrials,74.66000366210938
+MATW,Industrials,19.420000076293945
+MATX,Industrials,237.27000427246094
+MBC,Consumer Cyclical,6.690000057220459
+MBI,Financial Services,4.420000076293945
+MBIN,Financial Services,48.41999816894531
+MBIO,Healthcare,0.3799999952316284
 MBRX,Healthcare,6.19
 MBX,Healthcare,53.5
-MCB,Financial Services,88.87
-MCD,Consumer Cyclical,246.52
-MCHB,Financial Services,14.6
-MCHP,Technology,75.85
-MCHX,Communication Services,1.28
-MCK,Healthcare,1030.12
-MCO,Financial Services,475.35
-MCRB,Healthcare,2.31
-MCS,Communication Services,28.64
-MDAI,Healthcare,1.51
-MDB,Technology,366.18
-MDLZ,Consumer Defensive,63.99
-MDRR,Real Estate,10.7
-MDT,Healthcare,94.63
-MDU,Utilities,19.1
+MCB,Financial Services,88.87000274658203
+MCD,Consumer Cyclical,246.52000427246094
+MCHB,Financial Services,14.600000381469727
+MCHP,Technology,75.8499984741211
+MCHX,Communication Services,1.2799999713897705
+MCK,Healthcare,1030.1199951171875
+MCO,Financial Services,475.3500061035156
+MCRB,Healthcare,2.309999942779541
+MCS,Communication Services,28.639999389648438
+MDAI,Healthcare,1.5099999904632568
+MDB,Technology,366.17999267578125
+MDLZ,Consumer Defensive,63.9900016784668
+MDRR,Real Estate,10.699999809265137
+MDT,Healthcare,94.62999725341797
+MDU,Utilities,19.100000381469727
 MDV,Real Estate,18.049999237060547
-MEC,Industrials,13.89
-MED,Consumer Cyclical,12.06
-MEI,Technology,14.15
+MEC,Industrials,13.890000343322754
+MED,Consumer Cyclical,12.0600004196167
+MEI,Technology,14.149999618530273
 MELI,Consumer Cyclical,1879.5
-MEOH,Basic Materials,63.31
-MET,Financial Services,101.18
+MEOH,Basic Materials,63.310001373291016
+MET,Financial Services,101.18000030517578
 META,Communication Services,694.25
-MFIN,Financial Services,11.2
-MG,Industrials,21.6
-MGM,Consumer Cyclical,28.9
-MGRX,Healthcare,0.3
-MGYR,Financial Services,19.48
-MH,Consumer Defensive,14.27
-MHK,Consumer Cyclical,118.95
-MIDD,Industrials,110.53
-MIND,Technology,4.22
-MIRM,Healthcare,85.07
-MITK,Technology,17.53
-MITT,Real Estate,5.32
-MKC,Consumer Defensive,47.55
-MKC-V,Consumer Defensive,47.98
-MKL,Financial Services,1884.1
-MKTX,Financial Services,164.49
-MLI,Industrials,56.81
-MLM,Basic Materials,507.58
-MLR,Consumer Cyclical,52.29
-MLYS,Healthcare,21.58
-MMI,Real Estate,28.03
-MMM,Industrials,171.37
-MMS,Industrials,61.09
-MNKD,Healthcare,3.1
-MNOV,Healthcare,1.36
-MNSB,Financial Services,23.88
-MNST,Consumer Defensive,47.04
-MO,Consumer Defensive,74.64
-MOD,Consumer Cyclical,146.71
-MOG-A,Industrials,364.43
-MOH,Healthcare,219.72
-MOS,Basic Materials,17.86
-MOVE,Technology,8.54
-MPC,Energy,475.04
-MPWR,Technology,1248.74
-MRAM,Technology,13.21
-MRBK,Financial Services,18.48
-MRCY,Industrials,74.53
-MRK,Healthcare,148.3
-MRKR,Healthcare,1.16
-MRNA,Healthcare,242.08
-MRTN,Industrials,12.52
-MRVI,Healthcare,7.2
-MRVL,Technology,240.42
-MS,Financial Services,180.4
-MSA,Industrials,182.21
-MSCI,Financial Services,591.69
+MFIN,Financial Services,11.199999809265137
+MG,Industrials,21.600000381469727
+MGM,Consumer Cyclical,28.899999618530273
+MGRX,Healthcare,0.30000001192092896
+MGYR,Financial Services,19.479999542236328
+MH,Consumer Defensive,14.270000457763672
+MHK,Consumer Cyclical,118.94999694824219
+MIDD,Industrials,110.52999877929688
+MIND,Technology,4.21999979019165
+MIRM,Healthcare,85.06999969482422
+MITK,Technology,17.530000686645508
+MITT,Real Estate,5.320000171661377
+MKC,Consumer Defensive,47.54999923706055
+MKC-V,Consumer Defensive,47.97999954223633
+MKL,Financial Services,1884.0999755859375
+MKTX,Financial Services,164.49000549316406
+MLI,Industrials,56.810001373291016
+MLM,Basic Materials,507.5799865722656
+MLR,Consumer Cyclical,52.290000915527344
+MLYS,Healthcare,21.579999923706055
+MMI,Real Estate,28.030000686645508
+MMM,Industrials,171.3699951171875
+MMS,Industrials,61.09000015258789
+MNKD,Healthcare,3.0999999046325684
+MNOV,Healthcare,1.3600000143051147
+MNSB,Financial Services,23.8799991607666
+MNST,Consumer Defensive,47.040000915527344
+MO,Consumer Defensive,74.63999938964844
+MOD,Consumer Cyclical,146.7100067138672
+MOG-A,Industrials,364.42999267578125
+MOH,Healthcare,219.72000122070312
+MOS,Basic Materials,17.860000610351562
+MOVE,Technology,8.539999961853027
+MPC,Energy,475.0400085449219
+MPWR,Technology,1248.739990234375
+MRAM,Technology,13.210000038146973
+MRBK,Financial Services,18.479999542236328
+MRCY,Industrials,74.52999877929688
+MRK,Healthcare,148.3000030517578
+MRKR,Healthcare,1.159999966621399
+MRNA,Healthcare,242.0800018310547
+MRTN,Industrials,12.520000457763672
+MRVI,Healthcare,7.199999809265137
+MRVL,Technology,240.4199981689453
+MS,Financial Services,180.39999389648438
+MSA,Industrials,182.2100067138672
+MSCI,Financial Services,591.6900024414062
 MSDL,Financial Services,12.920000076293945
-MSEX,Utilities,54.04
-MSFT,Technology,531.87
-MSGS,Communication Services,413.41
-MSI,Technology,463.46
-MSIF,Financial Services,11.47
-MSPR,Healthcare,0.0001
-MSTR,Technology,142.72
-MTB,Financial Services,218.35
-MTCH,Communication Services,46.53
-MTEX,Consumer Defensive,8.26
-MTG,Financial Services,28.17
-MTH,Consumer Cyclical,60.23
-MTR,Energy,1.95
-MTSI,Technology,262.93
-MTVA,Healthcare,1.29
-MTW,Industrials,22.22
-MTX,Basic Materials,62.56
-MTZ,Industrials,187.34
-MU,Technology,896.07
-MUSA,Consumer Cyclical,537.64
-MUX,Basic Materials,15.79
-MVBF,Financial Services,29.325
-MX,Technology,2.58
-MXL,Technology,73.51
-MYPS,Communication Services,3.81
-MYSE,Technology,1.48
-MYSZ,Consumer Cyclical,1.03
-MZTI,Consumer Defensive,106.01
-NAII,Consumer Defensive,1.16
-NAT,Energy,7.43
-NATR,Consumer Defensive,12.71
-NAVI,Financial Services,8.98
-NBHC,Financial Services,38.03
-NBN,Financial Services,127.43
+MSEX,Utilities,54.040000915527344
+MSFT,Technology,531.8699951171875
+MSGS,Communication Services,413.4100036621094
+MSI,Technology,463.4599914550781
+MSIF,Financial Services,11.470000267028809
+MSPR,Healthcare,9.999999747378752e-05
+MSTR,Technology,142.72000122070312
+MTB,Financial Services,218.35000610351562
+MTCH,Communication Services,46.529998779296875
+MTEX,Consumer Defensive,8.260000228881836
+MTG,Financial Services,28.170000076293945
+MTH,Consumer Cyclical,60.22999954223633
+MTR,Energy,1.9500000476837158
+MTSI,Technology,262.92999267578125
+MTVA,Healthcare,1.2899999618530273
+MTW,Industrials,22.219999313354492
+MTX,Basic Materials,62.560001373291016
+MTZ,Industrials,187.33999633789062
+MU,Technology,896.0700073242188
+MUSA,Consumer Cyclical,537.6400146484375
+MUX,Basic Materials,15.789999961853027
+MVBF,Financial Services,29.325000762939453
+MX,Technology,2.5799999237060547
+MXL,Technology,73.51000213623047
+MYPS,Communication Services,3.809999942779541
+MYSE,Technology,1.4800000190734863
+MYSZ,Consumer Cyclical,1.0299999713897705
+MZTI,Consumer Defensive,106.01000213623047
+NAII,Consumer Defensive,1.159999966621399
+NAT,Energy,7.429999828338623
+NATR,Consumer Defensive,12.710000038146973
+NAVI,Financial Services,8.979999542236328
+NBHC,Financial Services,38.029998779296875
+NBN,Financial Services,127.43000030517578
 NCDL,Financial Services,10.449999809265137
-NCMI,Communication Services,2.05
-NCNO,Technology,21.6
-NDAQ,Financial Services,94.8
-NDSN,Industrials,327.01
-NECB,Financial Services,28.15
-NEE,Utilities,78.86
-NEM,Basic Materials,116.81
-NEON,Technology,0.792
-NEPH,Healthcare,3.52
+NCMI,Communication Services,2.049999952316284
+NCNO,Technology,21.600000381469727
+NDAQ,Financial Services,94.80000305175781
+NDSN,Industrials,327.010009765625
+NECB,Financial Services,28.149999618530273
+NEE,Utilities,78.86000061035156
+NEM,Basic Materials,116.80999755859375
+NEON,Technology,0.7900000214576721
+NEPH,Healthcare,3.5199999809265137
 NFBK,Financial Services,15.3100004196167
-NFE,Energy,3.72
-NFLX,Communication Services,68.69
-NGNE,Healthcare,25.4
-NGVC,Consumer Defensive,29.58
-NHI,Real Estate,66.35
-NI,Utilities,42.76
-NINE,Energy,8.49
-NKE,Consumer Cyclical,37.88
-NKSH,Financial Services,44.01
-NKTR,Healthcare,39.22
-NL,Industrials,6.72
-NNBR,Industrials,3.55
-NNI,Financial Services,126.38
-NNN,Real Estate,41.59
+NFE,Energy,3.7200000286102295
+NFLX,Communication Services,68.69000244140625
+NGNE,Healthcare,25.399999618530273
+NGVC,Consumer Defensive,29.579999923706055
+NHI,Real Estate,66.3499984741211
+NI,Utilities,42.7599983215332
+NINE,Energy,8.489999771118164
+NKE,Consumer Cyclical,37.880001068115234
+NKSH,Financial Services,44.0099983215332
+NKTR,Healthcare,39.220001220703125
+NL,Industrials,6.71999979019165
+NNBR,Industrials,3.549999952316284
+NNI,Financial Services,126.37999725341797
+NNN,Real Estate,41.59000015258789
 NOC,Industrials,534.0
-NOEM,Financial Services,10.585
-NOG,Energy,27.54
-NOMA,Consumer Cyclical,1.53
-NOTE,Technology,0.013
-NOW,Technology,149.54
-NPB,Financial Services,15.78
+NOEM,Financial Services,10.585000038146973
+NOG,Energy,27.540000915527344
+NOMA,Consumer Cyclical,1.5299999713897705
+NOTE,Technology,0.013000000268220901
+NOW,Technology,149.5399932861328
+NPB,Financial Services,15.779999732971191
 NPK,Industrials,149.25
-NPKI,Industrials,10.91
-NPWR,Industrials,1.04
-NRC,Healthcare,20.69
-NRG,Utilities,97.84
+NPKI,Industrials,10.90999984741211
+NPWR,Industrials,1.0399999618530273
+NRC,Healthcare,20.690000534057617
+NRG,Utilities,97.83999633789062
 NRGV,Utilities,2.75
-NRIX,Healthcare,26.1
-NRXP,Healthcare,2.62
-NSC,Industrials,325.57
-NSP,Industrials,50.02
-NSSC,Industrials,36.45
-NTAP,Technology,209.97
-NTGR,Technology,22.94
-NTLA,Healthcare,11.84
-NTNX,Technology,68.2
-NTRS,Financial Services,165.44
-NTST,Real Estate,17.05
-NUAI,Technology,2.82
+NRIX,Healthcare,26.100000381469727
+NRXP,Healthcare,2.619999885559082
+NSC,Industrials,325.57000732421875
+NSP,Industrials,50.02000045776367
+NSSC,Industrials,36.45000076293945
+NTAP,Technology,209.97000122070312
+NTGR,Technology,22.940000534057617
+NTLA,Healthcare,11.84000015258789
+NTNX,Technology,68.19999694824219
+NTRS,Financial Services,165.44000244140625
+NTST,Real Estate,17.049999237060547
+NUAI,Technology,2.819999933242798
 NUE,Basic Materials,261.5
-NUS,Consumer Defensive,4.98
+NUS,Consumer Defensive,4.980000019073486
 NUTR,Consumer Cyclical,9.0
-NUVB,Healthcare,4.77
+NUVB,Healthcare,4.769999980926514
 NUVL,Healthcare,123.95999908447266
-NVDA,Technology,216.47
-NVEC,Technology,102.05
-NVO,Healthcare,39.35
-NVR,Consumer Cyclical,5977.67
-NVST,Healthcare,22.97
-NVTS,Technology,8.74
-NVVE,Consumer Cyclical,0.855
-NWL,Consumer Defensive,5.68
-NWPX,Basic Materials,97.47
-NWS,Communication Services,33.4
-NWSA,Communication Services,30.65
-NXDT,Real Estate,4.82
-NXPI,Technology,237.6
-NXST,Communication Services,169.03
-NXTC,Healthcare,5.44
-NXXT,Utilities,0.5413
-NYC,Real Estate,5.97
-NYT,Communication Services,69.56
-O,Real Estate,56.34
-OBDC,Financial Services,9.92
-OBK,Financial Services,51.83
-OC,Industrials,111.81
-OCC,Technology,13.13
-OCFC,Financial Services,16.09
-OCUL,Healthcare,6.65
-ODFL,Industrials,188.33
-OFG,Financial Services,52.95
-OGN,Healthcare,13.76
-OGS,Utilities,75.6
-OHI,Real Estate,45.55
-OKE,Energy,92.85
-OKLO,Utilities,27.48
-OKTA,Technology,194.02
-OLED,Technology,82.09
+NVDA,Technology,216.47000122070312
+NVEC,Technology,102.05000305175781
+NVO,Healthcare,39.349998474121094
+NVR,Consumer Cyclical,5977.669921875
+NVST,Healthcare,22.969999313354492
+NVTS,Technology,8.739999771118164
+NVVE,Consumer Cyclical,0.8550000190734863
+NWL,Consumer Defensive,5.679999828338623
+NWPX,Basic Materials,97.47000122070312
+NWS,Communication Services,33.400001525878906
+NWSA,Communication Services,30.649999618530273
+NXDT,Real Estate,4.820000171661377
+NXPI,Technology,237.60000610351562
+NXST,Communication Services,169.02999877929688
+NXTC,Healthcare,5.440000057220459
+NXXT,Utilities,0.5410000085830688
+NYC,Real Estate,5.96999979019165
+NYT,Communication Services,69.55999755859375
+O,Real Estate,56.34000015258789
+OBDC,Financial Services,9.920000076293945
+OBK,Financial Services,51.83000183105469
+OC,Industrials,111.80999755859375
+OCC,Technology,13.130000114440918
+OCFC,Financial Services,16.09000015258789
+OCUL,Healthcare,6.650000095367432
+ODFL,Industrials,188.3300018310547
+OFG,Financial Services,52.95000076293945
+OGN,Healthcare,13.760000228881836
+OGS,Utilities,75.5999984741211
+OHI,Real Estate,45.54999923706055
+OKE,Energy,92.8499984741211
+OKLO,Utilities,27.479999542236328
+OKTA,Technology,194.02000427246094
+OLED,Technology,82.08999633789062
 OLMA,Healthcare,7.25
-OLN,Basic Materials,15.15
-OLP,Real Estate,22.04
-OMC,Communication Services,81.11
+OLN,Basic Materials,15.149999618530273
+OLP,Real Estate,22.040000915527344
+OMC,Communication Services,81.11000061035156
 OMCC,Communication Services,4.0
-OMDA,Healthcare,19.34
-OMER,Healthcare,16.55
-OMF,Financial Services,56.02
-ON,Technology,75.62
-ONCO,Healthcare,0.4064
-ONEW,Consumer Cyclical,9.38
-ONTO,Technology,219.62
-OPBK,Financial Services,14.72
-OPCH,Healthcare,31.36
-OPRT,Financial Services,9.15
-OPRX,Healthcare,8.93
-OPTX,Technology,7.06
-OPY,Financial Services,100.66
-ORBS,Consumer Cyclical,0.794
-ORC,Real Estate,4.91
-ORCL,Technology,131.14
-ORIC,Healthcare,13.78
-ORKA,Healthcare,79.09
-ORLY,Consumer Cyclical,90.02
+OMDA,Healthcare,19.34000015258789
+OMER,Healthcare,16.549999237060547
+OMF,Financial Services,56.02000045776367
+ON,Technology,75.62000274658203
+ONCO,Healthcare,0.4059999883174896
+ONEW,Consumer Cyclical,9.380000114440918
+ONTO,Technology,219.6199951171875
+OPBK,Financial Services,14.720000267028809
+OPCH,Healthcare,31.360000610351562
+OPRT,Financial Services,9.149999618530273
+OPRX,Healthcare,8.930000305175781
+OPTX,Technology,7.059999942779541
+OPY,Financial Services,100.66000366210938
+ORBS,Consumer Cyclical,0.7940000295639038
+ORC,Real Estate,4.909999847412109
+ORCL,Technology,131.13999938964844
+ORIC,Healthcare,13.779999732971191
+ORKA,Healthcare,79.08999633789062
+ORLY,Consumer Cyclical,90.0199966430664
 ORRF,Financial Services,42.099998474121094
-OSRH,Healthcare,0.21
-OTIS,Industrials,72.07
-OTLK,Healthcare,0.52
-OVBC,Financial Services,45.91
-OVID,Healthcare,2.36
-OWLT,Healthcare,4.28
-OXM,Consumer Cyclical,26.92
-OXY,Energy,62.92
-PAAS,Basic Materials,44.29
-PACK,Consumer Cyclical,3.39
-PACS,Healthcare,47.72
-PANL,Industrials,7.73
-PANW,Technology,340.28
+OSRH,Healthcare,0.20999999344348907
+OTIS,Industrials,72.06999969482422
+OTLK,Healthcare,0.5199999809265137
+OVBC,Financial Services,45.90999984741211
+OVID,Healthcare,2.359999895095825
+OWLT,Healthcare,4.28000020980835
+OXM,Consumer Cyclical,26.920000076293945
+OXY,Energy,62.91999816894531
+PAAS,Basic Materials,44.290000915527344
+PACK,Consumer Cyclical,3.390000104904175
+PACS,Healthcare,47.720001220703125
+PANL,Industrials,7.730000019073486
+PANW,Technology,340.2799987792969
 PAR,Technology,17.75
-PARR,Energy,85.11
-PATH,Technology,13.43
-PAYC,Technology,262.32
-PAYX,Technology,112.62
+PARR,Energy,85.11000061035156
+PATH,Technology,13.430000305175781
+PAYC,Technology,262.32000732421875
+PAYX,Technology,112.62000274658203
 PB,Financial Services,68.25
 PBF,Energy,83.0
-PBH,Healthcare,49.36
-PBHC,Financial Services,17.24
-PBI,Industrials,17.37
-PBT,Energy,33.92
-PCAR,Industrials,110.07
-PCB,Financial Services,28.17
-PCG,Utilities,13.18
-PCRX,Healthcare,36.38
-PCSA,Healthcare,1.79
-PCT,Industrials,2.93
-PCTY,Technology,170.06
-PCYO,Utilities,10.63
-PD,Technology,16.93
-PDFS,Technology,41.18
-PDLB,Financial Services,20.15
-PDSB,Healthcare,0.9605
-PEBO,Financial Services,37.56
-PECO,Real Estate,38.14
-PEG,Utilities,70.86
-PEGA,Technology,36.23
-PEN,Healthcare,324.34
-PEP,Consumer Defensive,134.02
-PEPG,Healthcare,2.87
-PEW,Industrials,1.96
-PFBC,Financial Services,105.09
-PFE,Healthcare,30.11
-PFG,Financial Services,107.94
-PFGC,Consumer Defensive,97.88
-PFLT,Financial Services,6.26
-PG,Consumer Defensive,159.32
-PGC,Financial Services,43.9
-PGNY,Healthcare,28.58
-PGR,Financial Services,221.93
-PHIN,Consumer Cyclical,58.11
-PHIO,Healthcare,0.8921
-PHM,Consumer Cyclical,114.53
-PHR,Healthcare,12.05
-PHUN,Technology,2.03
-PII,Consumer Cyclical,53.74
-PIII,Healthcare,3.97
-PJT,Financial Services,136.94
-PK,Real Estate,16.57
-PKE,Industrials,25.67
-PKG,Consumer Cyclical,238.92
-PKX,Basic Materials,56.22
-PLAB,Technology,28.62
-PLBY,Consumer Cyclical,1.13
-PLD,Real Estate,127.47
-PLMR,Financial Services,140.53
-PLNT,Consumer Cyclical,52.96
-PLOW,Consumer Cyclical,40.16
-PLSE,Healthcare,50.84
-PLTK,Communication Services,2.08
-PLTR,Technology,192.6
-PLUG,Industrials,1.4
-PM,Consumer Defensive,199.9
-PNBK,Financial Services,0.885
-PNC,Financial Services,220.99
-PNFP,Financial Services,95.29
-PNTG,Healthcare,41.48
-PNW,Utilities,102.9
-PODD,Healthcare,142.64
-POOL,Industrials,171.71
-POR,Utilities,44.31
-POST,Consumer Defensive,78.26
-POWI,Technology,46.97
-PPCB,Healthcare,0.321
-PPG,Basic Materials,108.61
-PPIH,Industrials,29.59
-PPL,Utilities,34.61
-PR,Energy,24.84
-PRDO,Consumer Defensive,33.37
-PRI,Financial Services,284.66
-PRIM,Industrials,72.14
-PRKS,Consumer Cyclical,31.76
-PRLB,Industrials,87.73
-PRLD,Healthcare,3.53
-PRM,Basic Materials,27.07
+PBH,Healthcare,49.36000061035156
+PBHC,Financial Services,17.239999771118164
+PBI,Industrials,17.3700008392334
+PBT,Energy,33.91999816894531
+PCAR,Industrials,110.06999969482422
+PCB,Financial Services,28.170000076293945
+PCG,Utilities,13.180000305175781
+PCRX,Healthcare,36.380001068115234
+PCSA,Healthcare,1.7899999618530273
+PCT,Industrials,2.930000066757202
+PCTY,Technology,170.05999755859375
+PCYO,Utilities,10.630000114440918
+PD,Technology,16.93000030517578
+PDFS,Technology,41.18000030517578
+PDLB,Financial Services,20.149999618530273
+PDSB,Healthcare,0.9610000252723694
+PEBO,Financial Services,37.560001373291016
+PECO,Real Estate,38.13999938964844
+PEG,Utilities,70.86000061035156
+PEGA,Technology,36.22999954223633
+PEN,Healthcare,324.3399963378906
+PEP,Consumer Defensive,134.02000427246094
+PEPG,Healthcare,2.869999885559082
+PEW,Industrials,1.9600000381469727
+PFBC,Financial Services,105.08999633789062
+PFE,Healthcare,30.110000610351562
+PFG,Financial Services,107.94000244140625
+PFGC,Consumer Defensive,97.87999725341797
+PFLT,Financial Services,6.260000228881836
+PG,Consumer Defensive,159.32000732421875
+PGC,Financial Services,43.900001525878906
+PGNY,Healthcare,28.579999923706055
+PGR,Financial Services,221.92999267578125
+PHIN,Consumer Cyclical,58.11000061035156
+PHIO,Healthcare,0.8920000195503235
+PHM,Consumer Cyclical,114.52999877929688
+PHR,Healthcare,12.050000190734863
+PHUN,Technology,2.0299999713897705
+PII,Consumer Cyclical,53.7400016784668
+PIII,Healthcare,3.9700000286102295
+PJT,Financial Services,136.94000244140625
+PK,Real Estate,16.56999969482422
+PKE,Industrials,25.670000076293945
+PKG,Consumer Cyclical,238.9199981689453
+PKX,Basic Materials,56.220001220703125
+PLAB,Technology,28.6200008392334
+PLBY,Consumer Cyclical,1.1299999952316284
+PLD,Real Estate,127.47000122070312
+PLMR,Financial Services,140.52999877929688
+PLNT,Consumer Cyclical,52.959999084472656
+PLOW,Consumer Cyclical,40.15999984741211
+PLSE,Healthcare,50.84000015258789
+PLTK,Communication Services,2.0799999237060547
+PLTR,Technology,192.60000610351562
+PLUG,Industrials,1.399999976158142
+PM,Consumer Defensive,199.89999389648438
+PNBK,Financial Services,0.8899999856948853
+PNC,Financial Services,220.99000549316406
+PNFP,Financial Services,95.29000091552734
+PNTG,Healthcare,41.47999954223633
+PNW,Utilities,102.9000015258789
+PODD,Healthcare,142.63999938964844
+POOL,Industrials,171.7100067138672
+POR,Utilities,44.310001373291016
+POST,Consumer Defensive,78.26000213623047
+POWI,Technology,46.970001220703125
+PPCB,Healthcare,0.32100000977516174
+PPG,Basic Materials,108.61000061035156
+PPIH,Industrials,29.59000015258789
+PPL,Utilities,34.61000061035156
+PR,Energy,24.84000015258789
+PRDO,Consumer Defensive,33.369998931884766
+PRI,Financial Services,284.6600036621094
+PRIM,Industrials,72.13999938964844
+PRKS,Consumer Cyclical,31.760000228881836
+PRLB,Industrials,87.7300033569336
+PRLD,Healthcare,3.5299999713897705
+PRM,Basic Materials,27.06999969482422
 PRMB,Consumer Defensive,20.0
-PRME,Healthcare,3.92
-PRPH,Healthcare,0.0094
-PRPO,Healthcare,21.72
-PRSU,Consumer Cyclical,55.13
-PRTH,Technology,7.81
-PRU,Financial Services,115.27
-PSA,Real Estate,301.76
+PRME,Healthcare,3.9200000762939453
+PRPH,Healthcare,0.009999999776482582
+PRPO,Healthcare,21.719999313354492
+PRSU,Consumer Cyclical,55.130001068115234
+PRTH,Technology,7.809999942779541
+PRU,Financial Services,115.2699966430664
+PSA,Real Estate,301.760009765625
 PSKY,Communication Services,9.775
-PSMT,Consumer Defensive,173.27
-PSQH,Technology,3.08
-PSX,Energy,291.03
-PTC,Technology,193.35
-PTRN,Consumer Cyclical,18.13
-PULM,Healthcare,1.43
-PUMP,Energy,7.63
+PSMT,Consumer Defensive,173.27000427246094
+PSQH,Technology,3.0799999237060547
+PSX,Energy,291.0299987792969
+PTC,Technology,193.35000610351562
+PTRN,Consumer Cyclical,18.1299991607666
+PULM,Healthcare,1.4299999475479126
+PUMP,Energy,7.630000114440918
 PVH,Consumer Cyclical,86.5
-PVLA,Healthcare,123.92
+PVLA,Healthcare,123.91999816894531
 PWR,Industrials,596.0
-PXED,Consumer Defensive,23.82
-PYPL,Financial Services,57.14
-PYXS,Healthcare,1.84
-Q,Technology,118.37
+PXED,Consumer Defensive,23.81999969482422
+PYPL,Financial Services,57.13999938964844
+PYXS,Healthcare,1.840000033378601
+Q,Technology,118.37000274658203
 QCLS,Technology,0.5
-QCOM,Technology,175.71
-QETA,Financial Services,11.55
-QRHC,Industrials,1.19
-QS,Consumer Cyclical,3.98
-QTRX,Healthcare,2.72
-QTTB,Healthcare,8.62
-QUIK,Technology,9.23
-QXO,Industrials,10.46
-RAPP,Healthcare,29.37
-RARE,Healthcare,16.02
-RBA,Industrials,80.9
-RBBN,Technology,1.41
-RBNE,Energy,0.398
-RBOT,Healthcare,0.02
-RCAT,Industrials,4.52
-RCL,Consumer Cyclical,287.81
-RCMT,Industrials,39.05
+QCOM,Technology,175.7100067138672
+QETA,Financial Services,12.350000381469727
+QRHC,Industrials,1.190000057220459
+QS,Consumer Cyclical,3.9800000190734863
+QTRX,Healthcare,2.7200000286102295
+QTTB,Healthcare,8.619999885559082
+QUIK,Technology,9.229999542236328
+QXO,Industrials,10.460000038146973
+RAPP,Healthcare,29.3700008392334
+RARE,Healthcare,16.020000457763672
+RBA,Industrials,80.9000015258789
+RBBN,Technology,1.409999966621399
+RBNE,Energy,0.39800000190734863
+RBOT,Healthcare,0.0010000000474974513
+RCAT,Industrials,4.519999980926514
+RCL,Consumer Cyclical,287.80999755859375
+RCMT,Industrials,39.04999923706055
 RCUS,Healthcare,23.75
-RDDT,Communication Services,155.65
-RDI,Communication Services,1.79
-RDIB,Communication Services,11.51
-RDNT,Healthcare,69.65
-RDY,Healthcare,13.26
-REAL,Consumer Cyclical,10.96
-REBN,Consumer Cyclical,1.76
-REFI,Real Estate,9.08
-REFR,Technology,0.5025
-REG,Real Estate,73.2
-REGN,Healthcare,807.48
-RELY,Technology,24.51
-RENT,Consumer Cyclical,2.02
-RES,Energy,6.26
-REXR,Real Estate,37.11
-REYN,Consumer Cyclical,22.96
-REZI,Industrials,17.07
-RF,Financial Services,27.85
-RFIL,Industrials,7.16
-RGA,Financial Services,267.39
-RGEN,Healthcare,178.88
-RGLD,Basic Materials,238.78
-RGNX,Healthcare,7.4
-RGTI,Technology,11.66
-RHLD,Industrials,112.08
-RICK,Consumer Cyclical,26.26
-RITM,Real Estate,8.64
-RIVN,Consumer Cyclical,12.43
-RJF,Financial Services,155.27
-RKDA,Consumer Defensive,0.153
-RKLB,Industrials,50.9
-RL,Consumer Cyclical,378.42
-RLMD,Healthcare,3.36
+RDDT,Communication Services,155.64999389648438
+RDI,Communication Services,1.7899999618530273
+RDIB,Communication Services,11.510000228881836
+RDNT,Healthcare,69.6500015258789
+RDY,Healthcare,13.260000228881836
+REAL,Consumer Cyclical,10.960000038146973
+REBN,Consumer Cyclical,1.7599999904632568
+REFI,Real Estate,9.079999923706055
+REFR,Technology,0.5
+REG,Real Estate,73.19999694824219
+REGN,Healthcare,807.47998046875
+RELY,Technology,24.510000228881836
+RENT,Consumer Cyclical,2.0199999809265137
+RES,Energy,6.260000228881836
+REXR,Real Estate,37.11000061035156
+REYN,Consumer Cyclical,22.959999084472656
+REZI,Industrials,17.06999969482422
+RF,Financial Services,27.850000381469727
+RFIL,Industrials,7.159999847412109
+RGA,Financial Services,267.3900146484375
+RGEN,Healthcare,178.8800048828125
+RGLD,Basic Materials,238.77999877929688
+RGNX,Healthcare,7.400000095367432
+RGTI,Technology,11.65999984741211
+RHLD,Industrials,112.08000183105469
+RICK,Consumer Cyclical,26.260000228881836
+RITM,Real Estate,8.640000343322754
+RIVN,Consumer Cyclical,12.430000305175781
+RJF,Financial Services,155.27000427246094
+RKDA,Consumer Defensive,0.15299999713897705
+RKLB,Industrials,50.900001525878906
+RL,Consumer Cyclical,378.4200134277344
+RLMD,Healthcare,3.359999895095825
 RMAX,Real Estate,12.359999656677246
-RMBS,Technology,92.42
-RMCF,Consumer Defensive,0.92
-RMCO,Financial Services,2.3156
+RMBS,Technology,92.41999816894531
+RMCF,Consumer Defensive,0.9200000166893005
+RMCO,Financial Services,2.315999984741211
 RMD,Healthcare,245.5
-RNAC,Healthcare,6.395
-RNG,Technology,81.62
-RNR,Financial Services,354.33
-RNST,Financial Services,40.34
-RNTX,Healthcare,0.595
-RNXT,Healthcare,1.2
-ROK,Industrials,427.77
-ROKU,Communication Services,157.57
-ROL,Consumer Cyclical,33.34
-ROP,Technology,398.21
-ROST,Consumer Cyclical,237.24
-RPAY,Technology,4.07
-RPID,Healthcare,0.7717
-RPM,Basic Materials,100.12
-RR,Industrials,1.23
-RRC,Energy,43.63
-RSG,Industrials,232.98
-RSSS,Technology,1.98
-RSVR,Communication Services,9.51
-RTX,Industrials,193.34
-RVLV,Consumer Cyclical,23.2
-RVMD,Healthcare,196.55
-RVPH,Healthcare,0.43
-RVSB,Financial Services,6.02
-RVTY,Healthcare,156.01
-RWT,Real Estate,3.02
-RXO,Industrials,28.67
-RXST,Healthcare,4.88
-RXT,Technology,2.71
-RY,Financial Services,199.05
-RYM,Consumer Defensive,16.58
-RYN,Real Estate,18.81
-SABS,Healthcare,2.88
-SAFE,Real Estate,11.24
-SAFT,Financial Services,104.13
-SAFX,Utilities,0.2068
-SAH,Consumer Cyclical,64.03
-SAIC,Technology,135.1
-SANA,Healthcare,2.36
-SANM,Technology,169.76
-SARO,Industrials,21.43
-SB,Industrials,7.83
-SBAC,Real Estate,180.97
-SBCF,Financial Services,32.8
-SBDS,Consumer Cyclical,2.35
-SBET,Financial Services,7.87
-SBGI,Communication Services,13.3
-SBR,Energy,72.92
-SBSI,Financial Services,30.92
-SBUX,Consumer Cyclical,99.37
-SCCO,Basic Materials,202.34
-SCHW,Financial Services,90.89
-SCI,Consumer Cyclical,82.2
-SCKT,Technology,0.5378
-SCL,Basic Materials,63.19
-SCNX,Healthcare,3.05
-SCOR,Technology,3.44
-SD,Energy,14.28
-SDGR,Healthcare,23.4
+RNAC,Healthcare,6.394999980926514
+RNG,Technology,81.62000274658203
+RNR,Financial Services,354.3299865722656
+RNST,Financial Services,40.34000015258789
+RNTX,Healthcare,0.5950000286102295
+RNXT,Healthcare,1.2000000476837158
+ROK,Industrials,427.7699890136719
+ROKU,Communication Services,157.57000732421875
+ROL,Consumer Cyclical,33.34000015258789
+ROP,Technology,398.2099914550781
+ROST,Consumer Cyclical,237.24000549316406
+RPAY,Technology,4.070000171661377
+RPID,Healthcare,0.7720000147819519
+RPM,Basic Materials,100.12000274658203
+RR,Industrials,1.2300000190734863
+RRC,Energy,43.630001068115234
+RSG,Industrials,232.97999572753906
+RSSS,Technology,1.9800000190734863
+RSVR,Communication Services,9.510000228881836
+RTX,Industrials,193.33999633789062
+RVLV,Consumer Cyclical,23.200000762939453
+RVMD,Healthcare,196.5500030517578
+RVPH,Healthcare,0.46000000834465027
+RVSB,Financial Services,6.019999980926514
+RVTY,Healthcare,156.00999450683594
+RWT,Real Estate,3.0199999809265137
+RXO,Industrials,28.670000076293945
+RXST,Healthcare,4.880000114440918
+RXT,Technology,2.7100000381469727
+RY,Financial Services,199.0500030517578
+RYM,Consumer Defensive,16.579999923706055
+RYN,Real Estate,18.809999465942383
+SABS,Healthcare,2.880000114440918
+SAFE,Real Estate,11.239999771118164
+SAFT,Financial Services,104.12999725341797
+SAFX,Utilities,0.2070000022649765
+SAH,Consumer Cyclical,64.02999877929688
+SAIC,Technology,135.10000610351562
+SANA,Healthcare,2.359999895095825
+SANM,Technology,169.75999450683594
+SARO,Industrials,21.43000030517578
+SB,Industrials,7.829999923706055
+SBAC,Real Estate,180.97000122070312
+SBCF,Financial Services,32.79999923706055
+SBDS,Consumer Cyclical,2.3499999046325684
+SBET,Financial Services,7.869999885559082
+SBGI,Communication Services,13.300000190734863
+SBR,Energy,72.91999816894531
+SBSI,Financial Services,30.920000076293945
+SBUX,Consumer Cyclical,99.37000274658203
+SCCO,Basic Materials,202.33999633789062
+SCHW,Financial Services,90.88999938964844
+SCI,Consumer Cyclical,82.19999694824219
+SCKT,Technology,0.5400000214576721
+SCL,Basic Materials,63.189998626708984
+SCNX,Healthcare,3.049999952316284
+SCOR,Technology,3.440000057220459
+SD,Energy,14.279999732971191
+SDGR,Healthcare,23.399999618530273
 SDHC,Real Estate,10.0
-SDOT,Consumer Defensive,7.46
-SEAT,Communication Services,2.79
-SEG,Real Estate,22.55
-SEI,Energy,63.34
-SENEB,Consumer Defensive,179.2171
-SEPN,Healthcare,39.35
-SERA,Healthcare,2.03
-SF,Financial Services,66.83
-SFBS,Financial Services,39.59
-SFM,Consumer Defensive,64.72
-SFNC,Financial Services,22.77
-SGI,Consumer Cyclical,63.94
-SGLY,Industrials,0.5003
-SGRP,Industrials,0.6
-SGU,Energy,13.06
-SHBI,Financial Services,22.93
-SHFS,Financial Services,0.09
-SHLS,Technology,7.47
-SI,Unknown,18.72
-SIBN,Healthcare,20.54
-SID,Basic Materials,1.16
-SILO,Healthcare,1.2
-SINT,Healthcare,1.72
-SIRI,Communication Services,27.16
-SITC,Real Estate,3.64
-SITM,Technology,497.11
-SJM,Consumer Defensive,129.67
-SKIL,Consumer Defensive,5.38
-SKM,Communication Services,32.27
-SKT,Real Estate,35.62
-SKWD,Financial Services,61.67
+SDOT,Consumer Defensive,7.460000038146973
+SEAT,Communication Services,2.7899999618530273
+SEG,Real Estate,22.549999237060547
+SEI,Energy,63.34000015258789
+SENEB,Consumer Defensive,179.22000122070312
+SEPN,Healthcare,39.349998474121094
+SERA,Healthcare,2.0299999713897705
+SF,Financial Services,66.83000183105469
+SFBS,Financial Services,39.59000015258789
+SFM,Consumer Defensive,64.72000122070312
+SFNC,Financial Services,22.770000457763672
+SGI,Consumer Cyclical,63.939998626708984
+SGLY,Industrials,0.5
+SGRP,Industrials,0.6499999761581421
+SGU,Energy,13.0600004196167
+SHBI,Financial Services,22.93000030517578
+SHFS,Financial Services,0.09000000357627869
+SHLS,Technology,7.46999979019165
+SI,Unknown,18.719999313354492
+SIBN,Healthcare,20.540000915527344
+SID,Basic Materials,1.159999966621399
+SILO,Healthcare,1.2000000476837158
+SINT,Healthcare,1.7200000286102295
+SIRI,Communication Services,27.15999984741211
+SITC,Real Estate,3.640000104904175
+SITM,Technology,497.1099853515625
+SJM,Consumer Defensive,129.6699981689453
+SKIL,Consumer Defensive,5.380000114440918
+SKM,Communication Services,32.27000045776367
+SKT,Real Estate,35.619998931884766
+SKWD,Financial Services,61.66999816894531
 SKYT,Technology,32.459999084472656
-SKYX,Industrials,0.9018
-SLB,Energy,49.98
-SLDB,Healthcare,6.4
-SLG,Real Estate,47.02
-SLGN,Consumer Cyclical,39.9
-SLM,Financial Services,22.26
-SLVM,Basic Materials,31.88
-SMA,Real Estate,34.59
-SMBK,Financial Services,50.12
-SMCI,Technology,32.47
-SMHI,Industrials,8.51
-SMMT,Healthcare,16.09
-SMP,Consumer Cyclical,37.11
-SMR,Industrials,5.58
-SMRT,Technology,1.19
-SMSI,Technology,2.535
-SMXT,Technology,4.67
-SNAP,Communication Services,6.38
+SKYX,Industrials,0.9020000100135803
+SLB,Energy,49.97999954223633
+SLDB,Healthcare,6.400000095367432
+SLG,Real Estate,47.02000045776367
+SLGN,Consumer Cyclical,39.900001525878906
+SLM,Financial Services,22.260000228881836
+SLVM,Basic Materials,31.8799991607666
+SMA,Real Estate,34.59000015258789
+SMBK,Financial Services,50.119998931884766
+SMCI,Technology,32.470001220703125
+SMHI,Industrials,8.510000228881836
+SMMT,Healthcare,16.09000015258789
+SMP,Consumer Cyclical,37.11000061035156
+SMR,Industrials,5.579999923706055
+SMRT,Technology,1.190000057220459
+SMSI,Technology,2.5399999618530273
+SMXT,Technology,4.670000076293945
+SNAP,Communication Services,6.380000114440918
 SND,Energy,5.25
-SNDK,Technology,1365.38
-SNDR,Industrials,30.86
-SNES,Basic Materials,0.689
-SNFCA,Financial Services,9.09
-SNPS,Technology,447.62
-SNTI,Healthcare,0.2277
-SNX,Technology,248.21
-SO,Utilities,90.71
-SOC,Energy,3.16
-SOLS,Basic Materials,63.06
-SOLV,Healthcare,86.39
-SOTK,Technology,5.28
-SPB,Consumer Defensive,79.56
-SPFI,Financial Services,43.78
-SPG,Real Estate,206.99
-SPGI,Financial Services,438.12
-SPRY,Healthcare,4.29
-SPSC,Technology,87.99
-SPXC,Industrials,164.24
-SQFT,Real Estate,0.7977
-SRBK,Financial Services,18.71
-SRE,Utilities,82.81
-SRFM,Industrials,0.8762
-SRG,Real Estate,1.6
-SRRK,Healthcare,41.36
-SRTA,Healthcare,4.69
-SRZN,Healthcare,25.14
-SSD,Basic Materials,180.6
-SSNC,Technology,86.92
-SST,Industrials,2.1
-SSTI,Technology,8.4
-STI,Industrials,4.53
-STIM,Healthcare,1.98
-STLD,Basic Materials,244.37
-STM,Technology,45.78
-STRS,Real Estate,17.97
-STT,Financial Services,166.58
-STTK,Healthcare,5.84
-STZ,Consumer Defensive,132.74
-SU,Energy,78.44
-SUNE,Technology,2.1
-SUPN,Healthcare,41.23
+SNDK,Technology,1365.3800048828125
+SNDR,Industrials,30.860000610351562
+SNES,Basic Materials,0.6890000104904175
+SNFCA,Financial Services,9.09000015258789
+SNPS,Technology,447.6199951171875
+SNTI,Healthcare,0.2280000001192093
+SNX,Technology,248.2100067138672
+SO,Utilities,90.70999908447266
+SOC,Energy,3.1600000858306885
+SOLS,Basic Materials,63.060001373291016
+SOLV,Healthcare,86.38999938964844
+SOTK,Technology,5.28000020980835
+SPB,Consumer Defensive,79.55999755859375
+SPFI,Financial Services,43.779998779296875
+SPG,Real Estate,206.99000549316406
+SPGI,Financial Services,438.1199951171875
+SPRY,Healthcare,4.289999961853027
+SPSC,Technology,87.98999786376953
+SPXC,Industrials,164.24000549316406
+SQFT,Real Estate,0.7979999780654907
+SRBK,Financial Services,18.709999084472656
+SRE,Utilities,82.80999755859375
+SRFM,Industrials,0.8759999871253967
+SRG,Real Estate,1.600000023841858
+SRRK,Healthcare,41.36000061035156
+SRTA,Healthcare,4.690000057220459
+SRZN,Healthcare,25.139999389648438
+SSD,Basic Materials,180.60000610351562
+SSNC,Technology,86.91999816894531
+SST,Industrials,2.0999999046325684
+SSTI,Technology,8.399999618530273
+STI,Industrials,4.53000020980835
+STIM,Healthcare,1.9800000190734863
+STLD,Basic Materials,244.3699951171875
+STM,Technology,45.779998779296875
+STRS,Real Estate,18.0
+STT,Financial Services,166.5800018310547
+STTK,Healthcare,5.840000152587891
+STZ,Consumer Defensive,132.74000549316406
+SU,Energy,78.44000244140625
+SUNE,Technology,2.0999999046325684
+SUPN,Healthcare,41.22999954223633
 SVCO,Technology,6.5
-SVRA,Healthcare,4.76
-SVV,Consumer Cyclical,9.99
-SWK,Industrials,94.09
-SWKS,Technology,81.3
-SWX,Utilities,89.12
-SXC,Basic Materials,9.81
-SXI,Industrials,260.62
-SXTP,Healthcare,0.9222
-SYF,Financial Services,73.36
-SYK,Healthcare,304.4
-SYRE,Healthcare,91.4
-SYY,Consumer Defensive,82.89
-TACT,Technology,4.665
-TAIT,Technology,1.81
+SVRA,Healthcare,4.760000228881836
+SVV,Consumer Cyclical,9.989999771118164
+SWK,Industrials,94.08999633789062
+SWKS,Technology,81.30000305175781
+SWX,Utilities,89.12000274658203
+SXC,Basic Materials,9.8100004196167
+SXI,Industrials,260.6199951171875
+SXTP,Healthcare,0.921999990940094
+SYF,Financial Services,73.36000061035156
+SYK,Healthcare,304.3999938964844
+SYRE,Healthcare,91.4000015258789
+SYY,Consumer Defensive,82.88999938964844
+TACT,Technology,4.670000076293945
+TAIT,Technology,1.809999942779541
 TALK,Healthcare,5.25
-TALO,Energy,18.05
-TAP,Consumer Defensive,40.2
-TAP-A,Consumer Defensive,39.52
-TASK,Technology,8.42
+TALO,Energy,18.049999237060547
+TAP,Consumer Defensive,40.20000076293945
+TAP-A,Consumer Defensive,39.52000045776367
+TASK,Technology,8.420000076293945
 TAYD,Industrials,55.0
-TBCH,Technology,15.95
-TBI,Industrials,8.29
+TBCH,Technology,15.949999809265137
+TBI,Industrials,8.289999961853027
 TCBS,Financial Services,17.0
-TCBX,Financial Services,41.35
-TCI,Real Estate,48.18
-TD,Financial Services,122.13
-TDC,Technology,32.45
-TDG,Industrials,1143.06
-TDOC,Healthcare,6.21
-TDUP,Consumer Cyclical,2.29
-TDY,Technology,632.21
-TE,Industrials,2.47
-TEAM,Technology,221.11
-TECH,Healthcare,72.58
-TECX,Healthcare,21.825
-TELA,Healthcare,1.09
-TENX,Healthcare,1.63
-TER,Technology,336.59
-TFC,Financial Services,47.33
-TFIN,Financial Services,62.22
-TFSL,Financial Services,16.4
-TFX,Healthcare,131.15
-TG,Industrials,8.04
+TCBX,Financial Services,41.349998474121094
+TCI,Real Estate,48.18000030517578
+TD,Financial Services,122.12999725341797
+TDC,Technology,32.45000076293945
+TDG,Industrials,1143.06005859375
+TDOC,Healthcare,6.210000038146973
+TDUP,Consumer Cyclical,2.2899999618530273
+TDY,Technology,632.2100219726562
+TE,Industrials,2.4700000286102295
+TEAM,Technology,221.11000061035156
+TECH,Healthcare,72.58000183105469
+TECX,Healthcare,21.829999923706055
+TELA,Healthcare,1.090000033378601
+TENX,Healthcare,1.6299999952316284
+TER,Technology,336.5899963378906
+TFC,Financial Services,47.33000183105469
+TFIN,Financial Services,62.220001220703125
+TFSL,Financial Services,16.399999618530273
+TFX,Healthcare,131.14999389648438
+TG,Industrials,8.039999961853027
 TGT,Consumer Defensive,154.0
-TH,Industrials,15.47
-THC,Healthcare,272.32
-THO,Consumer Cyclical,66.62
-TIL,Healthcare,5.94
-TITN,Industrials,22.15
-TJX,Consumer Cyclical,146.99
-TKO,Communication Services,179.64
-TKR,Industrials,113.3
-TLPH,Healthcare,1.07
-TLS,Technology,4.41
-TLYS,Consumer Cyclical,4.63
-TMC,Basic Materials,2.62
+TH,Industrials,15.470000267028809
+THC,Healthcare,272.32000732421875
+THO,Consumer Cyclical,66.62000274658203
+TIL,Healthcare,5.940000057220459
+TITN,Industrials,22.149999618530273
+TJX,Consumer Cyclical,146.99000549316406
+TKO,Communication Services,179.63999938964844
+TKR,Industrials,113.30000305175781
+TLPH,Healthcare,1.0700000524520874
+TLS,Technology,4.409999847412109
+TLYS,Consumer Cyclical,4.630000114440918
+TMC,Basic Materials,2.619999885559082
 TMDX,Healthcare,74.75
-TMO,Healthcare,687.37
+TMO,Healthcare,687.3699951171875
 TMUS,Communication Services,157.75
-TNC,Industrials,66.09
-TNDM,Healthcare,16.52
+TNC,Industrials,66.08999633789062
+TNDM,Healthcare,16.520000457763672
 TNGX,Healthcare,25.25
-TNYA,Healthcare,0.41
+TNYA,Healthcare,0.4099999964237213
 TOL,Consumer Cyclical,135.5
-TOMZ,Industrials,1.47
-TORO,Energy,3.93
-TOST,Technology,32.65
-TPC,Industrials,77.9
-TPG,Financial Services,44.38
-TPL,Energy,342.17
-TPR,Consumer Cyclical,117.55
-TRAK,Technology,7.26
-TRC,Industrials,16.15
-TRDA,Healthcare,4.99
-TRGP,Energy,292.65
-TRIN,Financial Services,16.11
-TRMB,Technology,62.12
-TRN,Industrials,24.82
-TRNO,Real Estate,65.28
-TRNS,Industrials,81.71
-TROW,Financial Services,102.13
-TRP,Energy,61.79
-TRST,Financial Services,54.73
-TRTX,Real Estate,5.86
-TRUP,Financial Services,28.76
-TRV,Financial Services,395.73
-TSBK,Financial Services,45.85
-TSCO,Consumer Cyclical,32.91
-TSLA,Consumer Cyclical,373.71
-TSN,Consumer Defensive,55.38
-TSSI,Technology,7.19
-TTD,Communication Services,12.65
-TTEK,Industrials,34.96
-TTI,Energy,5.36
-TTWO,Communication Services,206.7
-TUSK,Industrials,2.69
-TWI,Industrials,6.76
-TWIN,Industrials,25.09
-TWST,Healthcare,142.7
-TXN,Technology,277.78
-TXT,Industrials,77.15
-TYL,Technology,377.17
-TYRA,Healthcare,20.47
-TZOO,Communication Services,5.15
-UA,Consumer Cyclical,4.76
-UAA,Consumer Cyclical,4.88
-UAL,Industrials,97.77
-UBER,Technology,68.94
-UCB,Financial Services,35.47
-UCFI,Consumer Defensive,5.511
-UDR,Real Estate,34.41
-UFI,Consumer Cyclical,5.46
-UFPI,Basic Materials,79.83
-UG,Consumer Defensive,6.76
-UGI,Utilities,38.58
-UHS,Healthcare,185.61
-UIS,Technology,2.22
-ULS,Industrials,73.36
-ULTA,Consumer Cyclical,602.9
-UMBF,Financial Services,133.09
-UMH,Real Estate,15.38
-UNCY,Healthcare,3.8
-UNF,Industrials,266.63
-UNFI,Consumer Defensive,46.48
-UNH,Healthcare,419.26
-UNIT,Real Estate,5.51
-UNP,Industrials,287.61
-UNTY,Financial Services,56.36
-UONEK,Communication Services,3.82
-UP,Industrials,3.2
-UPS,Industrials,98.52
-URI,Industrials,1043.87
-USB,Financial Services,59.09
-USGO,Basic Materials,5.545
-UTHR,Healthcare,553.88
-UTI,Consumer Defensive,20.59
-UVE,Financial Services,47.89
-UVV,Consumer Defensive,39.64
-V,Financial Services,406.57
-VABK,Financial Services,49.41
-VANI,Healthcare,1.12
-VC,Consumer Cyclical,87.78
-VECO,Technology,44.57
-VEEV,Healthcare,318.67
-VERU,Healthcare,2.38
-VFC,Consumer Cyclical,17.46
-VG,Energy,12.61
-VGAS,Utilities,0.99
-VHI,Basic Materials,14.37
-VICI,Real Estate,23.37
-VIR,Healthcare,10.74
-VIRC,Consumer Cyclical,6.42
-VIRT,Financial Services,57.05
-VITL,Consumer Defensive,8.21
-VKTX,Healthcare,26.71
-VLGEA,Consumer Defensive,43.11
-VLO,Energy,433.42
-VLTO,Industrials,101.36
-VLY,Financial Services,12.89
-VMC,Basic Materials,261.92
-VMI,Industrials,450.68
-VNO,Real Estate,33.11
-VNOM,Energy,45.85
-VNT,Technology,33.99
-VOYA,Financial Services,95.61
-VPG,Technology,61.51
-VRDN,Healthcare,22.43
-VRM,Financial Services,8.23
-VRNS,Technology,48.68
-VRRM,Technology,3.01
-VRSK,Industrials,190.87
-VRSN,Technology,306.53
-VRTS,Financial Services,120.08
-VRTX,Healthcare,514.65
-VSEC,Industrials,156.52
-VST,Utilities,150.32
-VSTD,Consumer Cyclical,0.0003
-VSTS,Industrials,14.49
-VTR,Real Estate,86.49
-VTRS,Healthcare,18.65
-VTS,Energy,18.14
-VTSI,Technology,2.63
-VUZI,Technology,2.2
-VZ,Communication Services,44.54
-W,Consumer Cyclical,113.56
-WAB,Industrials,283.43
+TOMZ,Industrials,1.4700000286102295
+TORO,Energy,3.930000066757202
+TOST,Technology,32.650001525878906
+TPC,Industrials,77.9000015258789
+TPG,Financial Services,44.380001068115234
+TPL,Energy,342.1700134277344
+TPR,Consumer Cyclical,117.55000305175781
+TRAK,Technology,7.260000228881836
+TRC,Industrials,16.149999618530273
+TRDA,Healthcare,4.989999771118164
+TRGP,Energy,292.6499938964844
+TRIN,Financial Services,16.110000610351562
+TRMB,Technology,62.119998931884766
+TRN,Industrials,24.81999969482422
+TRNO,Real Estate,65.27999877929688
+TRNS,Industrials,81.70999908447266
+TROW,Financial Services,102.12999725341797
+TRP,Energy,61.790000915527344
+TRST,Financial Services,54.72999954223633
+TRTX,Real Estate,5.860000133514404
+TRUP,Financial Services,28.760000228881836
+TRV,Financial Services,395.7300109863281
+TSBK,Financial Services,45.849998474121094
+TSCO,Consumer Cyclical,32.90999984741211
+TSLA,Consumer Cyclical,373.7099914550781
+TSN,Consumer Defensive,55.380001068115234
+TSSI,Technology,7.190000057220459
+TTD,Communication Services,12.649999618530273
+TTEK,Industrials,34.959999084472656
+TTI,Energy,5.360000133514404
+TTWO,Communication Services,206.6999969482422
+TUSK,Industrials,2.690000057220459
+TWI,Industrials,6.760000228881836
+TWIN,Industrials,25.09000015258789
+TWST,Healthcare,142.6999969482422
+TXN,Technology,277.7799987792969
+TXT,Industrials,77.1500015258789
+TYL,Technology,377.1700134277344
+TYRA,Healthcare,20.469999313354492
+TZOO,Communication Services,5.150000095367432
+UA,Consumer Cyclical,4.760000228881836
+UAA,Consumer Cyclical,4.880000114440918
+UAL,Industrials,97.7699966430664
+UBER,Technology,68.94000244140625
+UCB,Financial Services,35.470001220703125
+UCFI,Consumer Defensive,5.510000228881836
+UDR,Real Estate,34.40999984741211
+UFI,Consumer Cyclical,5.460000038146973
+UFPI,Basic Materials,79.83000183105469
+UG,Consumer Defensive,6.760000228881836
+UGI,Utilities,38.58000183105469
+UHS,Healthcare,185.61000061035156
+UIS,Technology,2.2200000286102295
+ULS,Industrials,73.36000061035156
+ULTA,Consumer Cyclical,602.9000244140625
+UMBF,Financial Services,133.08999633789062
+UMH,Real Estate,15.380000114440918
+UNCY,Healthcare,3.799999952316284
+UNF,Industrials,266.6300048828125
+UNFI,Consumer Defensive,46.47999954223633
+UNH,Healthcare,419.260009765625
+UNIT,Real Estate,5.510000228881836
+UNP,Industrials,287.6099853515625
+UNTY,Financial Services,56.36000061035156
+UONEK,Communication Services,3.819999933242798
+UP,Industrials,3.200000047683716
+UPS,Industrials,98.5199966430664
+URI,Industrials,1043.8699951171875
+USB,Financial Services,59.09000015258789
+USGO,Basic Materials,5.545000076293945
+UTHR,Healthcare,553.8800048828125
+UTI,Consumer Defensive,20.59000015258789
+UVE,Financial Services,47.88999938964844
+UVV,Consumer Defensive,39.63999938964844
+V,Financial Services,406.57000732421875
+VABK,Financial Services,49.40999984741211
+VANI,Healthcare,1.1200000047683716
+VC,Consumer Cyclical,87.77999877929688
+VECO,Technology,44.56999969482422
+VEEV,Healthcare,318.6700134277344
+VERU,Healthcare,2.380000114440918
+VFC,Consumer Cyclical,17.459999084472656
+VG,Energy,12.609999656677246
+VGAS,Utilities,0.9900000095367432
+VHI,Basic Materials,14.369999885559082
+VICI,Real Estate,23.3700008392334
+VIR,Healthcare,10.739999771118164
+VIRC,Consumer Cyclical,6.420000076293945
+VIRT,Financial Services,57.04999923706055
+VITL,Consumer Defensive,8.210000038146973
+VKTX,Healthcare,26.709999084472656
+VLGEA,Consumer Defensive,43.11000061035156
+VLO,Energy,433.4200134277344
+VLTO,Industrials,101.36000061035156
+VLY,Financial Services,12.890000343322754
+VMC,Basic Materials,261.9200134277344
+VMI,Industrials,450.67999267578125
+VNO,Real Estate,33.11000061035156
+VNOM,Energy,45.849998474121094
+VNT,Technology,33.9900016784668
+VOYA,Financial Services,95.61000061035156
+VPG,Technology,61.5099983215332
+VRDN,Healthcare,22.43000030517578
+VRM,Financial Services,8.229999542236328
+VRNS,Technology,48.68000030517578
+VRRM,Technology,3.009999990463257
+VRSK,Industrials,190.8699951171875
+VRSN,Technology,306.5299987792969
+VRTS,Financial Services,120.08000183105469
+VRTX,Healthcare,514.6500244140625
+VSEC,Industrials,156.52000427246094
+VST,Utilities,150.32000732421875
+VSTD,Consumer Cyclical,0.0013000000035390258
+VSTS,Industrials,14.489999771118164
+VTR,Real Estate,86.48999786376953
+VTRS,Healthcare,18.649999618530273
+VTS,Energy,18.139999389648438
+VTSI,Technology,2.630000114440918
+VUZI,Technology,2.200000047683716
+VZ,Communication Services,44.540000915527344
+W,Consumer Cyclical,113.55999755859375
+WAB,Industrials,283.42999267578125
 WABC,Financial Services,61.0
-WAL,Financial Services,75.3
-WAT,Healthcare,442.83
-WATT,Technology,8.7
-WAY,Healthcare,28.81
+WAL,Financial Services,75.30000305175781
+WAT,Healthcare,442.8299865722656
+WATT,Technology,8.699999809265137
+WAY,Healthcare,28.809999465942383
 WBD,Communication Services,30.950000762939453
 WBS,Financial Services,77.56999969482422
-WBTN,Communication Services,9.57
-WCC,Industrials,341.63
-WDAY,Technology,203.98
-WDC,Technology,364.32
-WEAV,Healthcare,7.39
+WBTN,Communication Services,9.569999694824219
+WCC,Industrials,341.6300048828125
+WDAY,Technology,203.97999572753906
+WDC,Technology,364.32000732421875
+WEAV,Healthcare,7.389999866485596
 WEC,Utilities,108.75
-WELL,Real Estate,238.08
+WELL,Real Estate,238.0800018310547
 WEST,Consumer Defensive,9.25
-WETH,Technology,0.937
-WEX,Technology,185.12
-WEYS,Consumer Cyclical,51.53
-WF,Financial Services,70.82
-WFC,Financial Services,82.2
-WFCF,Industrials,14.9
-WFG,Basic Materials,66.39
-WGO,Consumer Cyclical,23.17
-WGS,Healthcare,68.74
-WH,Consumer Cyclical,77.35
-WHD,Energy,62.45
-WHG,Financial Services,18.74
-WHR,Consumer Cyclical,28.04
-WHWK,Healthcare,3.19
-WIT,Technology,2.05
-WK,Technology,79.26
-WLDN,Industrials,72.72
-WLFC,Industrials,36.96
-WLK,Basic Materials,62.69
-WLYB,Communication Services,53.04
-WM,Industrials,231.73
-WMB,Energy,70.33
-WMT,Consumer Defensive,117.85
-WNEB,Financial Services,13.53
+WETH,Technology,0.9369999766349792
+WEX,Technology,185.1199951171875
+WEYS,Consumer Cyclical,51.529998779296875
+WF,Financial Services,70.81999969482422
+WFC,Financial Services,82.19999694824219
+WFCF,Industrials,14.899999618530273
+WFG,Basic Materials,66.38999938964844
+WGO,Consumer Cyclical,23.170000076293945
+WGS,Healthcare,68.73999786376953
+WH,Consumer Cyclical,77.3499984741211
+WHD,Energy,62.45000076293945
+WHG,Financial Services,18.739999771118164
+WHR,Consumer Cyclical,28.040000915527344
+WHWK,Healthcare,3.190000057220459
+WIT,Technology,2.049999952316284
+WK,Technology,79.26000213623047
+WLDN,Industrials,72.72000122070312
+WLFC,Industrials,36.959999084472656
+WLK,Basic Materials,62.689998626708984
+WLYB,Communication Services,53.040000915527344
+WM,Industrials,231.72999572753906
+WMB,Energy,70.33000183105469
+WMT,Consumer Defensive,117.8499984741211
+WNEB,Financial Services,13.529999732971191
 WOLF,Technology,23.5
-WPM,Basic Materials,131.23
-WRB,Financial Services,73.15
-WRBY,Healthcare,25.62
-WSBC,Financial Services,37.63
+WPM,Basic Materials,131.22999572753906
+WRB,Financial Services,73.1500015258789
+WRBY,Healthcare,25.6200008392334
+WSBC,Financial Services,37.630001068115234
 WSC,Industrials,16.25
-WSO,Industrials,301.85
-WSO-B,Industrials,284.2
-WST,Healthcare,388.78
-WT,Financial Services,21.61
-WTFC,Financial Services,146.28
-WTI,Energy,3.95
-WTRG,Utilities,40.98
-WWD,Industrials,324.07
-WWW,Consumer Cyclical,20.15
-WY,Real Estate,19.34
-WYNN,Consumer Cyclical,77.45
-XAIR,Healthcare,2.19
-XBIT,Healthcare,2.02
-XBP,Technology,2.93
-XEL,Utilities,76.68
-XHR,Real Estate,19.54
-XMTR,Industrials,93.64
-XOM,Energy,177.86
-XPEL,Consumer Cyclical,45.16
+WSO,Industrials,301.8500061035156
+WSO-B,Industrials,287.5
+WST,Healthcare,388.7799987792969
+WT,Financial Services,21.610000610351562
+WTFC,Financial Services,146.27999877929688
+WTI,Energy,3.950000047683716
+WTRG,Utilities,40.97999954223633
+WWD,Industrials,324.07000732421875
+WWW,Consumer Cyclical,20.149999618530273
+WY,Real Estate,19.34000015258789
+WYNN,Consumer Cyclical,77.44999694824219
+XAIR,Healthcare,2.190000057220459
+XBIT,Healthcare,2.0199999809265137
+XBP,Technology,2.930000066757202
+XEL,Utilities,76.68000030517578
+XHR,Real Estate,19.540000915527344
+XMTR,Industrials,93.63999938964844
+XOM,Energy,177.86000061035156
+XPEL,Consumer Cyclical,45.15999984741211
 XPO,Industrials,186.75
-XPON,Industrials,3.91
-XPRO,Energy,16.36
-XTIA,Industrials,0.728
-XYL,Industrials,105.02
-XYZ,Technology,78.1
-XZO,Financial Services,16.57
-YELP,Communication Services,20.28
-YEXT,Technology,7.16
-YHC,Consumer Defensive,1.78
+XPON,Industrials,3.9100000858306885
+XPRO,Energy,16.360000610351562
+XTIA,Industrials,0.7279999852180481
+XYL,Industrials,105.0199966430664
+XYZ,Technology,78.0999984741211
+XZO,Financial Services,16.56999969482422
+YELP,Communication Services,20.280000686645508
+YEXT,Technology,7.159999847412109
+YHC,Consumer Defensive,1.7799999713897705
 ZBH,Healthcare,96.0
-ZBRA,Technology,384.08
-ZETA,Technology,33.55
-ZS,Technology,214.51
+ZBRA,Technology,384.0799865722656
+ZETA,Technology,33.54999923706055
+ZS,Technology,214.50999450683594
 ZTEK,Healthcare,0.492000013589859
-ZTS,Healthcare,80.04
-ZVIA,Consumer Defensive,1.22
-ZWS,Industrials,47.71
+ZTS,Healthcare,80.04000091552734
+ZVIA,Consumer Defensive,1.2200000286102295
+ZWS,Industrials,47.709999084472656
