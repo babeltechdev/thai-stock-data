@@ -1,6 +1,6 @@
 sector,model,MAD,n,_fallback_by_n
 Basic Materials,fcf_dcf,1.695719636942148,88,False
-Communication Services,fcf_dcf,1.88367700870497,38,False
+Communication Services,fcf_dcf,1.8836770349310137,38,False
 Consumer Cyclical,fcf_dcf,2.377952383522875,141,False
 Consumer Defensive,fcf_dcf,2.623069032234217,99,False
 Energy,eps_dcf,2.1021555598469943,22,False
@@ -9,5 +9,5 @@ Healthcare,fcf_dcf,1.94384510059977,49,False
 Industrials,fcf_dcf,1.4495001686206743,170,False
 Real Estate,fcf_dcf,1.8246873989792483,104,False
 Technology,fcf_dcf,2.699003424246607,61,False
-Unknown,eps_dcf,2.8204484861404464,11,False
+Unknown,fcf_dcf,3.1086492181944445,11,False
 Utilities,fcf_dcf,2.8828584057404454,37,False
